@@ -1,0 +1,1770 @@
+# 書式:
+# @L 番号 | タイトル            … Lecture
+# @pg ページ番号
+# @E ID | 出典ラベル | 日本語     … 表現（=英語形 / !注意 / x誤り）
+# @S 出典ラベル | 日本文         … 例文（>英文。複数可） ~ 表現ID : ハイライト断片 ; 断片
+@L 01 | 主語の決定
+@pg 12
+@E P1-1 | 原則1-1 | ～が増えている（数・量が主語）
+= The number of + 可算名詞の複数形 + is increasing
+= The amount of + 不可算名詞 + is increasing
+! the number / amount という単数の名詞が主語なので動詞は is（are ではない）。a number of + 複数名詞 (= several) は複数扱い。
+! 「～が減っている」は increasing を decreasing にする。
+! Cars in this town are increasing. のような形は受験の作文では避ける。
+@S 例1 | この町の車が増えている
+> The number of cars in this town is increasing.
+~ P1-1 : The number of ; is increasing
+@S 例2 | 大気中の二酸化炭素が年々増加している
+> The amount of carbon dioxide in the atmosphere is increasing year by year.
+~ R1-2 : The amount of ; is increasing
+@E P1-2 | 原則1-2 | ～が増えている（増えつつある～が…している）
+= An increasing number of + 可算名詞の複数形 + are (V)ing
+= An increasing amount of + 不可算名詞 + is (V)ing
+! more and more ～ とすることもできるが口語的。
+@S 例3 | 最近では海外に行く日本人が増えている
+> These days an increasing number of Japanese people are traveling abroad.
+~ P1-2 : an increasing number of ; are traveling
+~ F1-1 : These days
+@pg 13
+@E X1-1 | 例題1 解説1 | ～若者が増えている
+= the number of young people who (V) is increasing
+= an increasing number of young people are (V)ing
+= more and more young people are (V)ing
+x the number of young people who (V) are increasing
+x ～ increasing more and more（increase に more の意味が含まれる）
+x young people who watching（young people who watch / young people watching は可）
+! young people to (V) は「これから～する若者」の意味になり不適切。
+@E X1-2 | 例題1 解説2 | 最近では
+= nowadays [these days / today]
+x thesedays / in these days
+! この文で recently（現在完了）を使うのは避ける。nowadays などを強調する場合は文末においてもよい。
+@pg 14
+@E F1-1 | 頻出表現1-① | 最近、この頃（現在時制で）
+= nowadays / these days
+! 普通、現在時制の文で使用。過去と比べた場合の生活の変化を述べる文で使われることが多い。these days の方が口語的。
+@S 頻出表現1 例 | 今日では、マラリアは薬で治療可能である
+> Nowadays malaria can be treated with medicine.
+~ F1-1 : Nowadays
+@E F1-2 | 頻出表現1-② | 最近（現在完了・過去時制で）
+= recently
+! 普通、現在完了および過去時制の文で使用。現在時制の文では通例用いない。
+! lately は recently とほぼ同義だがより口語的で、過去時制では使わない。
+@S 頻出表現1 例 | フランス語を始めたのはつい最近のことだ
+> I have only recently started to learn French.
+~ F1-2 : recently
+@E X1-3 | 例題1 解説3 | テレビではなくユーチューブを見る
+= watch YouTube instead of [rather than] TV
+= turn to YouTube instead of watching TV
+= not watch TV but YouTube [watch not TV but YouTube]
+= prefer watching YouTube to (watching) TV
+! 「見る」は watch が適切（see ～ は「～が見えている」）。turn to ～ は「（人・辞書など）に頼る」。
+! (V) instead of (V)ing は可だが、(V) without (V)ing は「V と V が同時にできる」ことが前提なので不適切。
+@pg 15
+@E F2-1 | 頻出表現2-① | ～に視線を向ける
+= look at ～
+! look は自動詞なので at が必要。
+@S 頻出表現2 例 | この絵を見てください
+> Look at this picture.
+~ F2-1 : Look at
+@E F2-2 | 頻出表現2-② | ～が見えている
+= see ～
+@S 頻出表現2 例 | 振り返ると虹が見えた
+> When I looked back, I saw a rainbow.
+~ F2-2 : saw
+@E F2-3 | 頻出表現2-③ | （動く、変化するもの）をじっと見る
+= watch ～
+! watch her bag「彼女のカバンを見張る」、watch your language「言葉遣いに注意する」のような使い方もある。
+@S 頻出表現2 例 | この動物園ではペンギンをすぐ近くで見ることができる
+> In this zoo, you can watch penguins at a close range.
+~ F2-3 : watch
+@S 例題1 | 最近では、テレビではなくユーチューブを見る若者が増えている。
+> Nowadays, the number of young people who watch YouTube instead of TV is increasing.
+> These days, an increasing number of young people are turning to YouTube instead of watching TV.
+~ X1-2 : Nowadays ; These days
+~ F1-1 : Nowadays ; These days
+~ X1-1 : the number of young people who ; is increasing ; an increasing number of young people are
+~ P1-1 : the number of ; is increasing
+~ P1-2 : an increasing number of
+~ X1-3 : watch YouTube instead of TV ; turning to YouTube instead of watching TV
+~ F2-3 : watch YouTube
+@pg 16
+@E P2-1 | 原則2-1 | ～が少ない・ほとんどない
+= Few + 可算名詞の複数形 + ～
+= Little + 不可算名詞 + ～
+! few は「少ない」という否定的な意味、a few は「少しある」という肯定的な意味。little / a little も同様。
+! 口語では very few / only a few / not many の方が好まれる。few of ～（ある特定の集団）の形もある。
+! 比較級 fewer は数、less は量に用いるのが原則。
+@S 例1 | 昨日その会議に出席した人は少なかった
+> Few people attended the meeting yesterday.
+~ P2-1 : Few people
+@S 例2 | この動物に関して手に入るデータはほとんどない
+> Very little data is available on this animal.
+~ P2-1 : Very little data
+@S 注意 例 | その女性のうち、独身者はほとんどいなかった
+> Very few of the women were single.
+~ R2-3 : Very few of
+@E P2-2 | 原則2-2 | ～が少しある
+= A few + 可算名詞の複数形 + ～
+= A little + 不可算名詞 + ～
+@S 例3 | 昨日その会議に出席した人が少しいた
+> A few people attended the meeting yesterday.
+~ P2-2 : A few people
+@S 例4 | この仕事には時間が少し必要だ
+> A little time will be necessary for this task.
+~ P2-2 : A little time
+@pg 17
+@E X2-1 | 例題2 解説1 | 先日、琵琶湖まで車で行ってきた
+= I drove to Lake Biwa the other day [a few days ago].
+= The other day [A few days ago], I [we] drove to Lake Biwa.
+! 「先日」という「過去」を表す副詞があるので現在完了は使えない。湖の名前に冠詞は不要。
+x I have gone to the Biwa lake by my car.
+@E F3-1 | 頻出表現3-① | 車で行く
+= drive to ～（○ go to ～ by car）
+! by + 無冠詞の名詞。「私の車で」なら in my car。
+@E F3-2 | 頻出表現3-② | 歩いて行く
+= walk to ～（○ go to ～ on foot）
+@E F3-3 | 頻出表現3-③ | 飛行機で行く
+= fly to ～（○ go to ～ by plane）
+@E F3-4 | 頻出表現3-④ | 電車で行く
+= take the [a] train to ～（○ go to ～ by train）
+@pg 18
+@E X2-2 | 例題2 解説2 | たぶん日曜日の朝だったせいか S V
+= S V(,) probably because it was Sunday morning.
+= Probably because it was Sunday morning, S V.
+! 「時間・寒暖」などを示す場合の主語は it。in the morning には the が必要だが、this / tomorrow / yesterday / Sunday などがつく場合は the は不要。
+! because of Sunday morning だけでは不自然。
+@E F4-1 | 頻出表現4-① | （特定のものが）～にある
+= 特定の名詞 + is + 場所
+x There is my room on the ninth floor of this hotel.
+@S 頻出表現4 例 | 私の部屋はこのホテルの9階にある
+> My room is on the ninth floor of this hotel.
+~ F4-1 : My room is on
+@E F4-2 | 頻出表現4-② | （不特定のものが）～にある
+= There is [are] + 不特定の名詞 + 場所
+! There is [are] ～ の「～」には原則として不特定の名詞がくる。～が単数形なら is、複数形なら are。
+! many / few などは単独で補語の位置に置かれることは少ない（× People are many on the street.）。
+x A movie theater is on the ninth floor of this hotel.
+@S 頻出表現4 例 | このホテルの9階には映画館がある
+> There is a movie theater on the ninth floor of this hotel.
+~ F4-2 : There is a movie theater
+@S 頻出表現4 例 | 通りには人が多い
+> There are many people on the street.
+~ F4-2 : There are many people
+@pg 19
+@E X2-3 | 例題2 解説3 | 道には車が少なかった
+= there was (very) little traffic on the road(s)
+= there was not much traffic on the road(s)
+= there were (very) few cars on the road(s)
+= there were not many cars on the road(s)
+! 「交通量がほとんどなかった」と考えるのが適切。little [only a little / very little] + 不可算名詞、few [only a few / very few] + 可算名詞の複数形。
+! 「道」に street は不可（street は「市街の道」）。特定できるので the をつける。
+! because of ～ より because S' V' を使った方が意味がはっきりする。
+@S 例題2 | 先日、琵琶湖まで車で行ってきた。たぶん日曜日の朝だったせいか道には車が少なかった。
+> I drove to Lake Biwa the other day. There was little traffic on the roads, probably because it was Sunday morning.
+> A few days ago, I drove to Lake Biwa. Probably because it was Sunday morning, there were very few cars on the road.
+~ X2-1 : I drove to Lake Biwa the other day ; A few days ago, I drove to Lake Biwa
+~ F3-1 : drove to
+~ X2-2 : probably because it was Sunday morning ; Probably because it was Sunday morning
+~ X2-3 : There was little traffic on the roads ; there were very few cars on the road
+~ P2-1 : little traffic ; very few cars
+@pg 20
+@E P3-1 | 原則3-1 | （可算名詞の複数形）～が多い
+= Many [A large [good / great] number of] ～
+! many / much は口語では主に疑問文・否定文に用いる。many は比較的堅い文では肯定文でも使える。so many / as many / too many は肯定文でも使われる。
+! most [many] of ～ の後には the people / their dogs / them などの限定された語句が置かれる（× most of people）。
+@S 例1 | 多くの鯨が沖合で見つかった
+> A large number of whales were spotted off the coast.
+~ P3-1 : A large number of
+@E P3-2 | 原則3-2 | （不可算名詞）～が多い
+= A great [good] deal of [A large amount of] ～
+! much は学術論文などを除き、肯定文では避けるのが普通。
+@S 例2 | 陶器の運搬にはかなりの注意が必要だ
+> A great deal of care is needed for the transport of pottery.
+~ P3-2 : A great deal of
+@E P3-3 | 原則3-3 | ～が大半である
+= Most [The majority of] ～
+! almost「ほとんど」は副詞なので名詞を修飾できない（× Almost people）。例外は everyone, everything, nobody, nothing など。
+x Almost people ～
+@S 例3 | その部屋でリラックスしている人が大半であった
+> Most people relaxed in the room.
+~ P3-3 : Most people
+@pg 21
+@E X3-1 | 例題3 解説1 | ～な人が大勢いるのは残念だ
+= It is a pity that many people ～.
+= Unfortunately(,) a large number of people ～.
+= It is regrettable [unfortunate] that many people ～.
+! a pity は「世の中の数多くの残念なことのうちの1つ」の意味なので a が必要。it's a shame は口語。regrettable は形容詞なので a は不要。
+! a lot of ～ は口語体。～ are many は避けるべき言い方。
+@E F5-1 | 頻出表現5 | ～は残念だ
+= It is a pity that S' V'.
+! pity は可算名詞なので a が必要。「とても残念だ」なら It is a great pity that S' V'.
+@S 頻出表現5 例 | 今日の若者が自国の文化にあまり興味を示さないのは残念だ
+> It is a pity that young people today do not take much interest in their own culture.
+~ F5-1 : It is a pity that
+@pg 22
+@E X3-2 | 例題3 解説2 | ～と勘違いしている
+= mistakenly [wrongly] believe [think / assume] (that) S' V'
+= have the [a] mistaken [wrong] idea [notion / impression] that S' V'
+= believe [think] (that) S' V'. However, they are (absolutely) wrong.
+= be under the illusion that S' V'
+! 動詞 mistake は〈mistake A for B〉「AをBと取り違える」か S be mistaken「～は間違っている」の形で用いるのが普通。
+@E F6-1 | 頻出表現6 | ～と勘違いしている／錯覚にとらわれている
+= mistakenly believe that S' V'
+= be under the illusion that S' V'
+! mistakenly は wrongly でも可。believe は think, assume でも可。
+@S 頻出表現6 例 | 日本人は単一民族だと勘違いしている人がいる
+> Some people mistakenly believe that the Japanese are a homogeneous people.
+~ F6-1 : mistakenly believe that
+@E X3-3 | 例題3 解説3 | ～しさえすれば…
+= S only have to [have only to] (V) (in order) to (V')
+= S can V' just [× only] by (V)ing
+= as long as [so long as] ～, S can V.
+! just by ～「ただ～によって」を only by ～ とすると「～によってはじめて」の意味になりずれる。only have to は just have to でもよい。
+@pg 23
+@E X3-4 | 例題3 解説4 | 数学問題集に載っている問題の解答をすべて暗記する
+= memorize all the answers to the problems [questions] in math workbooks
+= learn by heart all the solutions to the problems in math exercise books
+! answers to ～「～の答え」、solutions to ～「～の解法」はいずれも to を使う。
+@E X3-5 | 例題3 解説5 | 数学の実力が身につく
+= acquire mathematical [math] skills [ability]
+= improve [develop] one's math skills
+= improve [develop] one's ability to solve math problems
+= be excellent [very good] at math
+= solve difficult math problems
+@S 例題3 | 数学問題集に載っている問題の解答をすべて暗記さえすれば、数学の実力が身につくと勘違いしている人が大勢いるのは残念だ。
+> It is a pity that many people mistakenly believe that they only have to memorize all the answers to the problems in math workbooks in order to acquire mathematical skills.
+> Unfortunately, many people are under the illusion that they can become excellent at math just by memorizing all the solutions to the problems in math exercise books.
+~ X3-1 : It is a pity that many people ; Unfortunately, many people
+~ F5-1 : It is a pity that
+~ X3-2 : mistakenly believe that ; are under the illusion that
+~ F6-1 : mistakenly believe that ; are under the illusion that
+~ X3-3 : only have to ; in order to ; just by memorizing
+~ X3-4 : memorize all the answers to the problems in math workbooks ; memorizing all the solutions to the problems in math exercise books
+~ X3-5 : acquire mathematical skills ; become excellent at math
+@pg 24
+@E P4-1 | 原則4-1 | ～な…もある（～な人もいる）
+= some + 複数形の名詞
+! 〈some + 複数形の名詞〉は明確な数はわからないが全体の一部としてそういう人[物]がいることを示す。〈some of + 複数形の名詞〉は間違い。〈some of one's / the + 複数形の名詞〉なら可。
+x some of students
+@S 例1 | 人前で自分の考えを表現することを難しいと考える人もいる
+> Some people find it difficult to express themselves in public.
+~ P4-1 : Some people
+@S 注意 例 | 私のクラスメートの中には寮で暮らしている者もいる
+> Some of my classmates live in a dormitory.
+~ R4-4 : Some of my classmates
+@E P4-2 | 原則4-2 | ～な…もある（関係詞節つき）
+= there are (some) + 複数形の名詞 + 関係代名詞節
+! some はなくても意味に変化はない。
+@S 例2 | あなたと論じたい問題がある
+> There are (some) issues which I want to discuss with you.
+~ P4-2 : There are (some) issues which
+@E P4-3 | 原則4-3 | ～な者もいれば…な者もいる
+= some + 複数形の名詞 while [and / but] others
+! 「～な人もいれば、…な人もいる。さらには≈もいる」は some ～, others ..., and still others ≈ とする。
+@S 例3 | 犬が好きな人もいれば、そうでない人もいる
+> Some people like dogs, while others do not.
+~ P4-3 : Some people ; while others
+@pg 25
+@E X4-1 | 例題4 解説1 | ～な人もいれば、～な人もいる
+= Some students [people] ..., while [and / but] others ....
+= There are (some) students [people] ..., while [and / but] others ....
+x Some of people ～ / the others / on the other hand でつなぐ
+! on the other hand は副詞句なので文と文をつなげない（S V. On the other hand, S V. とするか S V; on the other hand, S V.）。
+! the others とすると「その他の人のすべて」の意味になる。
+@E X4-2 | 例題4 解説2 | 宿題を片づける
+= finish [do / complete] their homework
+= get their homework finished [done / completed]
+x homeworks（homework は不可算名詞）
+@pg 26
+@E F7-1 | 頻出表現7-① | 仕事、作業
+= work（不可算名詞）
+! homework「宿題」、housework「家事」も不可算。a job「（お金をもらってやる）仕事」は可算名詞。
+@E F7-2 | 頻出表現7-② | 作品
+= a work（可算名詞）
+! literary works「文学作品」、fireworks「花火」
+@E X4-3 | 例題4 解説3 | 夏休みが始まってすぐ
+= as soon as the summer vacation starts [begins / comes]
+= soon [right] after the summer vacation starts [begins / comes]
+= at the beginning [the start / × the first half] of the summer vacation
+= early [× soon] in the summer vacation
+= When the summer vacation begins [starts / comes], S V right away [immediately].
+! イギリス英語の「夏休み」は (the) summer holidays。学生の夏休みは the をつける。個人によって期間が異なる場合は one's summer vacation。
+@S 解説 例 | 夏休みは子どもたちが日常の束縛から解放される時期である
+> Summer vacation is a time when children are freed from the constraints of routine.
+~ X4-3 : Summer vacation
+@E X4-4 | 例題4 解説4 | あわててやる
+= finish [do / complete] it in a hurry
+= hastily finish [do / complete] it
+= rush [hurry] to finish [do / complete] it
+= in a hurry to finish [do / complete] it
+= begin theirs
+! 英語では「やる」の目的語 it などが必要。
+@pg 27
+@E X4-5 | 例題4 解説5 | 新学期の始まる直前に
+= right [just / a few days] before the new (school) term [semester] starts [begins]
+= right [just] before the start [beginning] of the new (school) term
+= just in time for the new term
+= when the summer vacation is nearly over [nearly finishes]
+= at the end of the summer vacation
+! 「3学期制の学期」は term、「2学期制の学期」なら semester。
+@S 例題4 | 夏休みが始まってすぐに宿題を片づける人もいれば、新学期の始まる直前にあわててやる人もいる。
+> Some students finish their homework as soon as the summer vacation begins, but others rush to complete it right before the new school term starts.
+> Some people finish their homework at the beginning of the summer vacation, while others begin theirs just before the new term starts.
+~ X4-1 : Some students ; but others ; Some people ; while others
+~ P4-3 : Some students ; but others ; Some people ; while others
+~ X4-2 : finish their homework
+~ X4-3 : as soon as the summer vacation begins ; at the beginning of the summer vacation
+~ X4-4 : rush to complete it ; begin theirs
+~ X4-5 : right before the new school term starts ; just before the new term starts
+@pg 28
+@E P5-1 | 原則5-1 | ～な（人がいればその）人は（だれでも）
+= Anyone who ～
+! anyone の代わりに a man / a person は避ける。否定文では使えない（No one who ～ とするか 2・3 を用いる）。
+! someone who ～ は「（現に存在する）～な人」の意味で区別が必要。
+@S 例1 | 人生で成功したければ健全な身体と健全な精神が必要だ
+> Anyone who wants to be successful in life needs a healthy body and a healthy mind.
+~ P5-1 : Anyone who
+@S 注意 例 | 週末に働ける人を探しています
+> We are looking for someone who can work on weekends.
+~ R5-4 : someone who
+@E P5-2 | 原則5-2 | ～な人は（複数）
+= Those [People] who ～
+! 1（Anyone who）の複数形と考えておけばよい。
+@S 例2 | 怠け者は成功しないだろう
+> Those who are lazy will not succeed.
+~ P5-2 : Those who
+@E P5-3 | 原則5-3 | ～な人は（一般論の you）
+= If you ～, you ...
+! 「一般論」に用いられる you は単数扱い。
+@S 例3 | 成功したければ健全な身体と健全な精神が必要だ
+> If you want to be successful, you need a healthy body and a healthy mind.
+~ P5-3 : If you ; you need
+@pg 29
+@E X5-1 | 例題5 解説1 | 知的職業に従事する者は～
+= those [people] who have jobs that involve intellectual work [a job that involves intellectual work] ～
+= if you have jobs that involve intellectual work [a job that involves intellectual work], you ～
+= anyone who is engaged in a (specialized) profession
+! 「従事する」は have a job で十分。work は「仕事」の意味では不可算なので a work は不可。an intellectual job は不十分。an occupation「職業」も可。
+@E X5-2 | 例題5 解説2 | ときには～が必要だ
+= S sometimes need to [have to] (V)
+= it is sometimes necessary (for S) to (V) [that S' (should) V']
+! need は動詞として need to (V) の形で用いる。助動詞の need V は普通、疑問文・否定文に限られる。頻度の副詞の位置は「not の置かれるところと同じ」。
+@pg 30
+@E X5-3 | 例題5 解説3 | 視点を変えてみる
+= look at things from a different point of view [different points of view / a different perspective / different perspectives]
+= look at things in a different way [in another way]
+= change your perspective [your viewpoint]
+x change viewpoint（your がないのは不可）
+@E F8-1 | 頻出表現8 | 視点、見方（…な視点から）
+= from a ... point of view
+@S 頻出表現8 例 | この問題は世界的な視野から見るべきだ
+> You should look at this problem from a global point of view.
+~ F8-1 : from a global point of view
+@E X5-4 | 例題5 解説4 | 将来、医師や技師や薬剤師のような職業に従事する若い人
+= young people who are going to be doctors, engineers, or pharmacists [〈英〉chemists]
+= young people who are going to [want to / hope to / △will] work in fields such as medicine, engineering, or pharmaceuticals
+= young people who are going to [want to / hope to / △will] have [be engaged in] jobs in fields such as medicine, engineering, or pharmaceuticals
+! 具体例を列挙する場合は such as ～ がベスト。like ～ は口語的。for example は普通、文に対して用いる。
+! 「将来」は are going to などを用いれば不要。
+@pg 31
+@E X5-5 | 例題5 解説5 | それは～についても当てはまる
+= this is also the case with ～
+= this also applies to ～
+= this is also true of [for] ～
+! 「それは」は文を指すので it ではなく this / that を用いる。
+@E F9-1 | 頻出表現9 | S は～にも当てはまる
+= This is also the case with ～.
+= This is also true of [for] ～. / This also applies to ～.
+@S 頻出表現9 例1 | 子どもは十分な睡眠が必要である。これは動物の赤ちゃんにも当てはまる
+> Children need to have enough sleep. This is also the case with baby animals.
+~ F9-1 : This is also the case with
+@S 頻出表現9 例2 | この地域の人々は毎月川を清掃していたが、その習慣は廃れてしまった
+> People in this area used to clean the river every month. However, this is not the case today.
+~ F9-1 : this is not the case
+@S 頻出表現9 注意 例 | 赤ん坊は多くの睡眠を必要とする。そしてこれは動物の赤ちゃんにも当てはまる
+> Babies need plenty of sleep, and this is also true of baby animals.
+~ F9-1 : this is also true of
+@pg 32
+@S 例題5 | 知的職業に従事する者は、ときには視点を変えてみることが必要です。それは将来、医師や技師や薬剤師のような職業に従事する若い人についても当てはまります。
+> Those who have jobs that involve intellectual work sometimes need to look at things from a different point of view. This is also the case with young people who are going to be doctors, engineers, or pharmacists.
+> If you have a specialized profession, you sometimes have to look at things in a different way. This also applies to young people who want to work in fields such as medicine, engineering, or pharmaceuticals.
+~ X5-1 : Those who have jobs that involve intellectual work ; If you have a specialized profession, you
+~ P5-2 : Those who
+~ P5-3 : If you ; you sometimes
+~ X5-2 : sometimes need to ; sometimes have to
+~ X5-3 : look at things from a different point of view ; look at things in a different way
+~ F8-1 : from a different point of view
+~ X5-5 : This is also the case with ; This also applies to
+~ F9-1 : This is also the case with ; This also applies to
+~ X5-4 : young people who are going to be doctors, engineers, or pharmacists ; young people who want to work in fields such as medicine, engineering, or pharmaceuticals
+@pg 33
+@E C1-1 | コラム | 英作文の鉄則：できるだけ「人」を主語にする
+= 「モノ」ではなく「人」を主語にする（a problem arises → you have a problem）
+! 「モノ」を主語にするとコロケーションを間違える可能性が高くなる。
+! It is happy to (V) ... とは言えない（It is fortunate to (V) なら可）。You will feel [be] happy で始めればミスなく書ける。
+@S コラム 1 | お腹が痛い。
+> I have a stomachache.
+~ C1-1 : I have
+@S コラム 2 | 勤勉は成功の鍵だ。
+> If you want to succeed, you should work hard.
+> Diligence is the key [one of the keys] to success.
+~ C1-1 : If you want to succeed, you
+~ P5-3 : If you ; you should
+@S コラム 3 | 気の合う友達と時間を過ごすのは幸せだ。
+> You will feel happy when you spend time with friends you can relax with.
+~ C1-1 : You will feel happy
+@pg 34
+@E P6-1 | 原則6-1 | 一般論の主語：個人の体験を一般化している文
+= you
+! 「私の体験」にちがいないが、一般化できるので you を用いるのが適切。
+@S 例1 | 最近ではほとんどあらゆるものが自動販売機で買える
+> Nowadays you can buy almost anything from vending machines.
+~ P6-1 : you
+@E P6-2 | 原則6-2 | 一般論の主語：忠告あるいは訓示的で説教じみている文
+= you
+@S 例2 | サングラスをかけたまま人と話すべきではない
+> You should not talk to people with your sunglasses on.
+~ P6-2 : You
+@E P6-3 | 原則6-3 | 一般論の主語：ある集団を代表して筆者が「私たち」と語る文
+= we
+! we は they の対比として用いられる（「過去の人間」「動物」などとの対比）。
+@S 例3 | 私たちは未来の世代のために地球を守るべきだ
+> We should protect the Earth for future generations.
+~ P6-3 : We
+@E P6-4 | 原則6-4 | すべての人々
+= everyone
+! 「すべての人々」は all people より everyone。「すべての人が～というわけではない」は not everyone、「すべての人が～ではない」は no one を主語にする。
+! everyone, no one 自体は単数扱いだが、それらを指す代名詞は they / their / them が普通。
+@S 例4 | 誰にでも母親はいる
+> Everyone has their mothers.
+~ P6-4 : Everyone has
+@S 例5 | 誰もがスポーツを楽しむわけではない
+> Not everyone enjoys sport.
+~ P6-4 : Not everyone
+@pg 35
+@E X6-1 | 例題6 解説1 | 現代の生活では
+= in our (modern / contemporary) lifestyles
+= in modern [contemporary] life
+= these days [nowadays]
+x In the modern life
+@E F10-1 | 頻出表現10-① | 都会の生活
+= city life / urban life / life in cities
+! life は原則として不可算名詞。lead [live] a ～ life の形では可算（lead a happy / miserable / monotonous life）。
+@E F10-2 | 頻出表現10-② | 田舎の生活
+= country life / rural life / life in the country
+@E F10-3 | 頻出表現10-③ | 東京での生活
+= life in Tokyo
+@E F10-4 | 頻出表現10-④ | 日々の生活で
+= in (daily) life / in our everyday [daily] lives
+@E F10-5 | 頻出表現10 注意 | ～な生活を送る／生活様式
+= lead [live] a happy / miserable / monotonous life
+= lifestyle（a healthy lifestyle「健康な生活」）
+@pg 36
+@E X6-2 | 例題6 解説2 | だれでもストレスがたまりやすい
+= we often feel stressed (out)
+= we have [suffer from] a large [an enormous] amount of [(口語) a lot of] stress
+! 主語は「過去の人」に対する「現代人」と考え we とする。everyone は誇張しすぎ。stress は原則不可算。worries「心配事」でも可。
+! 「～しやすい」は tend to (V) / be apt to (V) も可。have stress だけだと「（良い意味で）ストレスをもつ」になり不可。
+@E X6-3 | 例題6 解説3 | 適度な運動をするとか、音楽を聴くとか～などして
+= get [〈英〉take] some (moderate) exercise, listen to music, or ～
+= get some exercise, listen to your favorite music, or ～
+! 〈some + 不可算名詞〉で「ある程度の～」。get exercise は「（テニス・散歩などの）運動をする」。do a ～ exercise は腕立て伏せ等の特殊な運動に限る。
+! 特定の音楽ではないので the music は不可。「～を聴く」は listen to ～（hear は不適切）。
+@E X6-4 | 例題6 解説4 | 自然の中で過ごす
+= spend time in natural surroundings
+= spend time outdoors [spend time out in nature]
+= spend time in the mountains [× in mountains] or by the sea
+! 「自然」の nature は不可算で the をつけない。live in nature は英語として通じない。spend は他動詞なので spend outdoors は不可。
+@pg 37
+@E F11-1 | 頻出表現11-① | 自然を守る
+= protect the (natural) environment
+! nature は日本語の「自然」より意味が広い。「自然環境」は natural surroundings「身近な自然環境」や the (natural) environment「（地球の）自然環境」が無難。
+@E F11-2 | 頻出表現11-② | 自然を破壊する
+= harm [damage] the (natural) environment
+! destroy ～「跡かたもなく～を破壊する」は大げさ。
+@E F11-3 | 頻出表現11-③ | ～は緑が多い
+= ～ be green
+@E F11-4 | 頻出表現11-④ | 自然と調和する
+= live in harmony with nature
+@E X6-5 | 例題6 解説5 | ～などしてストレスを解消する方がいいだろう
+= we should ～ (in order) to relieve [reduce] (our) stress
+= it is important [it is a good idea] to try to relieve stress by ～
+! 「（ストレス・不安・痛み）を解消する」は relieve が適切。get rid of ～ も可。must / had better V は強すぎる。「～など」は訳出不要。
+@S 例題6 | 現代の生活では、だれでもストレスがたまりやすい。適度な運動をするとか、音楽を聴くとか、自然の中で過ごすなどして、ストレスを解消する方がよいでしょう。
+> In our modern lifestyles, we often have a large amount of stress. In order to relieve it, we should try to get some exercise, listen to music, or spend time in natural surroundings.
+> These days people often feel stressed. They should reduce their stress by getting some exercise, listening to their favorite music, or spending time in the mountains or by the sea.
+~ X6-1 : In our modern lifestyles ; These days
+~ X6-2 : we often have a large amount of stress ; people often feel stressed
+~ P6-3 : we
+~ X6-5 : In order to relieve it, we should ; should reduce their stress by
+~ X6-3 : get some exercise, listen to music ; getting some exercise, listening to their favorite music
+~ X6-4 : spend time in natural surroundings ; spending time in the mountains or by the sea
+@pg 38
+@E P7-1 | 原則7-1 | ～のうち…が
+= 数字 + out of (every) + 数字 + ～ + 動詞
+! 〈One in + 数字 + ～(複数形) + 動詞〉という形も可能。every は入れないのが普通。
+@S 例1 | 結婚した3組のカップルのうち1組は離婚している
+> One out of (every) three married couples ends up getting divorced.
+~ P7-1 : One out of (every) three
+@S 例2 | その200人のうち3人が救助された
+> Three out of the two hundred people were rescued.
+~ P7-1 : Three out of
+@E P7-2 | 原則7-2 | ～のうち…%が
+= 数字 + percent [× percents] of ～ + 動詞
+! percent は複数形にしない（英：per cent）。percent of ～ は「～」が単数なら単数扱い、複数なら複数扱い。
+! 「20～30%の人々」は twenty to thirty percent of people。
+! 〈分数 + of ～〉でも表現できる。分子が複数なら two-thirds。
+@S 例3 | 都市では人口の約10%の人が花粉症に悩まされている
+> In cities, about ten percent of the population suffers from hay fever.
+~ P7-2 : ten percent of the population suffers
+@S 注意 例 | 日本の国土の3分の2は森林である
+> Two-thirds of the total land area of Japan is made up of forests.
+~ R7-4 : Two-thirds of
+@pg 39
+@E X7-1 | 例題7 解説1 | ～と言う人もいる
+= some people say [complain] (that) ～
+= there are (some) people who say [complain] (that) ～
+! some of people は典型的な間違い。内容がマイナスなので complain も可。文語体では接続詞 that は省略しない方がよい。
+@E X7-2 | 例題7 解説2 | 10人のうち4人が
+= (as many as) four out of (every) ten students
+= (as many as) four in ten students
+! 40 percent of the students who ～ も可能だが和文英訳としては好ましくない。every を追加すると「10人につき4人が」。「多さ」を強調する場合は as many as を追加。
+x four people from ten people
+@pg 40
+@E X7-3 | 例題7 解説3 | 大学に入ろうとする
+= want to [are trying to] get into university [college]
+= will [are going to] get [are getting] into university [college]
+= want to [are trying to] be university [college] students
+= want to [are trying to] go to university [college]
+! go to school などと同様に university / college には冠詞は不要。
+x enter into college
+@E F12-1 | 頻出表現12-① | 大学生
+= a university student [an undergraduate]
+! アメリカ英語では固有名詞を除き一般的に「大学」の意味で college が用いられる。イギリスの口語では uni。
+@E F12-2 | 頻出表現12-② | 大学院生
+= a graduate student
+@E F12-3 | 頻出表現12-③ | （難関）大学に入学する
+= get into university
+! enter college [(a) university] は「堅苦しい」「使わない」と言う人もいる。
+@E F12-4 | 頻出表現12-④ | 大学を卒業する
+= graduate from university
+@E F12-5 | 頻出表現12-⑤ | 大学（に在学中）で
+= at university / in college
+@E X7-4 | 例題7 解説4 | ～するだけの能力があるとは限らない
+= be not always [necessarily] intelligent enough [× enough intelligent] to (V)
+= do not always [necessarily] have the (academic) ability [aptitude / competence] to (V) [× of (V)ing]
+! be able of (V)ing とは言わないので have the ability of (V)ing も不可。aptitude「（学問・芸術の）才能」、competence「（専門的な）能力」も可。
+@pg 41
+@E F13-1 | 頻出表現13-① | ～する能力を伸ばす
+= develop [improve] one's ability to (V)
+@E F13-2 | 頻出表現13-② | ～の才能がある
+= have a talent [a gift] for ～
+@E F13-3 | 頻出表現13-③ | 才能に恵まれた子ども
+= talented [gifted] children
+@E X7-5 | 例題7 解説5 | 大学教育を受ける
+= receive [get] a university [college] education
+= study there [at university / in [at] college]
+= keep up in (university) classes
+! 1の表現を知らないなら2のように「大学で勉強する」とする方が無難。「大学の授業についていく」と考え3のようにも書ける。
+@S 例題7 | 大学に入ろうとする10人のうち4人が、大学教育を受けるだけの能力があるとは限らないと言う人もいる。
+> Some people say that as many as four out of ten students who want to get into university are not always intelligent enough to receive a university education.
+> There are people who complain that four in ten students who are trying to get into university do not always have the academic ability to keep up in classes.
+~ X7-1 : Some people say that ; There are people who complain that
+~ P4-1 : Some people
+~ P4-2 : There are people who
+~ X7-2 : as many as four out of ten students ; four in ten students
+~ P7-1 : four out of ten ; four in ten
+~ X7-3 : want to get into university ; are trying to get into university
+~ F12-3 : get into university
+~ X7-4 : are not always intelligent enough to ; do not always have the academic ability to
+~ X7-5 : receive a university education ; keep up in classes
+@pg 42
+@E P8-1 | 原則8-1 | …の割合は～%である
+= The percentage [× rate] of ～ are [is] ...
+! percentage は「全体を100とした場合の割合」。the percentage of ～ が主語の場合、動詞の形は～に合わせるのが原則だが、最近は percentage に合わせることもある。
+@S 例1 | 働く女性の割合は80%を超えている
+> The percentage of women who work are [is] more than 80 percent.
+~ P8-1 : The percentage of
+@S 注意 例 | 英語を学ぶ人の割合は50%だ
+> The percentage of people learning English is 50%.
+~ P8-1 : The percentage of
+@E P8-2 | 原則8-2 | …の比率は～だ
+= The proportion [× rate] of ～ is ...
+! proportion は「全体と比較した場合の割合」。
+@S 例2 | この国のお年寄りの比率は高い
+> The proportion of elderly people in this country is high.
+~ P8-2 : The proportion of
+@S 注意 例 | 英語を学ぶ人の比率は半分だ
+> The proportion of people learning English is half.
+~ P8-2 : The proportion of
+@E P8-3 | 原則8-3 | （2者のうちの）AとBの比率は～だ
+= The ratio of A to B is ～
+@S 例3 | この病院の看護職員と医師の割合は3対1だ
+> The ratio of nursing staff to doctors in this hospital is 3:1.
+~ P8-3 : The ratio of ; to
+@E P8-4 | 原則8-4 | （特定期間中の発生の）比率は
+= ～ rate
+! rate は「特定期間中の発生回数、速度」などの意味。percent は〈数字 + percent〉で用いる単位の働き。
+@S 例4 | この国での幼児死亡率はかなり高い
+> The infant mortality rate in this country is quite high.
+~ P8-4 : mortality rate
+@pg 43
+@E X8-1 | 例題8 解説1 | かつて日本社会は『皆婚社会』だと言われていた
+= In the past, it was said (that) Japanese society was one in which everyone was married.
+= Japan used to be known as a society in which everyone was married.
+= There used to be a time when Japan was known as a society in which everyone got married.
+! 「かつて」は used to (V) あるいは過去形 + in the past で表現するとよい。副詞 once は文頭を避け It was once said などとする。
+! Japanese society「日本社会」に the をつけてはいけない。
+@pg 44
+@E X8-1b | 例題8 解説1 補足 | ～な社会
+= a society in which ～
+! society は具体的な場所ではないので where は避けたい（口語では可）。
+! 「結婚する」は get married、「結婚している」は be married。
+@E X8-2 | 例題8 解説2 | 実際にすべての人が結婚していたわけではない（が）
+= (of course,) in reality [in truth / in fact / actually], not everyone was married
+= (of course,) this was not actually the case [true]
+= this does not mean that (literally) every adult was married
+! all + not や every + not の語順は不可。「が」は接続詞 but か副詞 however。
+x everyone was not married
+@E X8-3 | 例題8 解説3 | 1980年代までは結婚しない割合が5%に満たず
+= until the 1980s(,) less than five percent [〈英〉per cent / × percents] of adults were single [were not married]
+= until the 1980s(,) the percentage of single [unmarried] people was less than five percent
+= until the 1980s(,) the number of those who were single accounted for less than five percent of the population
+! 「～までは」は until「～までずっと」。before も可。「1980年代」は必ず the をつける。less than は under / below も可。
+@pg 45
+@E F14-1 | 頻出表現14 | 1980年代／30代
+= in the 1980s
+= in my thirties
+! 1980s だけだと「1980という数字の集合体」になるので the が必要。「私の10代の時に」は in my teens。
+@S 頻出表現14 例 | 私は1980年代に［30代の時に］ドイツに行ったことがある
+> I went to Germany in the 1980s [in my thirties].
+~ F14-1 : in the 1980s ; in my thirties
+@E X8-4 | 例題8 解説4 | 若者は漠然と～と思えるような状況があった
+= S V, and [so] young people vaguely thought [imagined] that S V
+= S V, and [so] young people (vaguely) assumed that S V
+= It was a time [an age] when young people had the vague idea that S V
+= It was a situation in which young people had the vague idea that S V
+= This gave them the vague idea that S V
+@E X8-5 | 例題8 解説5 | いつかは自分も結婚するのだろう
+= they would get married someday [〈英〉some day / one day / at some point]
+= they would eventually have a wife or a husband
+! 時制の一致で will ではなく would。英文で " " を用いると特別な意味を帯びるので直接話法は避ける。
+@pg 46
+@E F15-1 | 頻出表現15 | 結婚する／結婚している
+= get married（結婚する）
+= be married（結婚している）
+! 口語では自動詞の marry も使われるが避ける。「～と結婚する」は marry ～ / get married to ～（with は用いない）。
+@S 頻出表現15 例 | この秋に私たちは結婚します
+> We are getting married this autumn.
+~ F15-1 : getting married
+@S 頻出表現15 例 | 結婚して10年以上になります
+> We have been married for over ten years.
+~ F15-1 : been married
+@pg 47
+@S 例題8 | かつて日本社会は「皆婚社会」だと言われていた。実際にすべての人が結婚していたわけではないが、1980年代までは結婚しない割合が5%に満たず、若者は漠然と「いつかは自分も結婚するのだろう」と思えるような状況があった。
+> In the past, it was said that Japanese society was one in which everyone got married. In fact, not everyone was married, but until the 1980s the proportion of single adults was less than five percent, so young people vaguely thought that they would get married some day.
+> Japan used to be known as a society in which everyone was married. Of course, actually, this was not the case, but until the 1980s less than five percent of adults were single, and young people had the vague idea that they would get married at some point.
+~ X8-1 : In the past, it was said that Japanese society was one in which everyone got married ; Japan used to be known as a society in which everyone was married
+~ X8-1b : one in which ; a society in which
+~ X8-2 : not everyone was married ; this was not the case
+~ X8-3 : until the 1980s the proportion of single adults was less than five percent ; until the 1980s less than five percent of adults were single
+~ F14-1 : the 1980s
+~ P8-2 : the proportion of
+~ X8-4 : young people vaguely thought that ; young people had the vague idea that
+~ X8-5 : they would get married some day ; they would get married at some point
+~ F15-1 : get married ; was married
+@E C2-1 | コラム | 部分否定と全部否定
+= 全体否定：neither / not ～ either「どちらも～ない」、none / not ～ any「すべて～ない」
+= 部分否定：not ～ both「両方とも～というわけではない」、not ～ all / every「すべて～というわけではない」
+x (both) A and B ～ not / both ～ not / all ～ not / every ～ not
+! 〈both ... not〉〈all ... not〉の語順は「部分否定か全体否定かの区別が曖昧になるので避けるべき」。
+@pg 48
+@E P9-1 | 原則9-1 | ～が何百もいる
+= Hundreds of ～（複数形）+ 動詞
+! dozens of ～「何十もの～」、thousands of ～「何千もの～」、tens of thousands of ～「何万もの～」、hundreds of thousands of ～「何十万もの～」、millions of ～「何百万もの～」、billions of ～「何十億もの～」
+@S 例1 | 核兵器に反対してデモ行進した人は何百人もいた
+> Hundreds of people marched in protest against nuclear weapons.
+~ P9-1 : Hundreds of
+@E P9-2 | 原則9-2 | 300（人）の～がいる
+= Three hundred ～（複数形）+ 動詞
+! dozen / hundred / thousand / million / billion は、1 の場合を除き普通複数形にしない（two hundred [× hundreds] years ago）。
+! 英文の数字は「1」～「10」は英語で、「11」以上は算用数字が普通。大きい数字は 1.9 billion「19億」のように書く。
+@S 例2 | 300人の学生がその大学への入学を許可された
+> Three hundred students were admitted to the university.
+~ P9-2 : Three hundred students
+@pg 49
+@E X9-1 | 例題9 解説1 | 世界には～な人々が何百万人もいる
+= Millions of people in the world ～
+= There are millions of people in the world who ～
+! millions の -s を忘れない。around [all over] the world は「世界のあらゆる場所に」の意味になるので避ける。
+x million of people
+@E X9-2 | 例題9 解説2 | 飢えのため死ぬ
+= are starving (to death)
+= starve (to death)
+= die of hunger [die of starvation]
+= are dying of hunger
+! 「まさに今起きている」感じを出すには現在進行形がよい。starve だけで「死ぬほど飢える」。
+! die from ～ は「～」に間接的原因がくることが多い（die from overwork「過労死する」）。
+@pg 50
+@E X9-3 | 例題9 解説3 | 生きていくのに十分な食物さえ買うことができずに
+= cannot (even) get [buy] enough food [× foods] to survive [live on]
+= cannot (even) afford to get [buy] enough food to keep themselves alive
+! 文語体では can't ではなく cannot。「（命に関わる文脈で）生きる」は survive が適切。
+! enough が形容詞・副詞を修飾する場合は〈形容詞・副詞 + enough〉（big enough）。
+! afford to (V) は普通 can / be able to をともなう否定文・疑問文で用いる。肯定文の「～する余裕がある」は have enough money / time to (V)。
+@S 解説 例 | うちの車は、そのスーツケースが全部入るほど大きくない
+> Our car is not big enough for all of the suitcases.
+~ X9-3 : big enough
+@S 解説 例 | まだ11時だ。昼ごはんを食べるだけの余裕はあるよ
+> It is only eleven. We have enough time to have lunch.
+~ X9-3 : have enough time to
+@pg 51
+@E F16-1 | 頻出表現16-① | 食べ物
+= food（普通、不可算名詞）
+! foods は「（さまざまな）食品」の意味（frozen foods「冷凍食品」、instant foods「インスタント食品」）。
+@E F16-2 | 頻出表現16-② | 魚・鶏肉・フルーツ（食べる対象）
+= fish / chicken / fruit（「食べる対象」としては不可算名詞）
+! 「食べる対象」以外では可算名詞。
+@S 頻出表現16 例 | ジャックは庭でさまざまな果物と野菜を栽培している
+> Jack grows a variety of fruits and vegetables in the garden.
+~ F16-2 : fruits
+@E X9-4 | 例題9 解説4 | V1できずにV2する
+= V2 because ～ cannot V1
+= cannot V1 and V2
+! 英語では結論を先に言う傾向が強いので S V because S' V'. の方が望ましい。常識的な理由を示す since は Since S' V', S V. の形が多い。
+@S 例題9 | 世界には、生きていくのに十分な食物さえ買うことができずに、飢えのため死ぬ人々が何百万人もいます。
+> Millions of people in the world are starving to death because they cannot even get enough food to survive.
+> There are millions of people in the world who cannot get enough food to live on and die of hunger.
+~ X9-1 : Millions of people in the world ; There are millions of people in the world who
+~ P9-1 : Millions of ; millions of
+~ X9-2 : are starving to death ; die of hunger
+~ X9-3 : cannot even get enough food to survive ; cannot get enough food to live on
+~ X9-4 : because they cannot ; and die
+@pg 52
+@E P10-1 | 原則10-1 | ～というもの（可算名詞）
+= 可算名詞 → 無冠詞複数形
+! 〈「総称」の the + 単数名詞〉（The computer is ～）も言えるが、「科学技術の産物」に限定して用いるのが無難。
+! 〈a + 単数名詞〉も間違いではないが日常の英語では「無冠詞・複数形」が好まれる（I like dogs.）。
+! 「～とは…なんだ」という文では単数形を主語にするのが普通。
+@S 例1 | コンピュータ（というもの）は日常生活に不可欠な道具だ
+> Computers are an indispensable tool of our daily lives.
+~ P10-1 : Computers
+@S 注意 例 | ハッカーとはコンピュータを使って許可なく情報を手に入れようとする人のことだ
+> A hacker is someone who uses computers to try to obtain information without permission.
+~ R10-2 : A hacker is
+@E P10-2 | 原則10-2 | ～というもの（不可算名詞）
+= 不可算名詞 → 無冠詞単数形
+! 「日本語はおもしろい言語だ」の「言語」は「ある1つの特定の言語」なので a language と可算扱い。
+@S 例2 | 言語（というもの）はすばらしい伝達手段である
+> Language is a wonderful means of communication.
+~ P10-2 : Language
+@pg 53
+@E X10-1 | 例題10 解説1 | ロマンチックな夢は必ずしも実現するとは限りません
+= Romantic dreams do not always [necessarily] come true.
+= Romantic dreams are not always [necessarily] realized.
+= You [We] cannot always [necessarily] realize (your [our]) romantic dreams.
+= It is not always [necessarily] true [the case] that romantic dreams will come true.
+! dream は可算名詞なので一般論では a romantic dream か romantic dreams（複数形が望ましい）。
+x Romantic dream do not always come true
+@E X10-2 | 例題10 解説2 | しかし
+= S V, but S V.
+= S V. However, S V.
+! however は副詞なので文と文とを接続できない。
+@pg 54
+@E X10-3 | 例題10 解説3 | V'することで～できるものなのです
+= (V')ing ... enables [allows] you [us] to (V)
+= (V')ing ... can help [helps] you [us] (to) (V)
+= by (V')ing you [we] can ～
+@E X10-4 | 例題10 解説4 | そうした夢を抱き続けること
+= holding on to [cherishing] those dreams [them]
+= not giving those dreams [them] up
+= keeping these dreams in mind
+= continuing to believe (that) such dreams can come true
+! 「（夢、権力、地位）にしがみつく」は hold on to ～。〈他動詞 + 副詞 + 代名詞〉は不可（× not giving up them）。
+@E X10-5 | 例題10 解説5 | 人生に対する前向きな姿勢を保つ
+= maintain [keep / have] a positive attitude toward(s) [to] (your) life
+= maintain [keep / have] a positive outlook on (your) life
+= continue to think positively about (your) life
+= continue to live (your life) in a positive way [positively]
+= continue to live [lead] a positive life
+= continue to have a positive way of thinking about (your) life
+= remain [stay] positive toward [to] (your) life
+= keep yourself feeling positive about your life
+= keep [continue] looking forward to your future
+= keep [continue] trying to make an effort in your life
+= continue to believe that your life will be good
+@pg 55
+@E F17-1 | 頻出表現17-① | ～に対して…な態度をとる
+= have a ... attitude toward(s) [to] ～
+@S 頻出表現17 例 | この問題に対しては柔軟な態度をとるべきだ
+> You should have a flexible attitude toward this problem.
+~ F17-1 : have a flexible attitude toward
+@E F17-2 | 頻出表現17-② | 態度がよい／悪い
+= behave well / badly
+! 「態度」とあっても、ある人の行動の是非について書いてある文では behave を用いる。
+@S 頻出表現17 例 | ベンは授業中の態度が悪い
+> Ben behaves badly in class.
+~ F17-2 : behaves badly
+@S 例題10 | ロマンチックな夢は必ずしも実現するとは限りません。しかし、そうした夢を抱き続けることで、人生に対する前向きな姿勢を保つことができるものなのです。
+> Romantic dreams do not always come true. However, holding on to these dreams helps you maintain a positive attitude toward your life.
+> Romantic dreams are not always [necessarily] realized, but by not giving them up, you can continue to think positively about your life.
+~ X10-1 : Romantic dreams do not always come true ; Romantic dreams are not always [necessarily] realized
+~ P10-1 : Romantic dreams
+~ X10-2 : However, ; but
+~ X10-3 : helps you ; by not giving them up, you can
+~ X10-4 : holding on to these dreams ; not giving them up
+~ X10-5 : maintain a positive attitude toward your life ; continue to think positively about your life
+~ F17-1 : a positive attitude toward
+@pg 56
+@E P11-1 | 原則11-1 | 授業・機会・会議・痛みがある →「私は～を持っている」
+= I have + 授業・機会・会議・痛み
+! 日本語では「頭が痛い」「会議が月曜日にある」など「私」を出さずに表現するが、英語では I + have が普通。
+! ただし「（時間）がある」は There are still ten minutes ... が文字通りの意味。We still have ten minutes ... は「まだ10分あるから～できる」を示唆。
+x Chances to talk with British people are many.
+@S 例1 | イギリス人と話す機会が多い
+> I have many chances to talk with British people.
+~ P11-1 : I have many chances
+@S 注意 例 | 映画が始まるまで、まだ10分ある
+> There are still ten minutes before the movie begins.
+~ P11-1 : There are still ten minutes
+@E P11-2 | 原則11-2 | ～には…な（身体的特徴）がある →「～は…を持っている」
+= 人 + have [has] + 身体的特徴
+! 「この椅子には4つの脚がある」も This chair has four legs.
+x △ His hair is long.
+@S 例2 | 彼の髪は長い
+> He has long hair.
+~ P11-2 : has long hair
+@E P11-3 | 原則11-3 | ～は表情が…だ →「～は…に見える」
+= 人 + look + 形容詞
+x Her expression is bright.
+@S 例3 | 彼女の表情は明るい
+> She looks happy.
+~ P11-3 : looks happy
+@E P11-4 | 原則11-4 | （事柄）が幸せだ →「（人）は幸せだ」
+= 人 + be happy ～
+! 感情を示す形容詞には it を主語にできないものがある（特に happy）。it is fortunate that S V「S V なのは幸いだ」は可。
+x It is happy to have something you can devote yourself to.
+@S 例4 | 打ち込めるものがあれば幸せだ
+> You are happy if you have something you can devote yourself to.
+~ P11-4 : You are happy
+@E P11-5 | 原則11-5 | 私の（趣味・推し）は～だ →「私は～が好きだ」
+= I love [like] ～
+! hobby は本格的な趣味を指すことが多い。「音楽鑑賞」のような曖昧なものには適さない。
+x △ My hobby is listening to music.
+@S 例5 | 私の趣味は音楽鑑賞です
+> I love listening to music.
+~ P11-5 : I love
+@pg 58
+@E X11-1 | 例題11 解説1 | 21世紀に入り
+= in the 21st [twenty-first] century
+= as we have entered the 21st [twenty-first] century
+= as the 21st [twenty-first] century started
+= with the coming [advent] of the 21st [twenty-first] century
+! 「21世紀」には the をつける。〈現在完了 + since the beginning of the 21st century〉も可。as は「時」（when / while より同時性が高い）。
+x In 21st century
+@pg 59
+@E F18-1 | 頻出表現18-① | 20世紀
+= the twentieth [20th] century（the が必要）
+! 序数詞は the を伴うのが通例（例外：a second [= another] helping「おかわり」、a first attempt「初めての試み」）。
+@E F18-2 | 頻出表現18-② | 21世紀
+= the twenty-first [21st] century（the が必要）
+@E F18-3 | 頻出表現18-③ | 第二次世界大戦
+= the Second World War（World War II も可）
+@E F18-4 | 頻出表現18-④ | 6階
+= the sixth floor（6F と略すのは和製英語）
+@E X11-2 | 例題11 解説2 | 多様な分野に進出し活躍する女性が増えてきています
+= the number of women who enter [go into] and play active roles in various [a variety of] fields is [× are] increasing
+= an increasing number of [more and more] women are making great advances and playing active roles in various fields
+! 「～に進出する」は無理に訳さなくてよい。「活躍する」は「活発な役割を演じる」play active roles が無難（play important roles, work actively, succeed も可）。
+@pg 60
+@E F19-1 | 頻出表現19 | ～に進出する
+= advance [get through / make it] to the final「決勝に進出する」
+= expand one's business to Europe「（企業が）ヨーロッパに進出する」
+= branch (out) into selling clothes「服の販売に進出する」
+= enter [launch into] politics「政界に進出する」
+@E X11-3 | 例題11 解説3 | が、これは～ことを意味します
+= This means that ～.
+= , which means that ～
+! この文の「が」は逆接ではないので2文に分けることも可能。
+@E X11-4 | 例題11 解説4 | 女性にとって、生き方や職業選択の幅が広がっている
+= they can choose their lifestyles and occupations more freely
+= they are freer to choose their lifestyles and occupations
+= they can decide for themselves how to live and what job to do more freely
+= they have a wider range of lifestyles and career choices
+= they have more choices when it comes to their lifestyles and occupations
+! 英語では「女性」を主語にした方が自然。「生き方」は one's lifestyle が適している（her way of living は「生計の立て方」）。
+! a wide [broad] range of ～「幅広い～」は重宝する表現。「職業」は occupation が適切。
+@S 解説 例 | ジムは日本に関する幅広い知識を持っている
+> Jim has a wide range of knowledge about Japan.
+~ X11-4 : a wide range of
+@pg 61
+@S 例題11 | 21世紀に入り、多様な分野に進出し活躍する女性が増えてきていますが、これは女性にとって、生き方や職業選択の幅が広がっていることを意味します。
+> In the 21st century, the number of women who enter and play active roles in various fields is increasing. This means that they have a wider range of lifestyles and career choices.
+> As the 21st century started, an increasing number of women are making great advances and playing active roles in various fields, which means that they have more choices when it comes to their lifestyles and occupations.
+~ X11-1 : In the 21st century ; As the 21st century started
+~ F18-2 : the 21st century
+~ X11-2 : the number of women who enter and play active roles in various fields is increasing ; an increasing number of women are making great advances and playing active roles in various fields
+~ P1-1 : the number of ; is increasing
+~ P1-2 : an increasing number of
+~ X11-3 : This means that ; which means that
+~ X11-4 : they have a wider range of lifestyles and career choices ; they have more choices when it comes to their lifestyles and occupations
+@L 02 | 時制の決定
+@pg 64
+@E P12-1 | 原則12-1 | ～する（現実の習慣的行為）
+= It is ～ that S' V'（現在形）
+! It is ～ that S' V'. の S' V' には現実に行われている習慣的行為や状態が置かれる。～には clear, obvious, said, believed, surprising など。
+x It is a pity for some people to leave pet poop behind.
+@S 例1 | ペットの糞を放置する人がいるのは残念だ
+> It is a pity that some people leave pet poop behind.
+~ P12-1 : It is a pity that some people leave
+@E P12-2 | 原則12-2 | ～する（仮定の行為）
+= It is ～ for S' to (V')
+! 仮定の行為を示し「S' がもし V' したら」を示唆する。
+! It is important [necessary] that S' + 原形 / should V'. は現実でなくても可。It is important for S' to V'. と書き換え可能。
+x It is not unusual that men take childcare leave.
+@S 例2 | 男性が育児休暇を取るのは珍しくない
+> It is not unusual for men to take childcare leave.
+~ P12-2 : It is not unusual for men to take
+@S 注意 例 | 君が感情を抑えられるようになることが大切だ
+> It is important that you (should) learn to control your temper.
+> It is important for you to learn to control your temper.
+~ P12-2 : It is important that you (should) learn ; It is important for you to learn
+@pg 65
+@E X12-1 | 例題12 解説1 | ～は言うまでもない
+= Needless to say, [Of course] ～.
+= Everyone knows [There is no doubt / × It is no doubt] (that) ～.
+= It goes without saying [It is obvious [clear]] (that) ～.
+! 「～が必要である」は「現実」なので to (V) は不可。It is needless to say that ～ とは言わない。
+@E X12-2 | 例題12 解説2 | 外国語に堪能であることが～に必要である
+= you need to [have to / should / must] be able to speak foreign languages [a foreign language]
+= it is necessary to have skills in [be good at] (speaking) foreign languages
+= proficiency in a foreign language is a must
+x give a good command of foreign languages
+! 忠告的な「一般論」なので主語は you が最適。should は「忠告」、must は「命令」。have (a) good command of ～「（外国語）を自由に使える能力を持っている」なら可。
+@pg 66
+@E X12-3 | 例題12 解説3 | 国際社会で生きていくために
+= (in order) to be part [a member] of the global community
+= (in order) to live [get along] in the global [international] community
+! 「国際社会の一員であるために」と言い換えればよい。international society とするのは一般的ではない。
+@E X12-4 | 例題12 解説4 | しかしもっと大切なことは、～ことである
+= but a [an even] more important thing is to (V)
+= but what is (even) more important is to (V)
+= however, it is (even) more important to (V)
+! 「もっと大切なこと」は他にもあるかもしれないので the more important thing は避ける。〈even + 比較級〉で「さらに～」。
+@E X12-5 | 例題12 解説5 | 自分の行動に責任を持ち
+= to (learn to) take responsibility [be responsible] for your (own) actions [how you behave / your (own) behavior / your (own) conduct]
+= to (learn to) behave in a responsible way [manner]
+! conduct は「道徳面から見た行動」。action は可算名詞なので「行動全般」は複数形。
+@pg 67
+@E X12-6 | 例題12 解説6 | 人に迷惑をかけない常識を身につける
+= know better than to [be sensible enough not to] bother other people [others]
+= have enough common sense not to bother other people
+! 「～に迷惑をかける」は bother が最も用途が広い。have common sense not to (V) だけでは不可。have enough ～ (not) to (V) は重要。
+@E F20-1 | 頻出表現20-① | よく知られている（常識である）
+= It is well-known that S V
+! 「常識」に common sense を使うのは危険（× It is a common sense that ～）。
+@S 頻出表現20 例 | 喫煙が身体に悪いのは常識である
+> It is well-known that smoking is bad for your health.
+~ F20-1 : It is well-known that
+@E F20-2 | 頻出表現20-② | ～しないだけの分別を持っている
+= know better than to (V)
+@S 頻出表現20 例 | 図書館では他人の迷惑にならないだけの常識を持ちなさい
+> You should know better than to disturb others in the library.
+~ F20-2 : know better than to
+@S 例題12 | 外国語に堪能であることが国際社会で生きていくために必要なことは言うまでもない。しかし、もっと大切なことは、自分の行動に責任を持ち、人に迷惑をかけない常識を身につけることである。
+> Needless to say, you need to be able to speak foreign languages in order to be part of the global community. A more important thing, however, is to learn to take responsibility for your actions and know better than to bother other people.
+> There is no doubt that in order to live in the global community, it is necessary to have skills in foreign languages. However, it is even more important to behave in a responsible way and have enough common sense not to bother others.
+~ X12-1 : Needless to say ; There is no doubt that
+~ X12-2 : you need to be able to speak foreign languages ; it is necessary to have skills in foreign languages
+~ X12-3 : in order to be part of the global community ; in order to live in the global community
+~ X12-4 : A more important thing, however, is to ; it is even more important to
+~ X12-5 : learn to take responsibility for your actions ; behave in a responsible way
+~ X12-6 : know better than to bother other people ; have enough common sense not to bother others
+~ F20-2 : know better than to
+@pg 68
+@E P13-1 | 原則13-1 | 過去を表す副詞（若いとき・5年前など）がある文
+= 過去形
+! 「～したことがある」に惑わされて have been to ... ago とするのは間違い。～ ago / just now などは過去時制の文で用いる。
+x Lisa has been to Germany two years ago.
+@S 例1 | リサは2年前ドイツに行ったことがある
+> Lisa went to Germany two years ago.
+~ P13-1 : went ; two years ago
+@S 例2 | 子どものころ、3年間中国に住んでいた
+> I lived in China for three years when I was a child.
+~ P13-1 : lived ; when I was a child
+@E P13-2 | 原則13-2 | 過去の副詞をともなわない「～した」という文
+= 現在完了形
+! 文脈上明らかに「過去」の話である場合には過去形にする。
+@S 例3 | 私は来年ドイツに行くことに決めた［決めている］
+> I have decided to go to Germany next year.
+~ P13-2 : have decided
+@E P13-3 | 原則13-3 | 「3回」「1度も～ない」などの副詞をともなう文
+= 現在完了形
+! ever は原則として否定文・疑問文で用い、肯定文では用いない（例外：the first time I have ever seen ～、the most moving movie I have ever seen）。
+@S 例4 | リサは今までに3度ドイツに行ったことがある
+> Lisa has been to Germany three times.
+~ P13-3 : has been to ; three times
+@S 注意 例 | パンダを見たのはこれが初めてです
+> This is the first time I have ever seen a panda.
+~ R13-4 : the first time I have ever seen
+@S 注意 例 | これは私が今まで見た中でいちばん感動した映画です
+> This is the most moving movie I have ever seen.
+~ R13-5 : the most moving movie I have ever seen
+@pg 69
+@E X13-1 | 例題13 解説1 | 先週彼は小説を2冊貸してくれた
+= He lent me two novels last week.
+= Last week(,) I borrowed two novels from him.
+! 「先週」があるので過去形。He lent two novels to me. は「（他の誰でもない）私に」の強調で不自然。fiction は不可算。
+! 受動態は by ～ が存在しないような文だけで使用するべき（× I was lent two novels by him.）。
+@E F21-1 | 頻出表現21-① | 人に～を貸す
+= lend + 人 + ～ [lend ～ to + 人]
+! lend - lent - lent。rent は「（お金を払って家・土地・車など）を借りる」（rent - rented - rented）。
+@E F21-2 | 頻出表現21-② | 人から～を借りる
+= borrow ～ from + 人
+@pg 70
+@E X13-2 | 例題13 解説2 | どちらもまだ読んでいない
+= I have not (yet) read either of them.
+= I have read neither of them (yet).
+! 「習慣的行為」ではないので現在時制は不可。「まだ」の still は原則肯定文（I have still not read ～ の語順なら可）。yet は not ～ yet の語順。
+! 「どちらも～ない」は全体否定なので not ～ both は不可。
+@E F22-1 | 頻出表現22-① | ～のうち両方とも…ない（全体否定）
+= neither [not either] of ～
+! Both of my parents are not ... とは言えない。3者以上なら none of ～ / not any of ～。
+@S 頻出表現22 例 | うちの親はどちらも園芸に興味を持っていない
+> Neither of my parents is interested in gardening.
+~ F22-1 : Neither of
+@E F22-2 | 頻出表現22-② | ～のうち両方とも…なわけではない（部分否定）
+= not both of ～
+! 3者以上なら not all of ～。
+@S 頻出表現22 例 | その2人の女の子を私が両方とも知っているなんて思わないでね
+> You cannot expect me to know both of the two girls.
+~ F22-2 : cannot ; both of
+@E X13-3 | 例題13 解説3 | この2週間
+= for the last two weeks
+= for the past two weeks
+! for this two weeks としないように注意。these two weeks は古めかしい。for two weeks でも OK。
+@pg 71
+@E X13-4 | 例題13 解説4 | 試験準備で忙しかった
+= I have been busy studying for (the) exam(s) [test(s)]
+= I have been busy preparing for (the) exam(s) [test(s)]
+! 「この2週間」があるから現在完了。〈be busy (V)ing / be busy with + 名詞〉「～で忙しい」。be busy with (V)ing とは言わない。
+! 「試験」は exam(s) が普通（examination(s) も可）。「健康診断」は a physical examination。
+! Because S V. を独立して用いるのは典型的な間違い。
+@S 例題13 | 先週彼は小説を2冊貸してくれたが、どちらもまだ読んでいません。この2週間、試験準備で忙しかったからです。
+> He lent me two novels last week, but I have not yet read either of them. I have been busy preparing for exams for the last two weeks.
+> Last week, I borrowed two novels from him, but I have read neither of them yet. I have been busy studying for exams for the past two weeks.
+~ X13-1 : He lent me two novels last week ; Last week, I borrowed two novels from him
+~ F21-1 : lent me
+~ F21-2 : borrowed two novels from him
+~ P13-1 : lent ; borrowed
+~ X13-2 : I have not yet read either of them ; I have read neither of them yet
+~ F22-1 : either of them ; neither of them
+~ X13-4 : I have been busy preparing for exams ; I have been busy studying for exams
+~ X13-3 : for the last two weeks ; for the past two weeks
+@pg 72
+@E P14-1 | 原則14-1 | AとはVすることだ（目的・計画など未来）
+= S is to (V)
+! S は「目的・計画」などの明らかに「未来」を表す名詞。
+@S 例1 | 大学教育の目的の1つは、自分自身でものを考えることのできる人間をつくり出すことだ
+> One of the aims of a college education is to create people who can think for themselves.
+~ P14-1 : is to create
+@E P14-2 | 原則14-2 | AとはVすることだ（喜び・趣味など現実）
+= S is (V)ing
+! 英作文では S is (V)ing はあまり出てこない。
+@S 例2 | 休みのときの私の楽しみの1つは近くの川で魚釣りをすることだ
+> One of my pleasures on holidays is fishing in the nearby river.
+~ P14-2 : is fishing
+@E P14-3 | 原則14-3 | Aの本質・価値は～にある
+= S lies [is] in ～ / (V)ing
+@S 例3 | 人生の本質は情熱を追い求めることにある
+> Life's true essence lies in pursuing your passions.
+~ P14-3 : lies in pursuing
+@E P14-4 | 原則14-4 | Aとは S' V' ということだ（the fact / the point / the trouble など）
+= S is that S' V'
+@S 例4 | 君の問題点は人の話を聞かないということだ
+> The trouble with you is that you do not listen to other people.
+~ P14-4 : The trouble with you is that
+@pg 73
+@E X14-1 | 例題14 解説1 | ユーモアの本質とは、～ではなくて…である
+= The (true) essence of humor [What humor is all about] lies [is] not in (V1)ing but in (V2)ing.
+= The most important rule [× nature / × quality] of humor is not so much to (V1) as to (V2).
+= When you want to have a sense of humor [to be humorous], what you should remember is not to (V1), but to (V2).
+= When you want to have a sense of humor, you should not only (V1), but (also) (V2).
+= Humor [A sense of humor] originally means not (V1)ing but (V2)ing.
+! humor のつづりに注意（英：humour）。補語に that 節（that you tell silly jokes）は「一般の人の習慣的行為」となり奇異。
+! 主語に nature「性質」、quality「質」は不可。not A but B は not so much A as B / B rather than A も可。
+@pg 74
+@E X14-2 | 例題14 解説2 | 滑稽な冗談を言って人を笑わせるということ
+= to make people [others] laugh by telling silly [ridiculous / absurd] jokes
+= to tell silly [ridiculous / absurd] jokes and make people laugh
+! 「滑稽な冗談で」は by ではなく with silly jokes。say a joke は不可。「一般論」として「冗談を言う」は tell jokes が最適。「笑わせる」は make が適切。
+@S 解説 類例 | トムは決してうそをつかない
+> Tom never tells lies.
+~ X14-2 : tells lies
+@E F23-1 | 頻出表現23-① | 鉛筆で書く
+= write with a pencil [in pencil]
+! 「～で」に by をやたらと用いないこと。by (V)ing + 名詞は、前置詞 + 名詞では書けない場合に使う。
+@E F23-2 | 頻出表現23-② | 手で書く
+= write by hand
+@E F23-3 | 頻出表現23-③ | 左手で書く
+= write with one's left hand
+@E F23-4 | 頻出表現23-④ | スマホで話す
+= talk on one's phone [smartphone]
+@E F23-5 | 頻出表現23-⑤ | 裸眼で～を見る
+= look at ～ with the naked eye
+@E F23-6 | 頻出表現23-⑥ | 素足で歩く
+= walk with bare feet / walk barefoot
+@S 頻出表現23 注意 例 | コンピュータで手紙を書くのは好きではない
+> I do not like to write letters on the computer.
+~ F23-4 : on the computer
+@E X14-3 | 例題14 解説3 | 相手を愛し、思いやること
+= to love and care about them
+= to love and be considerate of [toward(s) / to] them
+= to love and empathize with [respect / consider] them
+= to love and be kind to them
+= to love and think deeply about them
+= to show love and consideration toward [for] them
+= to show them warmth and affection
+! think は「（人の気持ち）を考慮に入れる」の意味では使わない。「～のことを考える」は think about [of] ～。
+@pg 75
+@E F24-1 | 頻出表現24 | ～を思いやる
+= care about ～ / be considerate of [toward(s) / to] ～
+! be considerate of ～「（気分を害さぬよう相手が必要とするものを考える意味で）思いやる」、care about ～「（幸福を願って）気にかける、大切に思う」。
+@S 頻出表現24 例 | 若者の気持ちを考えてあげるべきだ
+> You should care about [be considerate of] young people's feelings.
+~ F24-1 : care about [be considerate of]
+@S 例題14 | ユーモアの本質とは、滑稽な冗談を言って人を笑わせるということではなくて、相手を愛し、思いやることである。
+> The true essence of humor lies not in telling silly jokes and making people laugh but in loving and empathizing with others.
+> When you want to have a sense of humor, what you should remember is not to make people laugh by telling ridiculous jokes, but to show love and consideration toward them.
+~ X14-1 : The true essence of humor lies not in ; but in ; When you want to have a sense of humor, what you should remember is not to ; but to
+~ P14-3 : lies not in
+~ X14-2 : telling silly jokes and making people laugh ; make people laugh by telling ridiculous jokes
+~ X14-3 : loving and empathizing with others ; show love and consideration toward them
+@pg 76
+@E P15-1 | 原則15-1 | ～は不確かだ
+= It is uncertain [unclear] whether S V.
+! It is uncertain [unclear] that S V とは言えない。whether 節を用いる。
+@S 例1 | そのお祭りが計画通り行われるかどうかは不確かだ
+> It is unclear whether or not the festival will take place as planned.
+~ P15-1 : It is unclear whether
+@E P15-2 | 原則15-2 | ～は疑わしい
+= It is doubtful [a question] whether S V.
+! It is doubtful that S V. は「S V とは思われない」の意味。
+@S 例2 | 期日通りに十分なデータを集められるかどうかは疑わしい
+> It is doubtful whether or not enough data will be collected on time.
+~ P15-2 : It is doubtful whether
+@E P15-3 | 原則15-3 | ～が重要だ
+= It is important that S should V / S + 原形不定詞
+! 「これから S V することが重要だ」では that 節内は S should V あるいは S + 原形。It is important (for ～) to (V) も可。
+@S 例3 | 彼は十分な睡眠をとることが重要だ
+> It is important that he (should) get enough sleep.
+~ P15-3 : It is important that he (should) get
+@E P15-4 | 原則15-4 | ～は重要ではない
+= It does not matter [makes no difference] whether S V
+! whether 節の内容が未来のことでも慣用的に will は入らない。
+@S 例4 | 彼が成功しようがしまいが重要ではない
+> It does not matter whether he succeeds or not.
+~ P15-4 : It does not matter whether
+@pg 77
+@E X15-1 | 例題15 解説1 | コーヒーを飲む人は、飲まない人より死亡リスクが低いと言われてきた
+= It has been [is] said [claimed / stated] that those [people] who drink coffee are less likely (than people [those] who do not) to die
+= It has been [is] said that those [people] who drink coffee have less chance (than non-coffee drinkers) to die
+= Those [People] who drink coffee are [have been] said to have a lower risk (than non-coffee drinkers) of death [dying]
+! 「言われてきた」は現在時制でもよい。those が連続しないよう people / non-coffee drinkers を用いる。than ... は less likely などの直後に置く。
+! 「リスク」は be likely to (V) を用いるのが無難。
+@pg 78
+@E X15-2 | 例題15 解説2 | 心臓や肝臓の病気を含む様々な原因による
+= from various [a variety of] diseases [illnesses] including [such as] heart (disease) and liver disease
+= due to various [a variety of] causes including [such as] heart (disease) and liver disease
+! die from causes は避ける。heart disease「心臓病」などの個別の病名は不可算。
+@E X15-3 | 例題15 解説3 | しかし、～という専門家もいる
+= However, some (health) experts claim [state / say] (that) S V.
+= On the other hand, there are (some) (health) experts who claim [state / say] (that) S V.
+! specialist は実務経験がない「専門家」も指すので避ける。some of experts は典型的な間違い。say の重複を避け claim など。
+@E X15-4 | 例題15 解説4 | ～かどうかは不確かである
+= it is unclear [uncertain / not clear] whether or not ～
+= it has not yet been proved whether or not ～
+! it is not sure という形は一般的ではないので避ける。
+@E X15-5 | 例題15 解説5 | 健康維持がコーヒーそのものに由来している
+= it is coffee itself that keeps them (staying) healthy
+= it is coffee itself that helps them (to) stay healthy [maintain (good) health / × keep health]
+= it is (indeed / actually) coffee that contributes to their (good) health [to staying healthy / to maintaining (good) health]
+= staying healthy [maintaining (good) health] comes from [is related to] coffee itself
+= coffee itself benefits [boosts / has a positive [good] effect on / × influences] their health
+= coffee itself has anything to do with maintaining (good) health
+= they can maintain (good) health thanks to coffee
+! 「健康を維持する」は stay healthy か maintain good health で暗記。influence [× influence on] ～ は避ける。
+! 「しかしながら」の however を文頭で用いる場合は直後にカンマ。
+@pg 79
+@S 例題15 | コーヒーを飲む人は、飲まない人より心臓や肝臓の病気を含む様々な原因による死亡リスクが低いと言われてきた。しかし、健康維持がコーヒーそのものに由来しているかどうかは不確かであるという専門家もいる。
+> It has been said that those who drink coffee are less likely than non-coffee drinkers to die from various diseases including heart and liver diseases. However, some experts claim that it is not clear whether or not it is indeed coffee that keeps them healthy.
+> People who drink coffee have been said to have a lower risk of death from a variety of illnesses, such as heart and liver diseases. However, there are experts who claim that it is unclear whether coffee itself contributes to their good health.
+~ X15-1 : It has been said that those who drink coffee are less likely than non-coffee drinkers to die ; People who drink coffee have been said to have a lower risk of death
+~ X15-2 : from various diseases including heart and liver diseases ; from a variety of illnesses, such as heart and liver diseases
+~ X15-3 : However, some experts claim that ; However, there are experts who claim that
+~ X15-4 : it is not clear whether or not ; it is unclear whether
+~ P15-1 : it is not clear whether ; it is unclear whether
+~ X15-5 : it is indeed coffee that keeps them healthy ; coffee itself contributes to their good health
+@pg 80
+@E P16-1 | 原則16-1 | 時制の一致（that 節）
+= S V（過去形）that S' V'（過去形・過去完了形）
+! 日本語には原則として時制の一致がないので that 節内の時制の一致を忘れやすい。
+! 過去完了の連続は避けられる傾向が強い。
+@S 例1 | 私は間違った方向に歩いていることに突然気づいた
+> I suddenly realized that I was walking in the wrong direction.
+~ P16-1 : realized that I was walking
+@S 例2 | トムはカナダに2年間住んだことがあると言っていた
+> Tom told me that he had lived in Canada for two years.
+~ P16-1 : told me that he had lived
+@S 注意 例 | 息子が勝つように、レースの間中祈っていた
+> I crossed my fingers during the race so that my son would win.
+~ R16-4 : would win
+@S 注意 例 | 留守中にだれか電話してこなかったかとトムに尋ねた
+> I asked Tom if anybody had called me while I was out.
+~ P16-1 : asked ; had called ; was out
+@E P16-2 | 原則16-2 | 時制の一致（助動詞）
+= S V（過去形）that S' would / could / might V'
+! 「～かもしれない」の may が時制の一致で might になる。
+@S 例3 | ぼくの発言が彼女を喜ばせるなんて考えもしなかった
+> It never occurred to me that my remark might please her.
+~ P16-2 : occurred to me that my remark might please
+@pg 81
+@E X16-1 | 例題16 解説1 | 祖母の誕生日会の折に
+= at my [our] grandmother's birthday party
+= when we gave [threw / △ held] our grandmother's birthday party
+= when we gave [threw] a birthday party for our grandmother
+! on my grandmother's birthday では「会」が抜ける。場所を示す at が適切。「パーティを開く」は give か throw（hold は大げさ）。
+@E X16-2 | 例題16 解説2 | 私が祖母に100歳になるのはどんな感じなのかと尋ねてみたとき
+= I asked her what it felt like to be one hundred years old [100]
+= I asked her what [how] she felt about being one hundred years old
+! what [how] 以下の動詞は asked との時制の一致で過去形。「100歳になる」は be 動詞（「成り変わった瞬間」なら turn）。become は避ける。
+@pg 82
+! X16-2 補足：feel like は「～と感じられる」。「100歳であることは」と言い換えた方がよい。
+@E F25-1 | 頻出表現25-① | Sはどのようなものか
+= what S be [look / feel] like
+! S be like ～. の「～」を what に置き換え前に出したもの。how S be は「健康状態」の意味（I do not know how he is.）。
+@S 頻出表現25 例 | 今度の先生がどんな人かを知りたい
+> I want to know what the new teacher is like.
+~ F25-1 : what the new teacher is like
+@E F25-2 | 頻出表現25-② | Vするのはどのようなものか
+= what it is [feels] like to (V)
+@S 頻出表現25 例 | 田舎に住むということがどういうものかを私は知らない
+> I do not know what it is like to live in the country.
+~ F25-2 : what it is like to
+@E X16-3 | 例題16 解説3 | 祖母は、～と言った
+= she replied that S' V'
+= she said [× told] that S' V'
+= she told me [△ said to me] that S' V'
+! 「返答した」と考えて reply が最適。tell は必ず〈tell + 人 + ～〉の形。
+@E X16-4 | 例題16 解説4 | 祖母は、困惑している
+= she felt confused [perplexed / baffled] (about her age)
+! replied との時制の一致で過去形。she felt confused の方が「困惑の気分」が明確。
+@pg 83
+@E X16-5 | 例題16 解説5 | 祖母は、自分が100歳になったなんていまだに信じられない
+= she still could not believe (that) she had reached that age [had turned one hundred]
+= it was still impossible for her to believe that she was (already) one hundred years old [100]
+! 「100歳になった」は過去完了。accept her age とは言えない（accept の目的語は your opinion / an invitation / an offer / my fate など）。
+! 「～歳になる」は turn ～ が最も自然（turn ～ years old とは言わない）。やや堅くは reach the age of ～。
+@S 例題16 | 祖母の誕生日会の折に、私が祖母に100歳になるのはどんな感じなのかと尋ねてみたとき、祖母は、自分が100歳になったなんていまだに信じられなくて困惑していると言った。
+> At my grandmother's birthday party, when I asked her what it felt like to be one hundred years old, she replied that she still could not believe she had reached that age and felt confused.
+> When we gave a birthday party for our grandmother, I asked her what she felt about being 100. She said that she felt perplexed and that it was impossible for her to believe that she was already 100.
+~ X16-1 : At my grandmother's birthday party ; When we gave a birthday party for our grandmother
+~ X16-2 : I asked her what it felt like to be one hundred years old ; asked her what she felt about being 100
+~ F25-2 : what it felt like to
+~ X16-3 : she replied that ; She said that
+~ X16-5 : she still could not believe she had reached that age ; it was impossible for her to believe that she was already 100
+~ X16-4 : felt confused ; felt perplexed
+~ P16-1 : replied that she still could not believe she had reached ; She said that she felt perplexed
+@pg 84
+@E P17-1 | 原則17-1 | 現在完了（動作動詞）＋期間
+= S + 現在完了形（動作動詞）+ in / over + 期間
+! 動作動詞を用いた場合は in か over にするか、現在完了進行形を用いるのが一般的。
+! 状態動詞でも継続性がない場合は for ～ が使えない（There have been five major earthquakes in [× for] the last ten years.）。
+@S 例1 | 過去10年間に物価は50%上昇した
+> Commodity prices have gone up by fifty percent in [over] the last ten years.
+~ P17-1 : have gone up ; in [over] the last ten years
+@S 注意 例 | この地域では過去10年で5回の大地震があった
+> There have been five major earthquakes in this area in the last ten years.
+~ P17-1 : There have been ; in the last ten years
+@E P17-2 | 原則17-2 | 現在完了（状態動詞）＋for＋期間
+= S + 現在完了形（状態動詞）+ for + 期間
+! 状態動詞（live / stay / know など）。learn / rain / sleep / stand / study / teach / wait / work なども可。
+@S 例2 | 私は京都の郊外に10年間住んでいる
+> I have lived in the suburbs of Kyoto for ten years.
+~ P17-2 : have lived ; for ten years
+@E P17-3 | 原則17-3 | 現在完了進行形（動作動詞）＋for＋期間
+= S + 現在完了進行形（動作動詞）+ for + 期間
+@S 例3 | このフランス製の自転車に10年以上も乗っているんだ
+> I have been riding this French bicycle for more than ten years.
+~ P17-3 : have been riding ; for more than ten years
+@pg 85
+@E X17-1 | 例題17 解説1 | この30年の脳科学の進展により～がわかった
+= Brain science has advanced [progressed] (remarkably / a great deal) over [during / in] the last [past] thirty years, which has shown that ～ [years. This has shown that ～].
+= Advances in brain science during the last [past] thirty years have shown that ～.
+= Thanks to advances in brain science over [during / in] the last [past] thirty years, we now know [we have found / it is now accepted] that ～.
+! 「この30年で変化した」なので over / in / during が適切で for は誤り。these / this は間違い。
+! advances in ～ は the advance [development] of ～ でも可。「わかった」は状態動詞なら現在形、動作動詞なら現在完了。prove はやや誇張ぎみ。
+@pg 86
+@E F26-1 | 頻出表現26 | （科学技術など）の進歩、進展
+= make (remarkable) advances in ～
+! advances in ～ は冠詞不要。the advance of ～「～の進歩、前進」は単数形で the が必要。development は意味が広い（the development of computers「コンピュータの開発」）。
+@S 頻出表現26 例 | この20年間で宇宙工学はめざましい進歩を遂げた
+> We have made remarkable advances in space technology over the last twenty years.
+~ F26-1 : made remarkable advances in
+~ P17-1 : have made ; over the last twenty years
+@E X17-2 | 例題17 解説2 | 我々の脳の働きが、変化しうる
+= the function(s) [working / activity] of our brains can vary [change]
+= our brain function(s) [our brain's function(s)] can vary [change]
+= the way (that) our brain function(s) [work] can vary [change]
+! change は自動詞が適切。can be changed のように受動態にすると by ～ で接続することになる。function は通例可算名詞。
+@E X17-3 | 例題17 解説3 | 生涯を通じて
+= during [in] the course of our lives
+= throughout our lives
+= as [so] long as we live
+! our life は「私たちが皆同じような生涯」のイメージになるので our lives の方がよい。
+@pg 87
+@E X17-4 | 例題17 解説4 | 生活環境、教育、仕事、趣味等のさまざまな要因に応じて
+= depending on [according to] various factors such as our lifestyle(s) [our (living) environment(s)], education, work [occupation(s) / job(s)], and hobbies [interests]
+= depending on [according to] various factors such as where we live, how we are educated, what occupation [job] we have, and what hobby [interest] we pursue
+! work「仕事」は不可算なので s をつけない。「興味の対象」なら interests。
+! ～ such as A and B は A, B が代表例であることを示すので and so on を置いてはいけない。～が複数形なら or ではなく and。
+@S 例題17 | この30年の脳科学の進展により、我々の脳の働きが、生活環境、教育、仕事、趣味等のさまざまな要因に応じて生涯を通じて変化しうることがわかった。
+> Brain science has advanced remarkably over the last thirty years. This has shown that the function of our brains can vary during the course of our lives, depending on various factors such as our lifestyles, education, work, and hobbies.
+> Thanks to advances in brain science over the past thirty years, it is now accepted that our brain function [brain activity] can vary throughout our lives, depending on factors such as our environments, education, occupation, and interests.
+~ X17-1 : Brain science has advanced remarkably over the last thirty years. This has shown that ; Thanks to advances in brain science over the past thirty years, it is now accepted that
+~ P17-1 : has advanced remarkably over the last thirty years
+~ X17-2 : the function of our brains can vary ; our brain function [brain activity] can vary
+~ X17-3 : during the course of our lives ; throughout our lives
+~ X17-4 : depending on various factors such as our lifestyles, education, work, and hobbies ; depending on factors such as our environments, education, occupation, and interests
+@pg 88
+@E P18-1 | 原則18-1 | ～することができた
+= 動詞の過去形
+! could は原則「～できるかもしれない」。過去の文脈で could は「～する可能性があった」で実行したか不明。よって「～できた」に could は使えない。
+! managed to (V)「なんとか～できた」、was / were able to (V) も可だが、動詞の過去形ですませる方が自然な場合が多い。
+@S 例1 | 昨日昔からほしかった本を買うことができた
+> Yesterday I bought [× could buy] the book I had wanted for a long time.
+~ P18-1 : bought
+@E P18-2 | 原則18-2 | ～することができなかった
+= could not V
+! 過去の文で could を用いるのは (1) 過去の副詞を伴う否定文 (2) when I was a child など一定期間＋「～する能力があった」 (3) 時制の一致 (4) could + hear / see / feel / understand。
+@S 例2 | 君が薦めてくれた本を昨日買うことはできなかった
+> Yesterday I could not buy the book you had recommended.
+~ P18-2 : could not buy
+@pg 89
+@E X18-1 | 例題18 解説1 | 上司
+= my boss
+= my supervisor [manager]
+! 英語の boss にはマイナスイメージはない。工場などは supervisor、銀行などは manager。
+@E X18-2 | 例題18 解説2 | 9月に休暇をとる
+= take [have / get] a few [a couple of] days off in September
+= take [have / get] a vacation in September
+! take a holiday は主にイギリス英語。「上司」を主語にして give me a few days off in September とすることもできる。
+@pg 90
+@E X18-3 | 例題18 解説3 | ～のところへ行って…と頼んだ
+= I (went to ～ and) asked him to let me V [to allow me to (V) / to permit me to (V)]
+= I (went to ～ and) told him that I wanted to (V)
+= I (went to ～ and) asked him if [whether] I could V
+! asked him to take a vacation は「彼に休暇をとるようお願いした」になる。3 の could は時制の一致なので使用可。
+@E X18-4 | 例題18 解説4 | 彼はその考えが気に入らないようだったが
+= (at first) he did not seem to like the idea [my idea]
+= it seemed (that) he did not like the idea (at first)
+= he did not seem to approve (at first)
+= he disapproved [seemed to disapprove] (at first)
+= he did not let me [allow me to] (at first)
+= he was [seemed (to be)] reluctant [unwilling] to let me (at first)
+! 「～なようだった」は It seemed that S' V'. か S seemed to V.（S seemed that S' V'. とは言えない）。
+! let me V の V を省いた形は let me、allow me to (V) は allow me to。approve は「（上の立場の者が）許可を与える」。
+x He seemed that he did not like the idea
+@S 解説 例 | トムは自分の車をとても大切にしているようだ
+> It seems that Tom takes very good care of his car.
+> Tom seems to take very good care of his car.
+~ X18-4 : It seems that ; seems to
+@pg 91
+@E X18-5 | 例題18 解説5 | 私はなんとか彼を説得できた
+= I (finally) managed to [was able to] persuade him.
+= I (finally) managed to [was able to] change his mind.
+= I (finally) succeeded in persuading him [in changing his mind].
+! この「～できた」に could は使えない。「なんとか」に somehow は不適切（somehow は「（はっきりとはわからないが）なんらかの手段を用いて」）。accept my request も可。
+@S 解説 例1 | どうしたらスーザンを禁煙させることができるかわからないが、なんとかやってみる
+> I do not know how I am going to get Susan to give up smoking, but I am going to do it somehow.
+~ X18-5 : somehow
+@S 解説 例2 | 彼らは浴室の窓から中へ（私は詳細は知らないが）なんとか入ることができた
+> Somehow they managed to climb in through the bathroom window.
+~ X18-5 : Somehow ; managed to
+@S 例題18 | 上司のところへ行って9月に休暇をくださいと頼んだ。彼はその考えが気に入らないようだったが、私はなんとか彼を説得できた。
+> I asked my boss to let me take a few days off in September. He did not seem to like the idea at first, but I managed to persuade him.
+> I went to my boss and told him that I wanted to take a vacation in September. He did not seem to approve at first, but I finally succeeded in changing his mind.
+~ X18-1 : my boss
+~ X18-3 : asked my boss to let me ; went to my boss and told him that I wanted to
+~ X18-2 : take a few days off in September ; take a vacation in September
+~ X18-4 : He did not seem to like the idea at first ; He did not seem to approve at first
+~ X18-5 : I managed to persuade him ; I finally succeeded in changing his mind
+~ P18-1 : managed to persuade ; succeeded in
+@pg 92
+@E C3-1 | コラム | 日本語では受動態でも英語では能動態が普通
+= 動作主が明確な場合は能動態（My doctor advised me to lose weight.）
+! I was advised to lose weight by my doctor. は「他ならぬ『私のかかりつけの医者』に忠告された」の意味になる。
+! 受動態が使われる場面：1. 動作主が明確でない・一般的な人 2. 主語が長く不格好だが重点を後ろにおきたい 3. 主語をそろえたい。
+@S コラム 例1 | 痩せるように医者に忠告された
+> My doctor advised me to lose weight.
+~ C3-1 : My doctor advised me
+@S コラム 例2 | 英語は世界中で話されている
+> English is spoken all over the world.
+~ C3-1 : is spoken
+@S コラム 例3 | その素晴らしい経験に深く感動した
+> I was deeply moved by the wonderful experience.
+~ C3-1 : was deeply moved by
+@S コラム 例4 | このアプリはとても人気があり、特に高校生に広く使われている
+> This app is very popular and is widely used, especially by high school students.
+~ C3-1 : is widely used
+@L 03 | 論理の表現の決定
+@pg 94
+@E P19-1 | 原則19-1 | V'するためにS V（主語が同じ）
+= S V ～ (in order) to (V')
+! in order to (V) は to (V) より堅い。so as to (V) は「結果として必ず～する」含みがあり堅いので避けたい。
+! 「～ために」は「理由」の場合もあるので文脈に注意。
+! for が「目的」を表す場合は後ろに名詞（We play poker just for fun.）。for (V)ing で「目的」は不可（例外：S be used for (V)ing）。
+@S 例1 | 昨日、ルースはお金をおろしに銀行に行った
+> Yesterday, Ruth went to the bank to withdraw some money.
+~ P19-1 : to withdraw
+@E P19-2 | 原則19-2 | S'V'するためにS V（主語が異なる）
+= S V ～ so that S' will / can V'
+! so that の後には助動詞 will / can / may が必要。過去時制なら would / could / might。
+@S 例2 | 時間内に準備が万事完了するようにがんばった
+> I worked hard so that everything would be ready in time.
+~ P19-2 : so that everything would be
+@pg 95
+@E X19-1 | 例題19 解説1 | 料理をおいしく仕上げるためには
+= (in order) to cook well [skillfully]
+= (in order) to prepare [cook / produce / △ make] nice [tasty / delicious] food
+= (in order) to become a good cook [good at cooking]
+! in order to (V) は if you want to (V) でもよい。do the cooking well とは言わない。make は意味が広く曖昧なので避けたい。food に s をつけない。
+! a dish を「料理」で使うときは a vegetable dish / a pasta dish / heavy dishes のように修飾語をつける。
+@E X19-2 | 例題19 解説2 | ～が要求される
+= it is necessary [important] to (V)
+= it is necessary [important] that S (should) V [S + 原形不定詞]
+= ～ is necessary [needed / required / × demanded] to (V)
+= you should [need to / have to] (V)
+= it takes [requires] ～ to (V)
+! demand ～ は「（政府などに強い口調で）～を要求する」で不適切。
+@pg 96
+@E X19-3 | 例題19 解説3 | 豊かな想像力
+= use one's imagination
+= be very imaginative [creative]
+= have a good [a rich / an active / a fertile] imagination
+= think very imaginatively
+! 抽象名詞はコロケーションを知らないと使用は困難。知らない場合は形容詞形を用いればよい。
+@E X19-4 | 例題19 解説4 | 手先の器用さ
+= be skillful [good / clever] with your hands [× fingers]
+= use [× move] your hands well [properly / skillfully / × accurately]
+! 「～の扱いがうまい」は be good with ～（at ではない）。dexterity は試験で思いつくのはまれなので自分の力で書く。
+@E X19-5 | 例題19 解説5 | S Vので、～
+= S V, so cooking ～.
+= S V, which ～.
+= S V, and this ～.
+! 文を指す場合は it ではなく this / that / , which を用いる。
+@E X19-6 | 例題19 解説6 | 心身の健康にとても良い
+= is mentally and physically good for [beneficial to] your health
+= is good for [beneficial to] your mental and physical health
+= is good for [beneficial to] your mind and body
+= helps (to) keep you mentally and physically healthy
+= helps (to) keep you staying in good mental and physical health
+@pg 97
+@E F27-1 | 頻出表現27-① | ～は健康に良い
+= ～ be good for [be beneficial to] one's health
+@S 頻出表現27 例 | 水泳は健康に良い
+> Swimming is good for your health.
+~ F27-1 : is good for your health
+@E F27-2 | 頻出表現27-② | ～は健康に悪い
+= ～ be bad for [be harmful to] one's health
+@S 頻出表現27 例 | 喫煙は健康に悪い
+> Smoking is bad for your health.
+~ F27-2 : is bad for your health
+@S 例題19 | 料理をおいしく仕上げるためには豊かな想像力や手先の器用さが要求されるので、心身の健康にとても良い。
+> In order to cook well, it is necessary to be very imaginative and use your hands well, which is good for your mental and physical health.
+> In order to cook skillfully, you need to use your imagination and be good with your hands, so cooking is mentally and physically beneficial to you.
+~ X19-1 : In order to cook well ; In order to cook skillfully
+~ P19-1 : In order to
+~ X19-2 : it is necessary to ; you need to
+~ X19-3 : be very imaginative ; use your imagination
+~ X19-4 : use your hands well ; be good with your hands
+~ X19-5 : which ; so cooking
+~ X19-6 : is good for your mental and physical health ; is mentally and physically beneficial to you
+@pg 98
+@E P20-1 | 原則20-1 | S'V'しないようにS V
+= S V ～ so that S' will not V'
+! 「～しないように」は not to (V) とは言えない。やや堅いが in order not to (V) / so as not to (V) は可。
+! 1 は「あることが起きるのを防ぐために」、2 は「あることが起きたことを想定して」の意味。
+@S 例1 | 途中でおなかがすくといけないから、昼ご飯を食べていきなさい
+> You should eat lunch so that you will not get hungry on the way.
+~ P20-1 : so that you will not get hungry
+@S 注意 例 | 就職面接のときに汚い言葉を使わないように注意しなさい
+> You should take care not to use bad language in a job interview.
+~ P20-1 : take care not to
+@S 注意 例 | そのバスに乗り遅れないようにバス停まで走った
+> I ran to the bus stop so that I would not miss the bus.
+> I ran to the bus stop to be in time for the bus.
+~ P20-1 : so that I would not miss the bus
+~ P19-1 : to be in time for the bus
+@E P20-2 | 原則20-2 | S'V'の場合に備えてS V
+= S V ～ in case S' V'
+! in case はおもにイギリス英語。この意味では S V in case S' V' の語順が普通。
+@S 例2 | 途中でおなかがすくといけないから、サンドイッチを持って行きなさい
+> You should take sandwiches with you in case you get hungry on the way.
+~ P20-2 : in case you get hungry
+@pg 99
+@E X20-1 | 例題20 解説1 | 公共の場で話す場合
+= when you [we] speak [when speaking] in public
+= when you [we] speak in the presence of other people [others]
+! in case of ～ は in case of emergency / fire / (an) earthquake の形で使うのが普通。「話す」は make [give] a speech でもよい。
+x In case of speaking in public
+@E X20-2 | 例題20 解説2 | 言葉を選んで話すようにすべきだ
+= you [we] should watch your language
+= you [we] should choose your words carefully
+! watch one's language「言葉を選ぶ、言葉遣いに注意する」は覚えておきたい。a word は「1単語」なので複数形。be careful of ～ は「危険なものなどに注意を向ける」。
+! had better (V) は口語的で「（警告して）～した方がよい」なので避け、should を用いる。
+@pg 100
+@E X20-3 | 例題20 解説3 | 人の気持ちを傷つけることがないように
+= so that you [we] will [may] not hurt other people's feelings [other people]
+= in order [so as] not to hurt anyone's feelings [anyone]
+! not to (V) は間違い。「人の気持ちを傷つける」は hurt one's feelings（複数形）。other's は間違い。offend も許容範囲。make others feel bad は不可。
+@E X20-4 | 例題20 解説4 | ～の際にも、注意が必要だ
+= This is also the case [also applies / is also true] when ～.
+= You [We] should take extra care when ～.
+@E X20-5 | 例題20 解説5 | SNSへ書き込む
+= post [write / × say] something [your opinions / comments / messages] on social media
+! say ～ は直接的発言が置かれるので say opinions は不可。SNS は英語では social media とするのが一般的。
+@pg 101
+@E F28-1 | 頻出表現28-① | 文章を書く
+= write [× write sentences]
+! a sentence は「主語と動詞を含むいわゆる1文」。「文章を書く」には使わない方が無難。
+@S 頻出表現28 注意 例 | 一般に、短い文の方が長い文より理解しやすい
+> In general, short sentences are easier to understand than long ones.
+~ F28-1 : short sentences
+@E F28-2 | 頻出表現28-② | うまい文を書く
+= write well
+@S 頻出表現28 例 | うまい文を書きたければ、名著を多く読むことだ
+> In order to write well, you should read many great books.
+~ F28-2 : write well
+~ P19-1 : In order to
+@E F28-3 | 頻出表現28-③ | 感想文を書く
+= write an essay
+@S 例題20 | 公共の場で話す場合は、人の気持ちを傷つけることがないように、言葉を選んで話すようにすべきだ。SNSへ書き込む際にも、注意が必要だ。
+> When you speak in public, you should watch your language so that you will not hurt other people's feelings. This is also the case when posting something on social media.
+> When speaking in public, we should choose our words carefully in order not to hurt anyone. We should take extra care when we post our opinions on social media.
+~ X20-1 : When you speak in public ; When speaking in public
+~ X20-2 : you should watch your language ; we should choose our words carefully
+~ X20-3 : so that you will not hurt other people's feelings ; in order not to hurt anyone
+~ P20-1 : so that you will not hurt
+~ X20-4 : This is also the case when ; We should take extra care when
+~ F9-1 : This is also the case
+~ X20-5 : posting something on social media ; post our opinions on social media
+@pg 102
+@E P21-1 | 原則21-1 | S VなのはS'V'だからだ
+= S V(,) because S' V'.
+! because S V を独立させて用いるのは間違い（例外：Why ...? への応答）。because ～ は新情報を示すことが多いので Just because S' V', S V. などを除き Because S' V', S V. は避けるべき。
+x I like dogs. Because they are obedient to their owners.
+@S 例1 | 私は犬が好きだ。飼い主に従順だからだ
+> I like dogs, because they are obedient to their owners.
+~ P21-1 : because they are obedient
+@E P21-2 | 原則21-2 | S'V'なのでS Vだ（相手も了解している理由）
+= Since S' V', S V.
+! since は (1)「（主に完了時制で）～以来」(2)「（聞き手・読み手も了解している理由を示して）～だから」。理由の since は旧情報なので文頭に置かれることが多い。
+x △ Because she is unable to work on that day, we have to ask someone else.
+@S 例2 | その日彼女は働けないのだから、誰か他の人に頼まなければならない
+> Since she is unable to work on that day, we have to ask someone else.
+~ P21-2 : Since she is unable
+@E P21-3 | 原則21-3 | 今やS'V'なのでS V
+= Now that S' V', S V.
+! 「今は～であるから」という以前とは異なる現在の状況について説明する場合に用いる。
+@S 例3 | （以前は話せなかったが）今や彼はスペイン語が話せるので、大使館に就職した
+> Now that he can speak Spanish, he has got a job at the embassy.
+~ P21-3 : Now that
+@E P21-4 | 原則21-4 | ～なので（名詞）
+= because of + 名詞（句） / due to + 名詞（句）
+! thanks to ～「～のおかげで」も使える。on account of ～ や owing to ～ はかなり堅いので避けた方が無難。
+@S 例4 | 祖父は歳のため早起きだ
+> My grandfather gets up early because of his age.
+~ P21-4 : because of his age
+@pg 103
+@E P21-5 | 原則21 注意5・6 | （自由作文）次の2つの理由で／上に挙げた理由で
+= I agree with the opinion that S' V' for the following two reasons.
+= It is for the reasons mentioned above that I am in favor of this opinion.
+! I have two reasons のような幼稚な表現は避ける。結論部では It is for the reasons mentioned above that ～。
+@S 注意5 例 | 私はS'V'という意見に次の2つの理由で賛成です
+> I agree with the opinion that S' V' for the following two reasons.
+~ P21-5 : for the following two reasons
+@S 注意6 例 | 上に挙げた理由で、私はこの意見に賛成です
+> It is for the reasons mentioned above that I am in favor of this opinion.
+~ P21-5 : It is for the reasons mentioned above that
+@pg 104
+@E X21-1 | 例題21 解説1 | 周囲にあまりにもたくさんある文化財になれっこになって
+= There are so many cultural assets [cultural properties / culturally important things] around us that ～
+= We are surrounded by so many cultural assets that ～
+= We are so used [accustomed] to seeing [× see / × watching] cultural assets around us that ～
+! be used to ～ の to は前置詞なので名詞か動名詞。「なれっこになって」は are so used か have become so used（get / become の現在時制は不可）。
+! 「文化財」は cultural assets / cultural properties が定訳。heritage は通例不可算（so much cultural heritage）。too many ～ は「ありすぎて困る」の意味になり不可。
+@pg 105
+@E X21-2 | 例題21 解説2 | その存在を当然のように思いがちである
+= we tend to [are apt to / often / △ are likely to] take them [△ their existence] for granted
+= we hardly ever [rarely / seldom] stop to think [stop and think] about them
+= we do not appreciate them as we should
+! take ～ for granted は「～の存在を当然とみなす」なので take their existence for granted は避ける。exist は「（世間の人が存在しないと思っているものが）存在する」で使うのが普通。
+@S 解説 例 | お見合いの習慣は多くの国でまだ存在している
+> The custom of arranged marriages still exists in many countries.
+~ X21-2 : still exists
+@E X21-3 | 例題21 解説3 | しかし本当は
+= S V, but in fact [actually], S V
+= However, the fact [the truth] is that S V
+= The fact [truth] is, however, that S V
+! however は副詞なので文と文とをつなぐことはできない。
+@E X21-4 | 例題21 解説4 | 1つ1つの文化財
+= each of them
+= each one
+= them / they
+! 和文通りでは 1・2 だが、them / they が自然な英語という指摘もある。1・2 は単数扱い。
+@pg 106
+@E X21-5 | 例題21 解説5 | （多年の努力）の結晶である
+= we can enjoy seeing ～ because [多くの人が長年にわたり努力してきた]
+= ～ exist(s) [△ remain(s)] because [多くの人が長年にわたり努力してきた]
+= we should remember (the fact) that [多くの人が長年にわたり努力してきた]
+= we should not forget (the fact) that [多くの人が長年にわたり努力してきた]
+= ～ is [are] the result [fruit / × crystal] of [多くの人の多年の努力]
+= ～ represent(s) / result(s) from / have [has] behind it / require(s) [多くの人の多年の努力]
+! 「結晶である」と無理に訳そうとせず「～したために、我々はそれを見ることを楽しめる」などとするのが無難。crystal に日本語の「結晶」の意味はない。
+! 「A は B である」を A is B と書くのは危険（〈文化財 + is + 結晶〉は避けたい）。
+@S 解説 例 | 我々の成功は血と汗と涙の結晶だ
+> Our success is the result of our blood, sweat and tears.
+~ X21-5 : is the result of
+@E X21-6 | 例題21 解説6 | それを維持する
+= preserve ～
+= protect ～
+= maintain ～
+! 「現状維持」は preserve。「何かの危害から守る」なら protect。maintain は「保守、修理などを怠らずにする」。keep は曖昧なので不可（keep ～ as they are なら可）。conserve は「無駄のないように使う」で不可。
+@pg 107
+@E X21-7 | 例題21 解説7 | ～するために尽くしてきた数多くの人たちの多年の努力
+= many [a large number of] people have been striving [making great efforts] to (V) for a long time [for many years]
+= many people have been working [× trying] (very) hard to (V) for a long time [for many years]
+= many people have been devoting themselves to ～ for a long time [for many years]
+= many years' effort(s) of many people who ～
+= many years of effort(s) of many people who ～
+! 文で表す場合は現在完了進行形で表すこと。
+@S 例題21 | 私たちは、周囲にあまりにもたくさんある文化財になれっこになって、その存在を当然のように思いがちである。しかし本当は、1つ1つの文化財は、それを維持するために尽くしてきた数多くの人たちの多年の努力の結晶である。
+> There are so many cultural assets around us that we tend to take them for granted. However, the fact is that we can enjoy seeing them because a large number of people have been striving to preserve them for many years.
+> We are so used to seeing cultural assets around us that we hardly ever stop to think about them. The truth is, however, that we should remember the fact that many people have been working very hard to protect them for a long time.
+~ X21-1 : There are so many cultural assets around us that ; We are so used to seeing cultural assets around us that
+~ X21-2 : we tend to take them for granted ; we hardly ever stop to think about them
+~ X21-3 : However, the fact is that ; The truth is, however, that
+~ X21-5 : we can enjoy seeing them because ; we should remember the fact that
+~ X21-4 : them
+~ X21-7 : a large number of people have been striving to ; for many years ; many people have been working very hard to ; for a long time
+~ X21-6 : preserve them ; protect them
+~ P17-3 : have been striving ; have been working
+@pg 108
+@E P22-1 | 原則22-1 | 理由の1つはS V
+= partly [in part] because S V
+! 和文で「理由」とあっても reason を用いず because を用いると簡潔な表現となる。
+@S 例1 | 私が毎朝散歩している理由の1つは、考える時間ができるということだ
+> I take a walk every morning partly because it gives me time to think.
+~ P22-1 : partly because
+@E P22-2 | 原則22-2 | 主な理由はS V
+= mainly [chiefly / largely] because S V
+@S 例2 | 私がこの部屋を選んだ主な理由は、家賃が手頃であるということだ
+> I have chosen this room mainly because its rent is reasonable.
+~ P22-2 : mainly because
+@E P22-3 | 原則22-3 | まさに理由はS V
+= precisely because S V
+@S 例3 | 私たちの上司が尊敬されているのは、まさに私たちへの指示が的確だからです
+> Our boss is respected precisely because he gives us the right instructions.
+~ P22-3 : precisely because
+@E P22-4 | 原則22-4 | 単にS Vな理由で
+= simply [just（口語）] because S V
+@S 例4 | 単に天才ではないという理由でがっかりする必要はない
+> You do not have to be discouraged simply because you are not a genius.
+~ P22-4 : simply because
+@E P22-5 | 原則22-5 | 理由はおそらくS V
+= probably because S V
+@S 例5 | 彼が実力を発揮できなかったのは、おそらく睡眠不足が原因であろう
+> He did not display his real ability probably because he did not get enough sleep.
+~ P22-5 : probably because
+@pg 109
+@E X22-1 | 例題22 解説1 | S Vだ。1つには～ためである
+= S V(,) partly [in part] because ～.
+= S V. This was partly [in part] because ～.
+= S V. One reason (for this / × of this) was that ～.
+= S V. One of the reasons (for this) was that ～.
+! 「理由」の部分を独立させて S V. Partly because ～ とするのは典型的な間違い。4 は reasons と複数形に。
+x One of the reason was that ～
+@E X22-2 | 例題22 解説2 | 私は新校舎に入ってみる気にはなれなかった
+= I did not feel like going inside the new school building
+= I could not bring myself to go into the new school building
+! 単に go inside でもよい。enter は堅く大げさだが × ではない。enter into ～ は「（議論、交渉など）に入る」で ×。
+x I did not want to enter into the new school building
+@pg 110
+! X22-2 補足：go [walk] into ～ は可。get into ～ は「（車などの狭いところ）に入る」で ×。feel like (V)ing の代わりに want to (V) としても × にはならない。
+@E F29-1 | 頻出表現29-① | ～する気になる
+= feel like (V)ing
+@E F29-2 | 頻出表現29-② | ～する気にならない
+= do not feel like (V)ing
+= cannot bring oneself to (V)
+= be reluctant to (V)
+! cannot bring oneself to (V) は「（つらくて・恥ずかしくて）～する気にとてもなれない」の意味。
+@S 頻出表現29 注意 例 | その事故はとても悲惨だったので、今はとても話す気にはなれない
+> The accident was very tragic so I am afraid I just cannot bring myself to talk about it at the moment.
+~ F29-2 : cannot bring myself to
+@E X22-3 | 例題22 解説3 | ～という寂しさがあった
+= I felt [was] (a little) sad that S' V'
+= I felt the (sense of) sadness that S' V'
+= I felt [realized] that S' V'
+! lonely は「人がいない寂しさ」で用いるため不可（I was all alone and lonely.）。that S' V' は感情を表す形容詞の後ろで「感情の原因・理由」を示す。
+@S 解説 例 | たったひとりで寂しかった
+> I was all alone and lonely.
+~ X22-3 : lonely
+@pg 111
+@E X22-4 | 例題22 解説4 | これはもう私の出た学校ではない
+= it did not feel [no longer felt] like the same school (that / × where) I had graduated from [I had attended / I had gone to / I used to attend]
+= it did not feel [no longer felt] like my [our] old school
+= it was not the same building (that / which) I had studied in
+! it (= the building) was no longer the same school とすると奇異（学校そのものに変化はない）。後半は過去完了か used to (V)。
+! 「これは」につられて this にしない。graduate from ～ の from を忘れない（leave は「中退する」にもなる）。attend は他動詞で to 不要。
+! 「原因・結果」を示す文は because ～ や so ～ that を用いれば one of the reason のような誤りは防げる。
+@S 例題22 | 私は新校舎に入ってみる気にはなれなかった。1つには、これはもう私の出た学校ではないという寂しさがあったためである。
+> I did not feel like going inside the new school building, partly because I felt a little sad that it did not feel like the same school I had graduated from.
+> I could not bring myself to go into the new school building. One reason was that I felt a little sad that it no longer felt like my old school.
+~ X22-2 : I did not feel like going inside the new school building ; I could not bring myself to go into the new school building
+~ F29-2 : could not bring myself to
+~ F29-1 : feel like going
+~ X22-1 : partly because ; One reason was that
+~ P22-1 : partly because
+~ X22-3 : I felt a little sad that
+~ X22-4 : it did not feel like the same school I had graduated from ; it no longer felt like my old school
+@pg 112
+@E P23-1 | 原則23-1 | とても～なので…（形容詞・副詞）
+= S V so + 形容詞・副詞 + that S' V'
+! so は副詞、such は形容詞という認識が大切。名詞をともなう場合は〈so + 形容詞 + 冠詞 + 名詞〉の語順。
+@S 例1 | ジェームズ先生のおかげでパーティは大いに盛り上がり、時間がたつのも忘れた
+> Thanks to Mr. James, the party was so enjoyable that we lost track of time.
+~ P23-1 : so enjoyable that
+@S 注意2 例 | 日本ではおじぎは日常のごくありふれたことなので、ついあたりまえのことと考えてしまう
+> In Japan bowing is so familiar a ritual in daily life that it is easy to take it for granted.
+~ P23-1 : so familiar a ritual ; that
+@E P23-2 | 原則23-2 | とても～なので…（名詞）
+= S V such + 名詞 + that S' V'
+! 冠詞のつかない〈形容詞 + 名詞〉は such ～ that 構文を用いる（such [× so] cold weather）。ただし so many cars / so much water は例外。
+@S 例2 | とても寒い日だったので家の中にいることにした
+> It was such a cold day that I decided to stay indoors.
+~ P23-2 : such a cold day that
+@S 例3 | とても急いでいたのでネクタイを着けるのを忘れていた
+> I was in such a hurry that I forgot to put on a tie.
+~ P23-2 : such a hurry that
+@S 注意3 例 | 高い服ばかり買っているから彼女にお金がないのは当然だよ
+> She always buys such expensive clothes that I am not surprised that she never has any money.
+~ P23-2 : such expensive clothes that
+@pg 113
+@E X23-1 | 例題23 解説1 | 今や自分の家やマンションを持つにはお金がかかりすぎるので～
+= It costs so much now [nowadays / these days] for young people to own [buy] a house or apartment [condominium] of their own that ～
+= It is now too expensive to own your own house or apartment, so ～
+= Since [Now that / △ Because] it now costs too much to own [buy] a house or apartment of their own, ～
+! 「常識的理由」なので 3 は because より since が適している。
+! 「アパート」「賃貸マンション」「分譲マンション」はすべて apartment。高級マンション a luxury apartment、新築 a brand-new apartment、中古 a secondhand [× used] apartment、ワンルーム a studio apartment。
+x mansion（「マンション」の意味では不可）

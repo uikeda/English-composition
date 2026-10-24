@@ -1,0 +1,307 @@
+# 原則のまとめ（原則1〜70、意味 → 英語の型 → 注意）
+# @R 番号 | タイトル / 日本語の意味 | 英語の型 | 注意
+@R 1 | ～が増えている
+～の数が増えている | The number of ＋可算名詞(複) is increasing. | 主語は number なので単数扱い
+～の量が増えている | The amount of ＋不可算名詞 is increasing. | year by year「年々」
+～する人［もの］が増えている | An increasing number of ＋複数名詞 ＋V | × Japanese who go abroad are increasing
+@R 2 | ～が少ない／少しある
+～がほとんどない（否定） | Few ＋可算名詞(複) ／ Little ＋不可算名詞 | very few / very little で強調
+～が少しある（肯定） | A few ＋可算名詞(複) ／ A little ＋不可算名詞 | 
+…のうち～はほとんどいない | Very few of the ＋複数名詞 ＋V | 
+@R 3 | ～が多い／大半だ
+多くの～ | A large number of ＋可算名詞(複) | 
+多量の～ | A great deal of ＋不可算名詞 | 
+～が大半だ | Most ＋名詞 ＋V | × Almost people （almost は副詞）
+@R 4 | ～な人もいる
+～な人もいる | Some people ＋V | 
+～がある | There are (some) ＋名詞 ＋関係詞節 | 
+～な人もいれば…な人もいる | Some people～, while others … | 
+（特定集団）の中には～もいる | Some of ＋the/my など ＋複数名詞 ＋V | 
+@R 5 | ～な人／者は
+～したい人は | Anyone who ～ ＋V（単数扱い） | 
+～な人々は | Those who ～ ＋V（複数扱い） | 
+～したければ | If you ～, you … | 人を主語にせず if 節で処理
+～できる人 | someone who ～ | 
+@R 6 | 「一般論」の主語
+（人は一般に）～できる／すべきだ | You ＋V（総称の you） | × I は不可
+私たちは（人類・国民として）～ | We ＋V | 話者を含む集団
+誰にでも～ | Everyone ＋単数動詞 | △ All people
+誰もが～するわけではない | Not everyone ＋V | × Everyone does not ～
+@R 7 | ～人のうち…人が─
+～人に1人が | One out of (every) ～ ＋単数名詞 ＋単数動詞 | 
+その～人のうち…人が | 数 out of the ～ ＋V | 
+…の～パーセントが | ～ percent of ＋名詞 ＋V | 動詞は of の後の名詞に一致
+…の～分の…が | Two-thirds of ＋名詞 ＋V | 分子が2以上なら分母は複数形
+@R 8 | 割合は～／パーセント
+～の割合は…%だ | The percentage of ～ is … | × rate
+～の比率が高い／低い | The proportion of ～ is high / low | × rate
+AとBの比率は…対…だ | The ratio of A to B is 3:1 | 
+～率（出生率・死亡率など） | the ～ rate | infant mortality rate など
+@R 9 | ～が何百人もいる
+何百もの～ | Hundreds of ＋複数名詞 | thousands of / millions of も同様
+（具体的な数）300の～ | three hundred ＋複数名詞 | × hundreds（数詞の後は s なし）
+@R 10 | ～というもの
+～というもの（総称） | 無冠詞複数形 ／ 無冠詞不可算名詞 | Computers are … / Language is …
+AとはBのことだ（定義） | A is someone [something] who [which] ～ | 
+@R 11 | 「人」を主語に変換する
+…する機会が多い | I have many chances to ～ | × Chances are many
+彼の髪は長い | He has long hair. | 「物」主語より「人＋have」
+彼女の表情は明るい | She looks happy. | × Her expression is bright
+～があれば幸せだ | You are happy if ～ | × It is happy to ～
+私の趣味は～です | I love [like] ～ing | △ My hobby is ～
+@R 12 | ～する（現実か仮定か）
+（現実に）～するのは…だ | It is … that S V | 現実の行為・習慣
+（一般に・仮定として）～するのは…だ | It is … for 人 to V | まだ起きていない／一般論
+～が…することが大切だ | It is important that S (should) V | = It is important for 人 to V
+@R 13 | 過去形か現在完了形か
+（過去の一時点で）～した | 過去形 ＋ ago / when ～ など | 過去を表す語句があれば過去形
+（今までに）～したことがある | have Vp.p.（経験） | × ago とは併用不可
+（もう）～することに決めている | have decided to V（完了・結果） | 
+～したのはこれが初めてだ | This is the first time S have (ever) Vp.p. | 
+今まで～した中で一番… | the 最上級 ＋名詞 ＋ S have ever Vp.p. | 
+@R 14 | Aとは～だ
+Aの1つは～することだ | One of A is to V ／ ～ing | 主語は One なので単数
+Aの本質は～にある | A lies in ～ing | 
+Aの問題点は～ということだ | The trouble with A is that S V | 
+@R 15 | SVは…だ
+～かどうかは不確かだ | It is unclear whether or not S V | 
+～かどうかは疑わしい | It is doubtful whether or not S V | 
+～することが重要だ | It is important that S (should) V | 
+～しようがしまいが重要ではない | It does not matter whether S V or not | 
+@R 16 | 時制の一致
+（過去に）～していると気づいた | S realized that S' was ～ing | 主節が過去なら従属節も過去
+～したことがあると言った | S told me that S' had Vp.p. | 過去より前 → 過去完了
+～するかもしれないとは思わなかった | It never occurred to me that S' might V | 
+～するように（過去） | so that S' would [could] V | × will
+@R 17 | forかinか
+（期間）～の間ずっと（継続） | for ＋期間 | have lived for ten years
+過去～年間に（回数・変化） | in [over] the last ＋期間 | × for（出来事の回数・増減）
+@R 18 | ～できた
+（1回の行為が）～できた | 過去形（ ＋ managed to V / was able to V） | × could（能力一般の意味になる）
+～できなかった | could not V | 否定なら could で可
+@R 19 | ～するために
+～するために | to V ／ in order to V | 
+SがVするように | so that S will [can] V | 過去なら would [could]
+～のために（目的の名詞） | for ＋名詞 | just for fun
+@R 20 | ～しないように／備えて
+～しないように | so that S will not V ／ so as not to V | 
+～するといけないから（備えて） | in case S V（現在形） | in case 節内に will は不可
+～しないように注意する | take care not to V | 
+@R 21 | 理由の表現
+…だ。なぜなら～だから | S V, because S' V' | × 文頭 Because ～. の単独文
+（既知の理由）～なので | Since S' V', S V | 
+（状況の変化）今や～なので | Now that S' V', S V | 
+～のため（名詞） | because of ＋名詞 | 
+次の2つの理由で～ | for the following two reasons | 
+@R 22 | 理由の1つは／主な理由は
+～する理由の1つは…だ | S V partly because S' V' | × One of the reasons is because
+主な理由は…だ | S V mainly because S' V' | 
+まさに…だから | S V precisely because S' V' | 
+単に…という理由で | simply because S' V' | 
+おそらく…が原因だろう | probably because S' V' | 
+@R 23 | とても～なので…
+とても（形容詞/副詞）なので… | so ＋形/副 ＋ that S V | 
+とても（形容詞＋名詞）なので… | such (a) ＋形容詞 ＋名詞 ＋ that S V | = so ＋形容詞 ＋ a ＋名詞
+とても～な状態なので | such ＋名詞句 ＋ that S V | in such a hurry that
+@R 24 | ～の証拠だ
+Aが～ということの証拠だ | A proves [shows] that S V | 
+～だ。その証拠に… | ～. This is proved by the fact that S V | 
+～だ。その例として… | ～. This is illustrated by the fact that S V | 
+…, which shows ～ | 前文全体を which で受ける | 
+@R 25 | …といって～ではない
+だからといって～とは限らない | This does not necessarily mean that S V | 
+…ということは～ということだ | This means that S V | 
+…だからといって～とは限らない | Just because S' V', it does not necessarily follow that S V | 
+@R 26 | ～で決まる／～に左右される
+Aは～で決まる | A is determined by ～ | 
+Aは～次第だ | A depends on ～ | 
+Aは～に左右される | A is (greatly) influenced by ～ | 
+@R 27 | ～がいちばんだ／理想だ
+～するのがいちばんだ | It is best to V | 
+～するには…に限る | The best way to V is to V' | 
+～でいちばんよいのは…だ | The best thing about ～ is ～ing | 
+理想の～ | the ～ of one's dreams | the man of my dreams
+@R 28 | さまざまだ
+Aは～によって異なる | A varies from ～ to ～ | from country to country （無冠詞）
+Aは～によってさまざまだ | A varies depending on [according to] ～ | 
+人によって～はさまざまだ | Different people have different ～ | 
+@R 29 | 違う／～と違って
+AとBは～の点で違う | A and B are different in ～ from each other | 
+Aは～という点でBと違う | A is different from B in that S V | 
+～と違って | Unlike ～, S V | 主語は ～ と比べられるもの
+@R 30 | 同じ／似ている
+AとBは似ている | A and B are alike | alike は名詞の前に置けない
+Aは～という点でBに似ている | A is similar to B in that S V | 
+AはBと同じだ | A is the same as B | 
+@R 31 | 気にしない（1）
+～を気にしない | do not care about ～ | whether 節も可
+～を心配する／しない | (do not) worry about ～ | 
+（人が）～しても構わない | do not mind 人［人's］～ing | 
+（自分が）～しても構わない | do not mind ～ing | × my ～ing
+@R 32 | 気にしない（2）
+～を気にしていない（罪悪感なく） | do not feel guilty about ～ | 
+～を何とも思わない | think nothing of ～ing | 
+遠慮なく～してください | Please do not hesitate to V | 
+～に何のためらいもない | have no qualms about ～ | 
+@R 33 | 心配しない／する
+何も心配はいらない | There is nothing to worry about. | 
+～のことが気がかりだ | worry about ～ | 
+～ではないかと不安に思う | worry that S V | 
+最大の心配事は～だ | One of one's biggest worries is that S V | 
+@R 34 | ～させる
+（強制的に）～させる | make 人 V（原形） | 
+（許可して）～させる | let 人 V（原形） | 
+（頼んで）～させる／してもらう | have 人 V（原形） | 
+～させ続ける | keep 人 ～ing | 
+@R 35 | ～される／～してもらう
+（人に）～される | 受動態 be Vp.p. by 人 | 
+（物を）～してもらう | have 物 Vp.p. | 
+（人に）～してほしい | want 人 to V | 
+～され続ける（待たされる） | be kept ～ing | 
+@R 36 | 聞く／見る
+Sが～するのを（全部）聞く | hear [see] O V（原形） | 
+Sが～しているのを聞く | hear [see] O ～ing | 途中の一部
+～と（人づてに）聞く | hear that S V | 
+～だとわかる | see that S V | 
+@R 37 | ～に…を教える
+（情報を）教える | tell 人 about ～ ／ tell 人 the way | × teach（学問・技能のみ）
+知らせる | let 人 know ～ | 
+気づかせる | make 人 realize that S V | 
+（意見を）教えて | share ～ with 人 | 
+@R 38 | 言う
+人に～と言う | tell 人 (that) S V | × say to 人 that
+～だと言われる | be told that S V | × be said that（人主語）
+～するなと言われる | be told not to V | 
+@R 39 | 感情の表現
+（人が）～して驚く／感動する | 人 be surprised / moved by ～ | 人が主語 → 過去分詞
+（物が）人を～させる | 物 ＋感情動詞 ＋人 | irritate / please など
+～するのはうれしい | ～ing is enjoyable ／ You feel happy when ～ | × ～ing is happy
+@R 40 | ～ぶりで
+～年ぶりに | for the first time in ～ years | 
+久しぶりに | for the first time in ages [a long time] | 
+～年ぶりの…（最上級） | the 最上級 in ～ years | 
+～するのはこれが初めてだ | This is the first time S have (ever) Vp.p. | 
+@R 41 | ～のX前・後に
+～するX前に | 期間 before S V | 
+～してからX後に | 期間 after S V | 
+～して…もしないうちに | less than 期間 after S V | 
+@R 42 | ～以来…だ
+～してから…になる | It has been [is] 期間 since S V（過去形） | × after
+（今まで）ずっと～している | have been ～ing | 
+…間ずっと～していない | have not Vp.p. for 期間 | 
+@R 43 | ～以来／～から
+～以来ずっと（状態） | have Vp.p. since ～ | × have been knowing
+～からずっと（動作） | have been ～ing since ～ | 
+…前から～している | have been ～ for 期間 | △ since ～ ago
+@R 44 | ～かかる
+～するのに（時間）がかかる | It takes (人) 時間 to V | 
+～するのに（費用）がかかる | It costs (人) 金額 to V | 過去形も cost
+～に（時間・金）を使う | 人 spend 時間 ～ing | 
+@R 45 | 過ごす
+～して（時間）を過ごす | spend 時間 ～ing | × to V
+楽しい時を過ごす | have a good [wonderful] time | 
+～に夢中である | be absorbed in ～ | 
+～（場所・人と）過ごす | spend 時間 at [with] ～ | 
+@R 46 | ～（時間）後には
+（今から）～後に | in 期間（未来） | 
+（過去の時点から）～後に | 期間 later | 
+（ある時点から）～経って | after 期間 | 
+@R 47 | ～してはじめて…
+～してはじめて…した | It was not until S' V' that S V | = It was only after ～ that
+（倒置） | Not until [Only after] S' V' did S V | 
+…しなかったが～してやっと | S did not V until S' V' | 
+@R 48 | ～より／～に比べて
+AはBより～だ | A is 比較級 than B (is) | 比較対象をそろえる
+BよりAの方がずっと～ | far [much] 比較級 than | 
+見かけより～ | 比較級 than S looks | 
+@R 49 | ～ほど…ない
+AはBほど～ではない | A is not as ～ as B | 
+見かけほど～ではない | not as ～ as S looks | 
+予想していたほど～ない | not as ～ as S had expected | 
+@R 50 | 意外に／案外
+思ったより～だ | 比較級 than S (had) expected | 
+想像以上に～ | 比較級 than you might expect | 
+急に／思いがけず | unexpectedly | 
+意外に～だよ | You will be surprised how ～ S is | 
+@R 51 | 昔より／以前の～より
+以前より～だ | 比較級 than S used to be [once was] | 
+以前より～する（一般動詞） | 比較級 than S used to | × used to do
+～年前より | 比較級 than (S was) ～ years ago | 
+昔ほど～ではない | not as ～ as S used to be | 
+@R 52 | ～すればするほど
+～すればするほど… | The 比較級 ～, the 比較級 … | 元の文から比較級を前に出す
+～すればするほど…でなくなる | The 比較級 ～, the less ＋原級 … | 否定文は不可
+（副詞が難しいとき） | the more likely S is to V | 
+@R 53 | ～ほど…なものはない（1）
+～ほど…なものはない | Nothing is as [so] … as ～ | = Nothing is 比較級 than ～
+～すること（行為）ほど…はない | Nothing is as … as ～ing [to V] | that 節は不可
+@R 54 | ～ほど…なものはない（2）
+～ほど…なときはない | S be never as … as when ～ | = S be 最上級(the なし) when ～
+～ほど…なところはない | Nowhere [In no (other) place] is S as … as ～ | 倒置形になる
+@R 55 | ～倍
+AはBのx倍の～だ | A ＋V ＋倍数 ＋ as ～ as B | × books three times as many
+AはBのx倍だ | A ＋V ＋倍数 ＋B（as ～ as 省略） | twice／three times／half
+@R 56 | どんなに～しても
+いつ～しても | Whenever S' V', S V | = No matter when
+どこへ～しても | Wherever S' V', S V | = No matter where
+どんなに～しても | However ＋形/副 ＋S' V', S V | 語順に注意
+どんな～でも | Whatever ＋名詞 ＋S' V', S V | 
+@R 57 | たとえ～でも
+（現実に）～だが | even though S' V', S V | 事実とわかっている内容
+（仮定）たとえ～でも | even if S' V', S V | 事実かわからない内容
+（確実に起きる未来）～しても | even when S' V', S V | 条件節に will は不可
+@R 58 | もし～ならば（1）
+（起こり得る）もし～なら | If S' ＋現在形, S will V | 
+（起こり得ない）もし～なら | If S' ＋過去形, S would / could / might V | 仮定法過去
+万一～なら | If S' should V, 命令文 | 
+@R 59 | もし～ならば（2）
+もし～であったら…だったのに | If S' had Vp.p., S would have Vp.p. | 仮定法過去完了
+もし～であったら（今ごろ）…なのに | If S' had Vp.p., S would V now | 主節のみ現在
+もし～できていたら | If S' could have Vp.p., S would have Vp.p. | 
+@R 60 | もし～がなければ
+今、もし～がなければ | If it were not for～ ／ Without ～, S would V | 
+もし～がなかったら | If it had not been for ～ ／ Without ～, S would have Vp.p. | 
+もし～があれば | 慣用表現なし（If I had ～ など） | 
+@R 61 | まるで～のように
+まるで～のように… | act / feel / look / talk as if S' V' | 現在形が普通（明らかな反事実は過去形）
+まるで～したかのように… | as if S' have Vp.p. | 時制の一致で had Vp.p.
+まるで～と言わんばかりに | as if to say that S' V' | 
+@R 62 | 関係詞の先行詞に置かれる冠詞
+（複数ある中の1つ） | a ＋単数名詞 ＋関係詞節 | 
+（不特定多数） | 複数名詞 ＋関係詞節（the なし） | 
+（1つに特定） | the ＋単数名詞 ＋関係詞節 | 
+（特定の集団全員） | the ＋複数名詞 ＋関係詞節 | 
+@R 63 | カンマ＋関係代名詞［副詞］節
+固有名詞の補足説明 | 固有名詞, which [where] ～ | 
+one's ＋名詞の補足説明 | one's ＋名詞, which [where] ～ | 複数あるなら one of
+総称の名詞の補足説明 | 総称名詞, which ～ | 
+@R 64 | ～しながら（1）
+～しながらVする | V while (S be) ～ing | 主たる動作を while の後に
+～しながら起きている／座っている | stay up / sit / lie (,) ～ing | 
+～を聞きながら／見ながら…する | …, listening to ～ / watching ～ | × hearing / seeing
+コーヒーを飲みながら／食事しながら | over (a cup of) coffee / over dinner | talk・discuss と共に
+@R 65 | ～しながら（2）
+Aを～して・～しながら | with A ＋ 過去分詞／形容詞／前置詞句 | with his arms folded など
+@R 66 | 副詞（句・節）の位置
+Oが長いとき | SV ＋副詞句 ＋O | 修飾関係を明確に
+that 節内が〈接続詞節, S V〉 | S V that ＋副詞節 ＋S' V' | 
+副詞の並び順 | 場所 → 様態 → 時 | 
+@R 67 | ～という
+～という経験／思い出 | (the) experience / memories of ～ing | 
+～という事実／可能性 | the fact / possibility that S V | 
+～という記事／手紙 | an article / a letter saying that S V | 
+～という状況／環境／社会 | a situation / an environment / a society in which SV | 
+（Aが）～するという傾向 | the tendency (for A) to V | 
+@R 68 | 難語の処理
+節に置き換える | 難しい名詞 → whether / where 節など | 
+言いたいことを考え、自信のある表現で | 比喩・熟語 → 平易な文 | 
+言いたいことだけに絞り省略する | 抽象語 → 具体的な内容 | 
+@R 69 | 抽象名詞の処理
+「～の内容・考え・原因・本質」など | what節（what is written in ～ など） | 
+「～の気持ち・外見・量・質」など | how 節（how someone feels など） | 
+「～の用地・場所」 | where 節 | 
+@R 70 | 断定を避ける
+～になりうる | 助動詞 could / might を足す | × is
+一般に～ | generally / in general を足す | 
+普段は～ | usually を足す | 
+大半の～ | most ～ / the majority of ～ を足す | 

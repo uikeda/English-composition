@@ -1,0 +1,135 @@
+# 第4分冊（pp.320-327）。p.319 以前と p.328 以降は添付スキャンに含まれていない／判読不能。
+@L 10 | その他の重要表現
+@pg 320
+# 例題68（問題文 p.319 は未収録）の解説3〜5と解答
+@E X68-3 | 例題68 解説3 | 出産、育児のため女性が休むことは昇進の面で著しく不利でした
+= if women take several months off (in order) to have babies and raise them [take care of them], they find it extremely [very] difficult [they are less likely] to get promoted [get a promotion]
+= if women are away from work (in order) to give birth or take care of their children, they have great difficulty getting a promotion
+! 現状を考えれば used to (V) で過去の話にするのは無理があるので現在形。disadvantage なら women are at a great disadvantage in terms of promotion。take maternity [childcare] leave も可。take a rest は「ちょっと休む」で不可。
+@E X68-4 | 例題68 解説4 | 今後は休んだあとの復職を容易にするとともに、…していかねばなりません
+= It is absolutely necessary to make it easier for women to return to their jobs [to work again / to go back to work], and ...
+= Now, we need [have] to make a great effort [to strive / to work hard / to do our best] to help women return to work, and also ...
+! 「休んだあとの」は1つにまとめて文末に置けばよい。「今後は」は now / from now on / in (the) future。
+@E X68-5 | 例題68 解説5 | 復職後業績を上げれば速やかに昇進できる体制をつくり上げて（いかねばなりません）
+= establish [set up / create / build] a system in which they can get promoted rapidly [quickly / promptly / swiftly / easily / immediately] if they do a good job [do well at work] after they return to their jobs
+= create a system that [which] enables [allows] them to get a rapid [quick / prompt / swift / immediate] promotion if they succeed (in their work) [if they achieve good results] after they start [begin] to work again
+= help them get promoted as easily as men if they do a good job after they go back to their jobs [work]
+! 「1つの体制」に定まることはないので the system in which ... は不可。「業績を上げる」は「よい仕事をする」「仕事で成功する」くらいで十分。
+@pg 321
+@S 例題68（解答） | （問題文は未収録）女性が学問の世界で成功する機会は少なかった。特に日本では、出産、育児のため女性が休むことは昇進の面で著しく不利でした。今後は休んだあとの復職を容易にするとともに、復職後業績を上げれば速やかに昇進できる体制をつくり上げていかねばなりません。
+> Women have had few opportunities to succeed in the academic world, precisely because men have been regarded as superior to women. In particular, in our country, where the longer you continue to work, the higher position you get, if women take several months off in order to have babies and raise them, they find it extremely difficult to get promoted. From now on, it is absolutely necessary to make it easier for women to return to their jobs, and create a system in which they can get promoted rapidly if they do a good job after they start to work again.
+> Women have not been given chances to play active roles in the world of learning. There is no doubt that this is because most societies have been male-oriented. In particular, in Japan, where seniority is valued, if women are away from work in order to give birth or take care of their children, they have great difficulty getting a promotion. Now, we need to make a great effort to help women return to work, and also establish a system that enables them to get a rapid promotion if they achieve good results after they start to work again.
+~ R22-3 : precisely because
+~ P2-1 : few opportunities
+~ R63-1 : our country, where ; Japan, where
+~ P52-1 : the longer you continue to work, the higher position you get
+~ X68-3 : if women take several months off in order to have babies and raise them, they find it extremely difficult to get promoted ; if women are away from work in order to give birth or take care of their children, they have great difficulty getting a promotion
+~ X68-4 : it is absolutely necessary to make it easier for women to return to their jobs ; we need to make a great effort to help women return to work
+~ X68-5 : create a system in which they can get promoted rapidly if they do a good job ; establish a system that enables them to get a rapid promotion if they achieve good results
+~ X12-1 : There is no doubt that
+~ X11-2 : play active roles
+@pg 322
+@E P69-1 | 原則69-1 | 抽象名詞の処理：what 節を用いて具体化する
+= 周囲の状況 → what is going on around you
+= その本の内容 → what is written in the book
+= 君の考え → what you think
+= 昨日の私の経験 → what happened to me yesterday
+= その問題の原因 → what causes the problem
+= 教育の本質 → what education is all about
+= 教育の目的 → what education is for
+= あなたに対する世間の目 → what other people think about you
+= 人柄 → what you are
+= 真意 → what you really want to say
+! 抽象名詞を用いるとミスをする可能性が高いので、このような変換をすることが望ましい。
+@E P69-2 | 原則69-2 | 抽象名詞の処理：how 節や where 節などを用いて具体化する
+= 人の気持ち → how someone feels
+= 人の外見 → how someone looks
+= 人の財産 → how much money someone has
+= 人の生き方 → how someone lives
+= その機械のメカニズム → how the machine works
+= その教師の知的レベル → how intelligent the teacher is
+= 新聞の質 → how good a newspaper is
+= 読書量 → how many books you read
+= ワインに対する浅薄な知識 → how little you know about wine
+= 新しい工場の用地 → where a new factory is going to be built
+@pg 323
+@E X69-1 | 例題69 解説1 | 幸福という言葉は、～に日常的に使われています
+= The word "happiness" is used on a daily basis [every day] to (V)
+= The word "happiness" is used in daily life [in everyday life / in our daily lives / in our everyday lives] to (V)
+= The word "happiness" is generally used to (V)
+! the word of "happiness" は間違い（the words of my mother「母の言葉」）。英語で " " は特別な意味が加わるので避けるが、「～という言葉」の場合は使ってよい。
+x The word of "happiness" is often used to ～
+@E X69-2 | 例題69 解説2 | 人生に満足しているとか幸せな気持ちといった心の状態を表す
+= describe how you feel when you are completely (entirely / totally) satisfied with your life or you are leading [living] a fulfilling life
+= describe a state of mind such as being completely satisfied or being content with your life
+= describe feelings of (a great deal of / full / deep / great) satisfaction [contentment] with your life or of (pure) joy
+! 「心の状態」は how you feel と節で表現すれば簡単（a state of mind を知っていれば使う）。「～を表す」は describe がベスト（express / show も × ではない）。happiness の説明なので happy は使いたくない。satisfied だけでは「ギリギリ基準を満たしている」の意味になるので強意の副詞を足す。
+@pg 324
+@E F77-1 | 頻出表現77 | ～を表す
+= describe ～「（見たもの・感じたものについて言葉で）～を説明する」（describe this picture）
+= express ～「（気持ちや考えについて言葉、表情、行為で）～を表現する」（express [× say] my opinions）
+= explain ～「（難解なものについて明確に言葉で）～を説明する」（explain the procedure）
+= show「（出来事、調査などが）～を明らかにする」（This incident shows that he is stupid.）
+@E X69-3 | 例題69 解説3 | しかし
+= S V, but S V.
+= S V. However, S V.
+! however は副詞なので文と文とを接続できない。
+@pg 325
+@E X69-4 | 例題69 解説4 | その内容
+= what it actually refers to
+= what it actually means
+= its (true) meaning
+= its definition
+! 「言葉の意味」という意味の「内容」に content は不適切。
+x its content
+@E X69-5 | 例題69 解説5 | ～は人ごとに微妙に違っています
+= vary [differ] slightly [subtly / a little] from person to person [from one person to another]
+! 〈vary from A to A〉の A は無冠詞単数形なので from people to people は不可。
+@S 例題69 | 幸福という言葉は、人生に満足しているとか幸せな気持ちといった心の状態を表すのに日常的に使われています。しかし、その内容は人ごとに微妙に違っています。
+> The word "happiness" is generally used to describe feelings of great satisfaction with one's life or of joy. However, what it actually refers to differs subtly from person to person.
+> The word "happiness" is used on a daily basis to describe a state of mind such as being completely satisfied or being content with your life. However, its meaning varies slightly from person to person.
+~ X69-1 : The word "happiness" is generally used to ; The word "happiness" is used on a daily basis to
+~ X69-2 : describe feelings of great satisfaction with one's life or of joy ; describe a state of mind such as being completely satisfied or being content with your life
+~ F77-1 : describe
+~ X69-3 : However
+~ X69-4 : what it actually refers to ; its meaning
+~ P69-1 : what it actually refers to
+~ X69-5 : differs subtly from person to person ; varies slightly from person to person
+~ P28-1 : differs subtly from person to person ; varies slightly from person to person
+@pg 326
+@E P70-1 | 原則70-1 | 助動詞（could / might）を足して断定を避ける
+= could / might を足す
+! 日本語は受信者が状況を忖度して解釈するが、英語は発信者が責任を負う。100%断定してよい場合を除き、断定を避ける言葉を足す。
+@S 例1 | 海外旅行は危険だ（→になりうる）
+> Traveling abroad could be [× is] dangerous.
+~ P70-1 : could be
+@E P70-2 | 原則70-2 | generally / in general「一般に」などを足して断定を避ける
+= generally / in general を足す
+@S 例2 | 西洋人が握手をする状況で、日本人はお辞儀をする（→のが一般的だ）
+> Generally, Japanese bow in situations in which Westerners would shake hands.
+~ P70-2 : Generally
+@E P70-3 | 原則70-3 | usually「普段は」を足して断定を避ける
+= usually を足す
+@S 例3 | エレベータはいつも動いているので、（→普通）すぐに乗ることができる
+> As an elevator is always in motion, you can usually get on it immediately.
+~ P70-3 : usually
+@E P70-4 | 原則70-4 | most ～ / the majority of ～「大半の～」などを足して断定を避ける
+= most ～ / the majority of ～ を足す
+@S 例4 | （たいていの）運動選手は競争心が旺盛だ
+> Most athletes are competitive people.
+~ P70-4 : Most athletes
+@pg 327
+@E X70-1 | 例題70 解説1 | 人間
+= you
+= we
+! 動物やロボットと対比される人間ではなく一般的な「人」なので humans は避ける。
+@E X70-2 | 例題70 解説2 | 動く
+= act [behave]
+= do things
+= help others
+! act「行動する」、behave「振る舞う」が適切。move「場所を移動する」は不可。take action「（会社・政府などが目的のために）行動を起こす」は避けたい（The government must take action to reduce the unemployment rate.）。
+x take action
+@E X70-3 | 例題70 解説3 | 損得勘定で
+= based on whether you (can) benefit [get something nice [great] / be rewarded] or not
+x by gain or loss
+# p.328 以降（例題70 の残りと解答）は判読不能のため未収録。

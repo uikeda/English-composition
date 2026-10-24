@@ -1,0 +1,183 @@
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="#home" data-view="home">
+      <span class="brand-mark" aria-hidden="true">英</span>
+      <span class="brand-name">英作文 表現ノート</span>
+    </a>
+    <nav class="tabs" aria-label="画面">
+      <a href="#home" data-view="home">学習</a>
+      <a href="#expressions" data-view="expressions">表現</a>
+      <a href="#sentences" data-view="sentences">例文</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <!-- 学習ホーム -->
+  <section id="view-home" class="view" aria-labelledby="home-title">
+    <div class="wrap">
+      <h1 id="home-title" class="page-title">今日の学習</h1>
+      <div class="stats" id="stats"></div>
+
+      <div class="decks">
+        <article class="deck">
+          <div class="deck-head">
+            <h2>表現カード</h2>
+            <p>日本語を見て、英語の言い方を思い出す。裏面で注意点と、その表現を使った例文を確認します。</p>
+          </div>
+          <div class="deck-meta" id="deck-exp-meta"></div>
+          <div class="deck-actions">
+            <label class="inline-select" for="exp-direction">出題
+              <select id="exp-direction">
+                <option value="jp">日本語 → 英語</option>
+                <option value="en">英語 → 日本語</option>
+              </select>
+            </label>
+            <button class="btn primary" id="start-exp" type="button">表現カードを始める</button>
+          </div>
+        </article>
+
+        <article class="deck">
+          <div class="deck-head">
+            <h2>例文トレーニング</h2>
+            <p>日本文を英訳してから模範解答と照らし合わせる。解答の中で、どの表現がどこに使われているかを色で示します。</p>
+          </div>
+          <div class="deck-meta" id="deck-sen-meta"></div>
+          <div class="deck-actions">
+            <label class="inline-select" for="sen-scope">対象
+              <select id="sen-scope">
+                <option value="main">例題のみ</option>
+                <option value="all">例題と短い例文</option>
+              </select>
+            </label>
+            <button class="btn primary" id="start-sen" type="button">例文トレーニングを始める</button>
+          </div>
+        </article>
+      </div>
+
+      <details class="scope" id="scope-box">
+        <summary>出題範囲と設定</summary>
+        <div class="scope-body">
+          <fieldset>
+            <legend>Lecture</legend>
+            <div class="chip-row" id="scope-lectures"></div>
+            <div class="scope-quick">
+              <button type="button" class="link-btn" id="scope-all">すべて選択</button>
+              <button type="button" class="link-btn" id="scope-none">選択を外す</button>
+            </div>
+          </fieldset>
+          <fieldset>
+            <legend>表現の種類</legend>
+            <div class="chip-row" id="scope-kinds"></div>
+          </fieldset>
+          <fieldset class="scope-nums">
+            <label for="new-limit">1回の新しいカード
+              <select id="new-limit">
+                <option value="10">10枚</option>
+                <option value="20">20枚</option>
+                <option value="40">40枚</option>
+                <option value="9999">すべて</option>
+              </select>
+            </label>
+            <label for="order">並び順
+              <select id="order">
+                <option value="book">本の順</option>
+                <option value="random">ランダム</option>
+              </select>
+            </label>
+          </fieldset>
+          <p class="fine" id="sync-status"></p>
+          <div class="danger-zone">
+            <button type="button" class="link-btn danger" id="reset-progress">学習記録を消去…</button>
+            <div class="confirm" id="reset-confirm" hidden>
+              <span>表現と例文の学習記録をすべて消去します。</span>
+              <button type="button" class="btn small danger" id="reset-yes">消去する</button>
+              <button type="button" class="btn small" id="reset-no">やめる</button>
+            </div>
+          </div>
+        </div>
+      </details>
+
+      <section class="legend" aria-label="色の見方">
+        <h2 class="mini-title">解答の色分け</h2>
+        <p>例文の英語では、使われている表現にマーカーを引いています。マーカーをタップすると、その表現の説明が開きます。</p>
+        <div class="legend-row">
+          <span class="hl k-rule">原則</span>
+          <span class="hl k-phrase">頻出表現</span>
+          <span class="hl k-note">例題の解説</span>
+          <span class="hl k-column">コラム</span>
+        </div>
+      </section>
+    </div>
+  </section>
+
+  <!-- 表現一覧 -->
+  <section id="view-expressions" class="view" hidden aria-labelledby="exp-title">
+    <div class="wrap">
+      <h1 id="exp-title" class="page-title">表現</h1>
+      <div class="filters">
+        <input type="search" id="exp-search" placeholder="日本語・英語で検索（例：増えている, instead of）" autocomplete="off">
+        <div class="filter-row">
+          <select id="exp-lecture" aria-label="Lecture"></select>
+          <select id="exp-kind" aria-label="種類">
+            <option value="">すべての種類</option>
+            <option value="rule">原則</option>
+            <option value="phrase">頻出表現</option>
+            <option value="note">例題の解説</option>
+            <option value="column">コラム</option>
+          </select>
+          <select id="exp-status" aria-label="学習状況">
+            <option value="">すべて</option>
+            <option value="new">未学習</option>
+            <option value="weak">苦手（直近で間違えた）</option>
+            <option value="learning">学習中</option>
+            <option value="known">覚えた</option>
+          </select>
+        </div>
+      </div>
+      <p class="count" id="exp-count"></p>
+      <div class="exp-list" id="exp-list"></div>
+    </div>
+  </section>
+
+  <!-- 例文一覧 -->
+  <section id="view-sentences" class="view" hidden aria-labelledby="sen-title">
+    <div class="wrap">
+      <h1 id="sen-title" class="page-title">例文</h1>
+      <div class="filters">
+        <input type="search" id="sen-search" placeholder="日本文・英文で検索" autocomplete="off">
+        <div class="filter-row">
+          <select id="sen-lecture" aria-label="Lecture"></select>
+          <select id="sen-type" aria-label="種類">
+            <option value="main">例題のみ</option>
+            <option value="all">例題と短い例文</option>
+          </select>
+          <label class="toggle" for="sen-hide"><input type="checkbox" id="sen-hide"> 英文を隠す</label>
+        </div>
+      </div>
+      <p class="count" id="sen-count"></p>
+      <div class="sen-list" id="sen-list"></div>
+    </div>
+  </section>
+
+  <!-- 学習セッション -->
+  <section id="view-study" class="view" hidden aria-label="学習中">
+    <div class="wrap study-wrap">
+      <div class="study-top">
+        <button type="button" class="link-btn" id="study-quit">← 終了</button>
+        <div class="progress" aria-hidden="true"><div class="progress-bar" id="study-bar"></div></div>
+        <span class="study-count" id="study-count"></span>
+      </div>
+      <div id="study-card"></div>
+    </div>
+  </section>
+</main>
+
+<!-- 表現の詳細シート -->
+<div class="sheet-backdrop" id="sheet-backdrop" hidden></div>
+<aside class="sheet" id="sheet" hidden role="dialog" aria-modal="true" aria-labelledby="sheet-title">
+  <div class="sheet-inner">
+    <button type="button" class="sheet-close" id="sheet-close" aria-label="閉じる">×</button>
+    <div id="sheet-body"></div>
+  </div>
+</aside>

@@ -1,0 +1,962 @@
+# 第3分冊（pp.216-）
+@L 06 | 時間の表現
+@pg 216
+@E F58-1 | 頻出表現58-① | ～しなくなる（動詞）
+= no longer + 動詞
+! come not to (V) などの表現を用いない。英語では「～する」「～しない」ですませた方が自然なこともある（例は rarely でも書ける）。
+@S 頻出表現58 例 | 都会では泥のついた服を着た子どもを目にすることがなくなった
+> In cities, you no longer see any children with mud on their clothes.
+~ F58-1 : no longer see
+@E F58-2 | 頻出表現58-② | ～しなくなる（形容詞・副詞）
+= less + 形容詞・副詞
+@S 頻出表現58 例 | 入手する情報が多ければ多いほど、不安でなくなる
+> The more informed you are, the less uneasy you will be.
+~ F58-2 : the less uneasy
+@E X46-3 | 例題46 解説3 | なにしろ遅れたバスを待つ場合は
+= when they are waiting [× they wait] for a [× the] bus that [which] is late [behind schedule]
+= when they are waiting for a delayed bus
+= when they realize [find out] that a bus is late
+! a late bus は「夜遅くに走っているバス」になる。delay は「理由」が示された受動態の文で使うのが一般的（a delayed bus は可）。日常で起こりうることなので if は不適。the は不要。「なにしろ」は for example も可。「待っている」なので進行形。
+x If they wait for a late bus
+@pg 217
+@E X46-4 | 例題46 解説4 | ものの10分もすると落ち着かなくなる
+= they start getting [to get] restless [irritated / impatient / uncomfortable / upset] after [within / in] only ten minutes
+= they begin getting [to get] restless after as little as ten minutes
+= it (only) takes ten minutes or so for them to get restless
+= they become unable to stay calm after only a ten-minute wait for ～
+= they cannot stay calm for even ten minutes
+! 形容詞が思いつかないなら get angry / get upset。uneasy は不可。in / after どちらでも問題ない。seem はそれ自体で「思われている」の意味なので受動態にしない。
+x they get irritated 10 minutes later
+@S 例題46 | 今の日本人は待つということが下手になってしまったようだ。なにしろ遅れたバスを待つ場合は、ものの10分もすると落ち着かなくなるのである。
+> It seems that Japanese today can no longer wait patiently. For example, when they are waiting for a bus that is late, they start getting restless after only about ten minutes.
+> Japanese today seem to be unable to wait for a long time. When they are waiting for a delayed bus, it takes them only ten minutes or so to get irritated.
+~ X46-1 : Japanese today
+~ X46-2 : It seems that Japanese today can no longer wait patiently ; seem to be unable to wait for a long time
+~ F58-1 : can no longer wait
+~ X46-3 : when they are waiting for a bus that is late ; When they are waiting for a delayed bus
+~ X46-4 : they start getting restless after only about ten minutes ; it takes them only ten minutes or so to get irritated
+~ P44-1 : it takes them only ten minutes or so to
+@pg 218
+@E P47-1 | 原則47 | ～してはじめて…
+= It is not until [It is only after] ～ that S V ...
+! 「～してようやく…」もこれ。「…がわかる」は find（知覚情報）/ find out（外部情報）/ realize（重要性・深刻さ）。「価値・重要性」は how valuable [important] S be。that 節が過去形なら It was ～。
+! 強調構文を用いずに I did not find ～ until ... / Only after [Not until] ～ did I find ... とも書ける（否定的な副詞・〈only + 副詞〉の後は倒置）。
+@S 例1 | 電車に乗ってはじめて家に財布を忘れたことに気がついた
+> It was not until [It was only after] I got on the train that I found that I had left my wallet at home.
+~ P47-1 : It was not until [It was only after] ; that I found
+@S 例2 | この本は数回読んでようやくその価値を理解できた
+> It was not until [It was only after] I (had) read this book several times that I finally realized how valuable it was.
+~ P47-1 : It was not until [It was only after] ; that I finally realized
+@S 注意4 例 | 電車に乗ってはじめて家に財布を忘れたことに気がついた（倒置）
+> Only after [Not until] I got on the train did I find that I had left my wallet at home.
+~ R47-2 : Only after [Not until] ; did I find
+@pg 219
+@E X47-1 | 例題47 解説1 | ～してはじめて、われわれは…
+= It is not until we ～ that we ....
+= It is only after we ～ that we ....
+! until の代わりに till も可（× untill）。Not until ～ / Only after ～ で始めると後ろは倒置（Not until we ～ do we realize ...）。
+x Not untill we ～, we realize
+@E X47-2 | 例題47 解説2 | 外国語での伝達と翻訳の問題に真剣に直面して
+= we find it truly [very / really] difficult to communicate in or translate a foreign language [foreign languages]
+= we have great difficulty (in) communicating in or translating a foreign language
+= we realize [find out / see] how difficult it is to communicate in or translate a foreign language
+= we are faced with the problem of communication or translation in a foreign language
+@pg 220
+! X47-2 補足：「～の問題に真剣に直面する」は「～で困る」「～するのがいかに難しいかを知る」こと。or の代わりに and は避ける（and だと「両方で」）。seriously face ～ は許容範囲。
+x severely face the problem of communication and translation
+@E F59-1 | 頻出表現59 | ～の問題に直面する
+= be faced with the problem (of / with) ～
+= realize how difficult it is to (V)
+! face は基本的に〈モノ + face + 人〉。「人」を主語にするときは be faced with ～（〈人 + face + モノ〉は「積極的に取り組む」感じ）。「～という問題」は the problem(s) of ～、「～にかかわる問題」は the problem(s) with ～（the problems with the car）。
+@E X47-3 | 例題47 解説3 | 自分たちがいかに自国語にとらわれているかを悟る
+= S realize [find out] how greatly [how much / how deeply] we are influenced [controlled] by (the rules of) our own (language) [by our native language].
+= S realize how much we are restricted [limited / bound] by (the rules of) our own (language).
+! 「自国語に大きな影響を受けている」と処理する。stick to ～ は stick to the rules / stick to one's promise で使う。one's mother tongue / mother language はそれほど一般的ではない。until などのつづり間違いに注意。
+x we stick to our mother tongue
+@pg 221
+@S 例題47 | 外国語での伝達と翻訳の問題に真剣に直面してはじめて、われわれは、自分たちがいかに自国語にとらわれているかを悟る。
+> It is not until we find it truly difficult to communicate in or translate a foreign language that we realize how greatly we are influenced by our own.
+> It is only after we are faced with the problem of communication or translation in a foreign language that we realize how much we are restricted by the rules of our native language.
+~ X47-1 : It is not until we ; that we realize ; It is only after we
+~ P47-1 : It is not until ; It is only after
+~ X47-2 : find it truly difficult to communicate in or translate a foreign language ; are faced with the problem of communication or translation in a foreign language
+~ F59-1 : are faced with the problem of
+~ X47-3 : how greatly we are influenced by our own ; how much we are restricted by the rules of our native language
+@pg 222
+@E C7-1 | コラム | 「イコールで結ぶ」は危険
+= rely on ～「信頼している」≠ depend on ～「すっかり頼り切っている」
+= postpone「延期する」≠ put off「後回しにする」
+= take after「（目上の身内）に似ている」≠ resemble「似ている」
+= look up to「（目上の人）を尊敬する」≠ respect「尊敬する／尊重する」
+= accurate「（正解に近い）正確な」≠ precise「（細部にわたる）精密な」
+= surroundings「（具体的な周りの）環境」≠ environment「（無形の状況まで含んだ）環境」
+! active な語句（英作文で使う語句）はイコールでつなぐ勉強は慎むべき。passive な語彙ならグルーピングも害は少ない。
+@L 07 | 比較の表現
+@pg 224
+@E P48-1 | 原則48-1 | ～より（名詞（句）と名詞（句））
+= A is more ～ than B (is)
+! 比較でいちばん重要なのは「何と何を比較するのか」。than 以下の元の文（reading books is important）を考えるとわかりやすい。
+@S 例1 | 人の話を聞くのは本を読むことより大切である
+> Listening to what other people have to say is more important than reading books (is).
+~ P48-1 : is more important than reading books
+@E P48-2 | 原則48-2 | ～より（副詞（句）と副詞（句））
+= S V more ～ in A than (S V) in B
+! 〈前置詞 + 名詞〉どうしの比較では than 以下の前置詞は省略不可。than I am in English の I am は省略可だが than I だけ残すのは不自然（I'm も不可）。
+@S 例2 | 私は英語より数学の方にずっと興味がある
+> I am far more interested in mathematics than (I am) in English.
+~ P48-2 : far more interested in mathematics than (I am) in English
+@E P48-3 | 原則48-3 | ～より（動詞と動詞）
+= S be 比較級 than S looks [V]
+! than his looks は典型的な間違い（than his looks suggest なら可）。
+x Fred is younger than his looks.
+@S 例3 | フレッドは見かけより若い
+> Fred is younger than he looks.
+~ P48-3 : younger than he looks
+@pg 225
+@E X48-1 | 例題48 解説1 | 一人旅をするよりも、誰かと一緒に旅をした方が、安上がりなことが多い
+= it is often more economical [cheaper / cost-effective / × more cheaper] to travel with someone than to travel alone [by yourself]
+= traveling with someone is often more economical [cheaper] than traveling alone [by yourself]
+= traveling with someone often costs less [× costs cheaper] than traveling alone
+= if [when] you travel with someone, it is often more economical [cheaper] than when you travel alone
+= if [when] you travel with someone, it often costs less than when you travel alone
+= if [when] you travel with someone, you can save more money than when you travel alone
+= if [when] you travel with someone, you spend less money than when you travel alone
+! 比較されているのは「一人旅をすること」と「誰かと旅をすること」（travel は重複しても省略不可）。cost の目的語は less (money) で cheaper は不可。筆者の意見なら will も可。travel in a group も可。
+x the cost of the travel is cheaper than alone
+@pg 226
+@E X48-2 | 例題48 解説2 | ～を分かち合える
+= and it enables [allows] you to share ～ with them
+= and it makes it possible (for you) to share ～ with them
+= and you can share ～ with them
+! 原因・結果を明確にするなら 1・2。「互いに」は with each other（each other は代名詞なので with が必要）。
+x share impressions there each other
+@E F60-1 | 頻出表現60 | someone や everyone を指す代名詞
+= they / their / them
+! 本来は he / his / him、その後 he or she などになり、現在は they / their / them が「標準」。
+@S 頻出表現60 例 | 誰もが自分自身の名前を持っている
+> Everyone has their own name.
+~ F60-1 : their
+@E X48-3 | 例題48 解説3 | 旅先
+= the place(s) (that / which) you are in
+= the place(s) (that / which) you are visiting
+= your destination(s)
+= the trip
+@pg 227
+@E X48-4 | 例題48 解説4 | ～での感動
+= (your) impressions of ～
+= (your) feelings about what you see at ～
+= what (deeply) moves you [△ what you are moved by] at ～
+= what deeply [greatly] impresses you at ～
+= the joy of ～
+= the excitement of ～
+! impression は可算名詞なので一般論は複数形。what you are moved by は冗長。you can do exciting things together with them とも書ける。when は「確実に起きる」、if は「確実ではない仮定」（ここではどちらでもよい）。
+@S 例題48 | 一人旅をするよりも、誰かと一緒に旅をした方が、安上がりなことが多いし、旅先での感動を分かち合える。
+> It is often more economical to travel with someone than to travel alone and it enables you to share your impressions of the places you are visiting with them.
+> Traveling with someone often costs less than traveling alone and it allows you to share your feelings about what you see at your destinations with them.
+~ X48-1 : It is often more economical to travel with someone than to travel alone ; Traveling with someone often costs less than traveling alone
+~ P48-1 : more economical to travel with someone than to travel alone ; costs less than traveling alone
+~ X48-2 : it enables you to share ; it allows you to share ; with them
+~ X48-4 : your impressions of ; your feelings about what you see at
+~ X48-3 : the places you are visiting ; your destinations
+@pg 228
+@E P49-1 | 原則49-1 | ～ほど…ない（名詞（句）と名詞（句））
+= A is not as ... as B (is)
+! 〈not as ... as ～〉が一般的（〈less ... than ～〉は一般的ではなく、特に -er 型の語では避けられる）。〈not so ... as ～〉は not so much A as B などの慣用表現を除き古い。2番目の as は接続詞で後ろは本来完全な文。
+@S 例1 | 私たちの新しいオフィスは前のオフィスほど便利ではない
+> Our new office is not as convenient as our old one (was).
+~ P49-1 : is not as convenient as our old one
+@E P49-2 | 原則49-2 | ～ほど…ない（「現実」と「見かけ」）
+= S is not as ... as S looks
+@S 例2 | トムは見かけほど老けていない
+> Tom is not as old as he looks.
+~ P49-2 : is not as old as he looks
+@E P49-3 | 原則49-3 | ～ほど…ない（「現実」と「予測」）
+= S did not V as ... as S had expected
+@S 例3 | 我々の計画は予測していたほどうまくいかなかった
+> Our project did not work as well as we had expected.
+~ P49-3 : did not work as well as we had expected
+@pg 229
+@E X49-1 | 例題49 解説1 | 英語は中国語ほどネイティブスピーカーが多くないかもしれない
+= English may not have as many native speakers as does Chinese [Chinese does].
+= English may have fewer [× less] native speakers than Chinese.
+= The number of native English speakers may not be as large [great / × many] as that of Chinese ones.
+= There are probably not as many native English speakers as native Chinese speakers.
+! people who speak English as a mother tongue は冗長（native speakers of English は可）。population は「ある一定地域に住む住民」。number が「多い」は large / great。less は不可算名詞の前。S と S を比較するときは as Chinese does / as does Chinese。形容詞を伴えば a blue one / blue ones と言える。
+x The population of people who speak English as a mother tongue is not as many as ～
+@pg 230
+@E X49-2 | 例題49 解説2 | が
+= S1 V1, but S2 V2.
+= S1 V1. However, S2 V2.
+! 学術論文では文頭に but / and / or は不可。but / and / or の直後にカンマを打つのは日本語の発想。
+@E X49-3 | 例題49 解説3 | それは世界で断然最も広く話されている言葉であり
+= it is by far the most widely spoken [used] language in the world
+= by far it is spoken by the most people in the world
+= no language in the world is more widely spoken [used] than it
+= by far the largest number of people in the world speak it
+! 最上級の強調は by far が最適（much / far も可）。旧情報の it は文頭に（3・4 は避けたい）。
+@E X49-4 | 例題49 解説4 | また第二言語としても最も選ばれている
+= and (it) is the most popular [chosen] second language
+= and (it) is the most popular [chosen] language as a second language
+= and (it) is most widely spoken [used / adopted] as a second language
+! choose; chose; chosen の活用に注意（× chosed）。selected「精選された」は避けたい。「第二言語」は a second language。
+x is most chosed as the second language
+@pg 231
+@E F61-1 | 頻出表現61 | 序数詞の前の冠詞
+= the second floor「2階」（序数詞がつくと the）
+= a second helping「お代わり」／ a second language「第2言語」（a second = another）
+! Fifth Avenue などの固有名詞、a fifth「5分の1」などの分数表現も the はつかない。
+@S 頻出表現61 例 | 2階に歯科クリニックがある
+> There is a dental clinic on the second floor.
+~ F61-1 : the second floor
+@S 頻出表現61 例 | 私はごはんのお代わりを頼んだ
+> I asked for a second helping of rice.
+~ F61-1 : a second helping
+@S 例題49 | 英語は中国語ほどネイティブスピーカーが多くないかもしれないが、それは世界で断然最も広く話されている言葉であり、また第二言語としても最も選ばれている。
+> English may not have as many native speakers as does Chinese. However, it is by far the most widely spoken language in the world and is the most popular second language.
+> The number of English native speakers may not be as large as that of Chinese ones. However, by far it is spoken by the most people in the world and is the most chosen language as a second language.
+~ X49-1 : English may not have as many native speakers as does Chinese ; The number of English native speakers may not be as large as that of Chinese ones
+~ P49-1 : not have as many native speakers as ; not be as large as
+~ X49-2 : However
+~ X49-3 : it is by far the most widely spoken language in the world ; by far it is spoken by the most people in the world
+~ X49-4 : is the most popular second language ; is the most chosen language as a second language
+~ F61-1 : second language
+@pg 232
+@E P50-1 | 原則50-1 | 私が思ったより～
+= 比較級 + than I expect / (had) expected
+! 「思う」は「未来のことを予期する」なので expect が適している（think なら than I had thought it would be）。than のあとは過去でもよい。unexpectedly は「まったく予期しなかったが」の意味（The movie was unexpectedly interesting. は「見る価値などないと思っていたが」）。
+@S 例1 | その映画は思ったよりおもしろかった
+> The movie was more interesting than I (had) expected.
+~ P50-1 : more interesting than I (had) expected
+@S 注意4 例 | 私たちの会議は急に中止になった
+> Our meeting was unexpectedly called off.
+~ R50-3 : unexpectedly
+@E P50-2 | 原則50-2 | 世間の予想より～
+= 比較級 + than you / we might expect
+! 主語が I / we（特定の人）以外のときは「他人の心理状態は断定できない」ので might。〈be surprised how + 形容詞・副詞〉も可。
+@S 例2 | この仕事は想像されている以上に難しい
+> This work is more difficult than you might expect.
+~ P50-2 : more difficult than you might expect
+@S 注意5 例 | これは意外に難しいよ
+> You will be surprised how difficult this is.
+~ R50-4 : be surprised how difficult
+@pg 233
+@E X50-1 | 例題50 解説1 | ～はなかなか覚えにくいものだが…
+= You (may) find it hard to remember ～. However, ....
+= It is often [usually] hard [difficult] to remember ～, but ....
+= You (may) have difficulty (in) remembering ～. However, ....
+! 「一般論」の主語は you。difficult は「やや深刻な状況・知識や技術の習得」、hard は「日常的状況」。「覚える」は「思い起こす」なので remember が適切（memorize は「暗記する」）。「譲歩」は may / often や Certainly / Indeed。
+x It is hard to memorize ～, however, ～
+@pg 234
+@E F62-1 | 頻出表現62-① | 最初のうちは
+= at first（後になって変わることを示唆）
+@S 頻出表現62 例 | 最初のうちはここの気候が嫌だったが、今は慣れた
+> At first I did not like the climate here, but now I am used to it.
+~ F62-1 : At first
+@E F62-2 | 頻出表現62-② | 生まれてはじめて
+= for the first time
+@S 頻出表現62 例 | 2年前、はじめてナンシーに出会った
+> Two years ago I met Nancy for the first time.
+~ F62-2 : for the first time
+@E F62-3 | 頻出表現62-③ | いちばんに／はじめて
+= first（「はじめて」の意味では動詞の前に置く）
+@S 頻出表現62 例 | ぼくがいちばんに山頂に着いた
+> I reached the top of the mountain first.
+~ F62-3 : first
+@E X50-2 | 例題50 解説2 | 初対面の人の名前
+= the name of someone (whom) you are meeting for the first time
+= the name of someone (whom) you have never met before
+= someone's name on first meeting
+! a man / a person は避け、the man / the person も不可。you meet は習慣的行為ととられるので you are meeting。学術論文の目的格は whom、口語なら省略が通例。
+x the name of a man we meet at first
+@E X50-3 | 例題50 解説3 | 会って話しているときに
+= while [when] (you are) talking (with them)
+= during [in] the conversation
+! 「会って」は省略が無難。with (V)ing / during (V)ing は不可。2 は特定できるので the。
+x during meeting and talking with him
+@pg 235
+@E X50-4 | 例題50 解説4 | つとめて相手の名前を口に出すようにすると
+= if you try hard [do your best] to use their name
+= if you make an effort [make a sincere effort] to call them by their name
+= if you concentrate [focus] on using their name
+! say a name は不可。
+x if you try to say his name
+@E X50-5 | 例題50 解説5 | 案外覚えられるものだ
+= it is easier to remember (it) than you might expect
+= you (will) find it unexpectedly easy to learn it
+! remember の目的語 it を主語の位置に置き it is easier to remember than ～ と書くと情報の流れがよい。however は副詞なので文と文の連結は不可。
+x you can unexpectually memorize it
+@S 例題50 | 初対面の人の名前はなかなか覚えにくいものだが、会って話しているときにつとめて相手の名前を口に出すようにすると、案外覚えられるものだ。
+> You may find it hard to remember the name of someone you are meeting for the first time, but if you try hard to use their name while talking, it is easier to remember than you might expect.
+> You may have difficulty remembering the name of someone you have never met before. However, if you make a sincere effort to call them by their name during the conversation, you will find it unexpectedly easy to learn it.
+~ X50-1 : You may find it hard to remember ; You may have difficulty remembering ; However
+~ X50-2 : the name of someone you are meeting for the first time ; the name of someone you have never met before
+~ F62-2 : for the first time
+~ X50-4 : if you try hard to use their name ; if you make a sincere effort to call them by their name
+~ X50-3 : while talking ; during the conversation
+~ X50-5 : it is easier to remember than you might expect ; you will find it unexpectedly easy to learn it
+~ P50-2 : easier to remember than you might expect
+@pg 236
+@E P51-1 | 原則51-1 | 昔より・以前より～
+= S + 現在形 + 比較級 + than S used to (V)
+! used to be の be は省略不可だが、used to のあとに do はつけない（助動詞のあとに置けない）。than what she was とは言わない。同一人物でない比較（今の子どもと昔の子ども）でも使える（than children in the past / their counterparts in the past も可）。
+x Yoshi does better than she used to do.
+@S 例1 | ヨシは以前より暮らしぶりがよい
+> Yoshi is better off than she used to be [she once was].
+~ P51-1 : better off than she used to be
+@S 例2 | ヨシは以前よりも成績がよい
+> Yoshi does better than she used to.
+~ R51-2 : better than she used to
+@S 注意3 例 | 今の子どもは昔の子どもより恵まれている
+> Children today are more fortunate than they used to be.
+~ P51-1 : more fortunate than they used to be
+@E P51-2 | 原則51-2 | ～年前より…
+= S + 現在形 + 比較級 + than S + 過去形 + 過去を表す副詞
+@S 例3 | キョーコは10年前より暮らしぶりがよい
+> Kyoko is better off than (she was) ten years ago.
+~ P51-2 : better off than (she was) ten years ago
+@E P51-3 | 原則51-3 | 以前ほど～ない
+= not as ... as S used to be
+@S 例4 | 固定電話は昔ほど一般的ではない
+> Landline telephones are not as common as they used to be.
+~ P51-3 : not as common as they used to be
+@pg 237
+@E X51-1 | 例題51 解説1 | 外国人の語学教師
+= language teachers from overseas [from abroad]
+= foreigners teaching languages [who teach languages]
+= foreign teachers of languages
+! foreign language teachers は「外国語の教師」か「外国人の語学教師」か不明なので避ける。単数形も可。in Japan や I know を添えてもよい。
+@E X51-2 | 例題51 解説2 | ～がよくこぼすのだが A、B と言う
+= ～ often complain that A, and that B.
+= ～ often complain that A. They say that B.
+! are always complaining は「筆者が非難している」感じ。complain about ～ の「～」は動名詞。say では不十分。「ぶつぶつ独り言」は grumble、「嘆く」は lament。
+@pg 238
+@E X51-3 | 例題51 解説3 | 最近の日本の学生は熱心に勉強しない
+= Japanese students today [nowadays / these days] do not study [work] hard [eagerly / with (much) passion]
+= Japanese students today do not study as hard as they used to [as they did in the past]
+= Japanese students today are not studying hard
+! today's Japanese students / Japanese students of today も間違いではないが formal。
+@E X51-4 | 例題51 解説4 | 外国語を覚える
+= learn a foreign language [foreign languages]
+! remember は不可。master「完全に習得する」は大げさ。
+x learning foreign languages by heart
+@E F63-1 | 頻出表現63-① | （言語）を習得する
+= learn
+! 「（単語）を聞き覚える」は pick ～ up。learn ～ by heart は「（詩などの一節）を暗記する」。
+@S 頻出表現63 例 | フランス語を1カ月で習得するのは不可能だろう
+> It would be impossible to learn French in a month.
+~ F63-1 : learn French
+@E F63-2 | 頻出表現63-② | （言語）を勉強する
+= study
+@S 頻出表現63 例 | 英語を勉強するなら、毎日聞くべきだ
+> If you study [try to learn / × learn] English, you should listen to it every day.
+~ F63-2 : study
+@pg 239
+@E X51-5 | 例題51 解説5 | 昔のように必死に～する気迫が感じられない
+= they [students] do not seem to be as eager as they used to be
+= they do not seem to make as much effort [× as many efforts] as students in the past did to (V)
+= they do not seem to have the enthusiasm that [which] students in the past did
+= they do not seem to have the passion for foreign languages that their predecessors did
+! 「熱心に～する／必死に努力する」と考える（spirits は使えない）。「昔のように」は as ～ as 構文が無難。「感じられない」は do not seem。effort はここでは不可算。複数の人物が登場する場合は〈the + 元の名詞〉で工夫。
+x they cannot feel their spirits of ～
+@S 例題51 | 外国人の語学教師がよくこぼすのだが、最近の日本の学生は熱心に勉強しない、昔のように、外国語を必死に覚えようとする気迫が感じられないという。
+> Language teachers from overseas often complain that Japanese students today do not study very hard, and that they do not seem to be as eager as they used to be to learn foreign languages.
+> Foreign teachers of languages often lament that Japanese students today do not study with much passion. They say that the students do not seem to make as much effort as students in the past did to learn foreign languages.
+~ X51-1 : Language teachers from overseas ; Foreign teachers of languages
+~ X51-2 : often complain that ; and that ; often lament that ; They say that
+~ X51-3 : Japanese students today do not study very hard ; Japanese students today do not study with much passion
+~ X51-5 : do not seem to be as eager as they used to be ; do not seem to make as much effort as students in the past did
+~ P51-3 : as eager as they used to be
+~ X51-4 : learn foreign languages
+@pg 240
+@E P52-1 | 原則52-1 | ～すればするほど…
+= The + 比較級 + ～, the + 比較級 + ...
+! 元の文（You get old. / Your memory becomes poor.）の old と poor を比較級にして the をつけ文頭に移動する。
+@S 例1 | 人は年をとるにつれて記憶力が弱まる
+> The older you get, the poorer your memory becomes.
+~ P52-1 : The older you get, the poorer
+@E P52-2 | 原則52-2 | ～すればするほど…でなくなる
+= The + 比較級 + ～, the less + 原級 + ...
+! much information を離した The more you have information は不可。否定文は使えない（the more uneasy you are not は不可）。副詞の比較級が難しいときは be likely to (V) を使う。
+x The more you have information, ～
+@S 例2 | 入手する情報が多ければ多いほど、不安でなくなる
+> The more information you have, the less uneasy you are.
+~ P52-2 : The more information you have, the less uneasy
+@S 注意3 例 | 計画が周到なものであればそれだけ成功の見込みも高くなる
+> The more carefully you plan, the more likely you are to succeed.
+~ R52-3 : The more carefully you plan, the more likely you are to succeed
+@pg 241
+@E X52-1 | 例題52 解説1 | 私がまず思い浮かべるのは、私と言葉を交わした人の顔である
+= the first thing that comes to mind [(that) I remember] is (the faces of) the people (whom) I (met and) talked with (there)
+= I remember(,) first of all(,) (the faces of) the people I talked with there
+! 「偶然思い浮かぶ」は come to mind（× my mind）。主語単数・補語複数は可（the first things ～ are も可）。exchange words は「言い争いをする」で不可。the faces of はなくてもよい。
+x the first thing I remember is the face of the people who exchange words with me
+@pg 242
+@E X52-2 | 例題52 解説2 | 訪れた異国について語ろうとするとき
+= whenever I (start to) talk about [describe / tell someone about] a (foreign) country (that / which) I have visited (before)
+= each time I am about to speak about a country (that / which) I have been to (before)
+! 「異国」は単数形で a country（任意の1つ）。when でもよい。「訪れた」は現在完了。「～しようとする」に try to (V) は避ける。
+x When I talk about the country I visited before
+@E X52-3 | 例題52 解説3 | そこに何があったかより、そこにだれがいたかをまず考える
+= It is not so much the things that were there as the people who were there [the people I met] that I first think of [about].
+= It is who was there rather than what was there that first comes to mind [occurs to me].
+! 強調構文。not so much A as B「A というよりむしろ B」は成句。「～を思いつく」は think of、「～について考える」は think about。
+@E X52-4 | 例題52 解説4 | 出会った人間とのつきあいが深いほど、その国に親しみを覚える
+= The better I (have gotten to) know the people (whom) I met (there), the closer I feel to [toward] the country [the more fondly I remember the country].
+= The closer I feel to the people (whom) I met there, the warmer my feelings are toward the country.
+= The deeper [closer] bonds [relationship] I have with locals, the closer I feel to the country.
+! keep company with ～ は古い表現（deeply とも結びつかない）。be familiar with ～ は「知っている」で「親しみ」は表せない。feel close to [toward] ～「～に親しみを感じる」は暗記。fondly remember / recall は「懐かしく思い出す」。
+x The deeply I keep company with the people I met, the more I feel familiar with the country.
+@pg 243
+@E F64-1 | 頻出表現64 | つきあう
+= get along [on] with ～「折り合いをつける」
+= socialize with ～「打ち解けて交際する」
+= have lunch with ～「昼ごはんにつきあう（いっしょに食べる）」
+= spend time together「子どもとつきあう（時をともに過ごす）」
+= know ～ very well「長いつきあい（よく知っている）」
+= make friends with ～「つきあうようになる（友達になる）」
+@S 例題52 | 訪れた異国について語ろうとするとき、私がまず思い浮かべるのは、私と言葉を交わした人の顔である。そこに何があったかより、そこにだれがいたかをまず考える。出会った人間とのつきあいが深いほど、その国に親しみを覚える。
+> Whenever I start to talk about a country I have visited, I remember first of all the people I talked with there. It is not so much the things that were there as the people who were there that I first think of. The better I know the people I met, the closer I feel to the country.
+> Each time I am about to talk about a country I have been to before, the first thing that comes to mind is the people I talked with there. It is not so much what was there as who was there that first occurs to me. The closer I feel to the people I met, the warmer my feelings are toward the country.
+~ X52-2 : Whenever I start to talk about a country I have visited ; Each time I am about to talk about a country I have been to before
+~ X52-1 : I remember first of all the people I talked with there ; the first thing that comes to mind is the people I talked with there
+~ X52-3 : It is not so much the things that were there as the people who were there that I first think of ; It is not so much what was there as who was there that first occurs to me
+~ X52-4 : The better I know the people I met, the closer I feel to the country ; The closer I feel to the people I met, the warmer my feelings are toward the country
+~ P52-1 : The better I know ; the closer I feel ; The closer I feel ; the warmer my feelings
+@pg 244
+@E P53-1 | 原則53 | ～ほど…なものはない
+= Nothing is as [so] ... as ～
+! 英語では「ゼロのものが時間と同じくらい大切」という構造（日本語は動詞の否定）。習慣的行為の that 節は使えないので動名詞か不定詞（実際はどちらも動名詞の傾向）。比較級 Nothing is more ... than ～ も可。「限りなく最上級に近い」誇張表現なので、範囲を限定しないなら Getting lost ... is extremely frightening. が安全。
+@S 例1 | 時ほど大切なものはない
+> Nothing is as important as time.
+~ P53-1 : Nothing is as important as
+@S 例2 | 知らない土地で道に迷うことほど恐ろしいことはない
+> Nothing is as frightening as getting [to get] lost in a place you do not know.
+~ R53-2 : Nothing is as frightening as
+@pg 245
+@E X53-1 | 例題53 解説1 | 研究で
+= regarding [concerning] (doing) research
+= as for [as to] (doing) research
+= when it comes to (doing) research
+= when doing research
+! research は普通不可算。「研究を行う」は carry out [conduct / perform / undertake] research（study なら a study）。「研究のいちばん大きな楽しさ」は the greatest [unparalleled] joys [thrills] of (doing) research。「～に関しては」に about は不可。
+x About research, ～
+@E X53-2 | 例題53 解説2 | 楽しいのはなんと言っても～時間、そして…瞬間である
+= Nothing is more pleasant [enjoyable] than the time when ～ and the moment when ～.
+= The greatest [deepest / strongest / unparalleled] joys [pleasures / thrills / enjoyments] are (in) (V)ing.
+= The most exciting [thrilling] aspects of [研究] are (in) (V)ing.
+= The happiest times in [研究] are (V)ing.
+= The most exciting [thrilling] things about [研究] are (in) (V)ing.
+= Those who do research feel by far happiest when ～.
+= The times (when) we feel happiest while doing research are (V)ing.
+! 「時間」は一定期間、「瞬間」は一瞬なので1つにまとめられない。unparalleled「比類なき」は覚えておきたい。fun は名詞で口語なので避けたい。
+x the most fun thing is ～
+@pg 246
+@E X53-3 | 例題53 解説3 | 問題について自分で考え
+= think about a problem for yourself
+= think about a problem alone [on your own]
+! 〈think for oneself〉「自分で考える」は定型表現。by yourself は避けたい。a question なら solve を answer に。
+x think about a problem by yourself
+@E F65-1 | 頻出表現65-① | ただひとりで
+= (all) by oneself
+! for oneself は「自分のために」が基本だが think / decide / judge / cook + for oneself は暗記。
+@S 頻出表現65 例 | ナンシーはあの大邸宅にたったひとりで暮らしている
+> Nancy lives all by herself in that mansion.
+~ F65-1 : all by herself
+@E F65-2 | 頻出表現65-② | ただひとりの力で
+= on one's own
+@S 頻出表現65 例 | 4月からずっと自活している
+> I have been living on my own since April.
+~ F65-2 : on my own
+@pg 247
+@E X53-4 | 例題53 解説4 | 解決に向けて自分で試行錯誤する、そして何かが解決できた
+= tackle [address] it through [by] trial and error and (finally) solve it
+= try [attempt] to solve it through [by] trial and error and (manage to) find its solution
+= try [attempt] to find its solution [a solution to it] and succeed in solving it
+= repeat trial and error to solve a problem
+= try to do many things in order to solve a problem
+! 解説3 につなげる場合は分詞構文か and ～。through [by] trial and error「試行錯誤で」は定型。
+@S 例題53 | 研究で楽しいのはなんと言っても問題について自分で考え、解決に向けて自分で試行錯誤する時間、そして何かが解決できた瞬間である。
+> Regarding doing research, nothing is more pleasant than the time when you are thinking about a problem for yourself, tackling it through trial and error, and the moment when you finally solve it.
+> The greatest joys of conducting research are thinking about a problem on your own, trying to solve it by trial and error, and the moment when you manage to find its solution.
+~ X53-1 : Regarding doing research ; of conducting research
+~ X53-2 : nothing is more pleasant than the time when ; and the moment when ; The greatest joys of conducting research are
+~ P53-1 : nothing is more pleasant than
+~ X53-3 : thinking about a problem for yourself ; thinking about a problem on your own
+~ X53-4 : tackling it through trial and error ; you finally solve it ; trying to solve it by trial and error ; you manage to find its solution
+@pg 248
+@E P54-1 | 原則54-1 | ～ほど…なときはない
+= S be never as ... as ～
+! 副詞と副詞の比較（never と when I am playing the piano）。There is no time when I am as happy as while ～ とも書ける。最上級なら I am happiest when ～（同一の人の中での比較なので the 不要）。
+@S 例1 | ピアノを弾いているときほど幸せなときはない
+> I am never as happy as when I am playing the piano.
+~ P54-1 : I am never as happy as when
+@S 注意4 例 | ピアノを弾いているときがいちばん幸せだ
+> I am happiest when I am playing the piano.
+~ P54-1 : I am happiest when
+@E P54-2 | 原則54-2 | ～ほど…なところはない
+= Nowhere [In no (other) place] is S as ... as ～
+! 否定的副詞（句）が文頭なので後ろは倒置。There is no city in Japan where ～ as ... as in Tokyo. / Land prices in Tokyo are the highest in Japan. とも書ける。
+@S 例2 | 日本で東京ほど地価の高いところはない
+> Nowhere in Japan are land prices as high as in Tokyo.
+~ P54-2 : Nowhere in Japan are land prices as high as in Tokyo
+@pg 249
+@E X54-1 | 例題54 解説1 | かけがえのない大切な
+= (critical and) important
+= (vital invaluable and) important
+= critical [vital] and important
+! 怪しげな形容詞を使うなら important で十分。precious は precious memories / possessions「形見」や a precious jewel「まれで高価な」で用い、英作文での出番はほぼない。irreplaceable / invaluable は比較級を持たないので as ～ as と使えない。
+x the nature is thought so precious
+@E X54-2 | 例題54 解説2 | …が～だと思われた
+= ... be considered [thought / believed] (to be) ～
+= ... be regarded [thought of / looked on / × thought] as ～
+! as ～ as 構文で 2 を使うと as as ～ と as が連続するので不可。
+# pp.250-251（例題54 解説3〜7）は添付スキャンに含まれていない。
+@pg 252
+@S 例題54 | 自然がこんなにもかけがえのない大切なものだと思われた時代は、かつてなかったにちがいない。今私たちにとって理想の暮らしというのは、自然のよさを取り入れた生活だと言ってよかろう。
+> It is probably true that never before in history has the natural environment been considered as important as it is today. One might say that nowadays the best way to live is to make nature a part of our lives.
+> There cannot have been any age in history when the natural environment has been considered as important as it is now. It can be said that people today consider it best to live in harmony with nature.
+~ X54-2 : been considered as important as it is today ; been considered as important as it is now
+~ X54-1 : important
+~ P54-1 : never before in history has the natural environment been considered as important as
+~ P27-2 : the best way to live is to
+~ P27-1 : consider it best to
+~ F11-4 : live in harmony with nature
+@E C8-1 | コラム | 英語は low context の言語である
+= high context「文脈依存が高い言語」（日本語）／ low context「文脈依存が低い言語」（英語）
+! 英語では誤解の責任は発信者にあることが多い。自由英作文では「言いたいこと」を明確に伝え、1つの主張を言い方を変えて反復し、具体例で補う。
+! 不適切な例「都会は交通量が多いので、車でどこへ行くのも時間がかかる」→ 電車・地下鉄との対比など具体的に書く。
+# pp.254-263（原則55 ～倍・例題55、Lecture 08 原則56 など）はスキャン画像が崩れて判読不能のため未収録。
+@L 08 | 仮定・譲歩の表現
+@pg 264
+@E P57-1 | 原則57-1 | （現実に）S'V'でも、S V
+= even though S' V', S V
+! even though ～ の「～」には話し手が事実とわかっている内容（although / though でも置き換え可）。
+@S 例1 | とても疲れていたが、腹筋を50回やった
+> Even though I was exhausted, I did fifty sit-ups.
+~ P57-1 : Even though I was exhausted
+@E P57-2 | 原則57-2 | （仮定を示して）S'V'でも、S V
+= even if S' V', S V
+! even if ～ の「～」には事実（になる）かどうかわからない内容。未来の内容でも条件節に will を入れない。
+@S 例2 | たとえ明日雨でも、その試合は予定通り行われる
+> Even if it rains tomorrow, the game will be played as scheduled.
+~ P57-2 : Even if it rains tomorrow
+@E P57-3 | 原則57-3 | （確実に起きる未来を示して）S'V'でも、S V
+= even when S' V', S V
+! 確実に起きる未来の内容に使う（日本語の形だけでは even if と区別できない）。条件節に will を入れない。
+@S 例3 | この料理はたとえ冷めてもおいしい
+> Even when it cools off, this dish is delicious.
+~ P57-3 : Even when it cools off
+@pg 265
+@E X57-1 | 例題57 解説1 | ～は今や常識だ
+= It is now well [widely] known that ～
+= It is now a well-known fact that ～
+= It is now common knowledge [× a common knowledge] that ～
+= Everyone [Everybody] now knows that ～
+! common sense「良識」はこの文では不適切。
+x It is common sense that ～
+@E X57-2 | 例題57 解説2 | タバコは高血圧や心臓病などの様々な病気を引き起こす
+= smoking [tobacco] causes various (kinds of) diseases [health problems] such as high blood pressure [hypertension] and heart disease
+= smoking [tobacco] leads to various (kinds of) diseases [health problems] including high blood pressure and heart disease
+! 「タバコ」は smoking / tobacco。「病気」は disease（個別の病名）が適切。heart disease / lung disease は不可算。such as の後に and so on は書かない。x such as A and B は x が複数形なら and が通例（or だと「どちらか」）。
+x such as high blood pressure, heart diseases and so on
+@pg 266
+@E X57-3 | 例題57 解説3 | だから
+= Therefore, S V.
+= That is why S V.
+= It follows that S V.
+= Considering [Given] this fact, S V.
+! 文語体では So(,) S V は避けたい。
+@E X57-4 | 例題57 解説4 | 当然ながら
+= obviously [clearly / naturally]
+= it is obvious [clear / natural] (that) S V
+= of course [needless to say], S V
+= it goes without saying (that) S V
+@E X57-5 | 例題57 解説5 | たとえ大人になっても
+= even when you are an adult [a grown-up]
+= even when you are old enough (to be allowed to smoke)
+! 確実に訪れる未来なので even if ではなく even when。「大人である状態」なので become ではなく be 動詞（When I am [× turn] 24, I will go to Italy.）。一般論の you は単数扱いなので an adult。
+x even if you become adults
+@pg 267
+@E X57-6 | 例題57 解説6 | タバコを吸ってはいけない
+= you should not smoke
+= it would be better for you not to smoke
+! アドバイスなので should。had better not (V) は口語的なので避けたい（否定は had better not）。
+x you had not better smoke
+@S 例題57 | タバコは高血圧や心臓病などの様々な病気を引き起こすというのは今や常識だ。だから、当然ながら、たとえ大人になってもタバコを吸ってはいけない。
+> Everyone now knows that smoking causes various diseases such as high blood pressure and heart disease. Therefore, it is obvious that even when you are an adult, you should not smoke.
+> It is now common knowledge that tobacco causes various health problems such as high blood pressure and heart disease. Therefore, obviously, it would be better for you not to smoke, even when you are old enough.
+~ X57-1 : Everyone now knows that ; It is now common knowledge that
+~ X57-2 : smoking causes various diseases such as high blood pressure and heart disease ; tobacco causes various health problems such as high blood pressure and heart disease
+~ X57-3 : Therefore
+~ X57-4 : it is obvious that ; obviously
+~ X57-5 : even when you are an adult ; even when you are old enough
+~ P57-3 : even when you are an adult ; even when you are old enough
+~ X57-6 : you should not smoke ; it would be better for you not to smoke
+@pg 268
+@E P58-1 | 原則58-1 | もし～ならば（起こり得る）
+= If S' + 現在形, S will V
+! 起こり得るかもしれない（と話者が考える）条件。「もしも～」「～なら」とあれば起こり得るかどうかを考える習慣をつける。
+@S 例1 | もし雨が降ったら海には行きません
+> If it rains, we will not go to the beach.
+~ P58-1 : If it rains, we will not go
+@E P58-2 | 原則58-2 | もし～ならば（起こり得ない）
+= If S' + 過去形, S would / could / might V
+! 起こり得ない（と話者が考える）条件。「もし～できるなら」は If S' could V'。If S' were to (V') は「もし仮に」、if S' should V' は「ないと思うがもし」（命令文と共に）。would「ほぼ確実に～するだろう」、might「ひょっとすると」、could「～できるかもしれない」。
+@S 例2 | もしフランス語が話せるのだったら、通訳をしてあげるのだが
+> If I could speak French, I would interpret for you.
+~ P58-2 : If I could speak French, I would interpret
+@S 注意3 例 | 何か助けが必要なら、知らせてください
+> If you should need any help, let me know.
+~ P58-2 : If you should need any help
+@pg 269
+@E X58-1 | 例題58 解説1 | 今の学生は漢字に弱いといわれる
+= Students today [nowadays / these days] are said to be poor [terrible / bad] at kanji, or Chinese characters.
+= It is said that students today have difficulty reading and writing kanji, or Chinese characters.
+! 「漢字」は kanji（不可算。各々の漢字は可算）。Chinese characters は中国の漢字も表すので不適切という人もいる。Chinese letters とは言わない。
+x Young students are said to be poor at Chinese letters.
+@E X58-2 | 例題58 解説2 | 学生がもし～なら…であろう
+= if they ～, S would [might] V ...
+! 「学生が頻繁に国語辞典を引く」可能性は低いと思われるので仮定法。「学生」は前に出ているので they。
+@pg 270
+@E X58-3 | 例題58 解説3 | 英和辞典／国語辞典を引く
+= look up words in an English-Japanese dictionary [a Japanese language dictionary]
+= consult an English-Japanese dictionary [a Japanese language dictionary]
+! 「辞典」は単数でも複数でもよい。look into words は「言葉の語源などを本格的に調査する」で間違い。
+x look into a Japanese language dictionary
+@E X58-4 | 例題58 解説4 | Bを引くせめて半分でよいからAを引けば
+= looked up (even / at least) half [× a half] as many words in A as they do in B
+= looked up words in A (even / at least) half as often [many times] as they do in B
+= consulted A (even / at least) half as often as they do B
+! 「せめて半分くらいの単語を」か「回数を」と考える。often を much にすると意味不明。前半は仮定法、後半の do は直説法なので they do は省略しない。
+x a half as much as they do
+@E X58-5 | 例題58 解説5 | ～でうんぬんされるようなことはなくなるであろう
+= perhaps [maybe] they would not be criticized for ～
+= perhaps [maybe] people would stop criticizing them for ～
+= perhaps [maybe] people would stop complaining that ～
+! 「批判される・文句を言われる」と解す。people を主語にした能動態も可。criticize + 人 + that S' V' は不可（受動態も不可）。stop を使わず would not ～ も可。complain は that 節以外では自動詞。
+x they will not be criticized that ～
+@pg 271
+@E X58-6 | 例題58 解説6 | 漢字の学力低下
+= they are poor [bad / terrible] at reading and writing [△ writing and reading] [at using] kanji [Chinese characters]
+= they know little [do not have enough knowledge] about kanji [Chinese characters]
+= their poor knowledge of kanji [Chinese characters]
+= their poor Chinese character skills [literacy]
+! 「学生が漢字の知識に乏しい」「漢字の読み書きが苦手」ぐらいにはっきり書く。副詞の much はすべての動詞と結びつくわけではない。
+x they do not use kanji characters
+@S 例題58 | 今の学生は漢字に弱いといわれる。学生がもし英和辞典を引くせめて半分でよいから国語辞典を引けば、漢字の学力低下でうんぬんされるようなことはなくなるであろう。
+> Students today are said to be poor at kanji, or Chinese characters. If they looked up even half as many words in Japanese language dictionaries as they do in English-Japanese dictionaries, perhaps they would not be criticized for their poor knowledge of Chinese characters.
+> It is said that students nowadays have difficulty reading and writing kanji, or Chinese characters. If they consulted Japanese language dictionaries at least half as often as they do English-Japanese dictionaries, people would stop complaining that they are poor at reading and writing Chinese characters.
+~ X58-1 : Students today are said to be poor at kanji, or Chinese characters ; It is said that students nowadays have difficulty reading and writing kanji, or Chinese characters
+~ X58-2 : If they looked up ; perhaps they would not ; If they consulted ; people would stop
+~ P58-2 : If they looked up ; would not be criticized ; If they consulted ; would stop complaining
+~ X58-3 : looked up even half as many words in Japanese language dictionaries ; consulted Japanese language dictionaries
+~ X58-4 : even half as many words in Japanese language dictionaries as they do in English-Japanese dictionaries ; at least half as often as they do English-Japanese dictionaries
+~ X58-5 : perhaps they would not be criticized for ; people would stop complaining that
+~ X58-6 : their poor knowledge of Chinese characters ; they are poor at reading and writing Chinese characters
+@pg 272
+@E P59-1 | 原則59-1 | もし～であったら、…だったのに
+= If S' had V'p.p., S would / could / might have Vp.p.
+! 「過去」のことを仮定する仮定法過去完了。「もし～ができていたら」は If S' could have V'p.p., S would [could / might] have Vp.p.
+@S 例1 | 私が君の立場なら、その契約書に署名しなかっただろうね
+> If I had been in your place, I would not have signed the contract.
+~ P59-1 : If I had been in your place, I would not have signed
+@S 注意2 例 | もし1週間休みがとれていたら、スイスまで旅行したのに
+> If I could have taken a week off, I would have traveled to Switzerland.
+~ R59-3 : If I could have taken a week off, I would have traveled
+@E P59-2 | 原則59-2 | もし～であったら、（今ごろ）…なのに
+= If S' had V'p.p., S would / could / might V now
+! 条件節が過去の話で帰結節は現在の話という変則的な形。
+@S 例2 | もし君があのとき私の忠告に従っていたら、今頃困っていないのに
+> If you had followed my advice at that time, you would not be in trouble now.
+~ P59-2 : If you had followed my advice at that time, you would not be in trouble now
+@pg 273
+@E X59-1 | 例題59 解説1 | バスが出発して間もなく
+= soon after the bus left [departed]
+! 「私が乗っている」バスなので the。「出発して1つめか2つめのバス停で」の意味なので start (to move) ではなく leave [depart]。depart は「～から出発する」なら from をともなう。
+x As soon as the bus started
+@S 解説 例 | 次の空港行きの列車は7番ホームから出発します
+> The next train to the airport departs from Platform Seven.
+~ X59-1 : departs from
+@pg 274
+@E X59-2 | 例題59 解説2 | 隣の席に、～が乗り合わせてきた
+= ～ sat beside me [next to me]
+= ～ took the seat beside me [next to me]
+! 座席が横の列なら beside / next to が適当（by は「近くに」で不適）。バスはすでに出発しているので got on は不要。
+x got on and sat by me
+@E X59-3 | 例題59 解説3 | 私とちょうど同じ年ごろの女子学生
+= a female student (of) about my age
+= a female student about the same age as I was [as me / × as mine]
+= a female student (who looked) about as old as I was [as me]
+! a girl / a high school student は訳語として不十分。one's [the same] age の前の of はしばしば省略（We are (of) the same age.）。
+@E X59-4 | 例題59 解説4 | 彼女と話し出すと、おもしろくて～
+= I began [started] to talk [talking] with [to] her and found the conversation so interesting that ～
+= we began to talk(,) and (we) enjoyed ourselves so much that ～
+= as we talked, I enjoyed myself so much that ～
+! 「人と話をする」は talk with [to]。conversation は単複が難しいので talk を使う。「彼女の話」に her talk / story は不可。when we began to talk, we enjoyed ourselves は唐突なので and。主語がはっきりしないときは人物を主語に（We enjoyed ourselves.）。
+x When I started to talk her, her story was interesting.
+@pg 275
+@E X59-5 | 例題59 解説5 | 運転手に告げられなかったら、乗り越しをしてしまっていたほどだ
+= if the driver had not announced my stop, I would [could / might] have missed my stop
+= if the driver had not told me (about my stop), I would [could / might] not have got off (at my stop)
+= if the driver had not reminded me, I would [could / might] have forgot to get off (at my stop)
+! 「過去」の描写なので仮定法過去完了。my stop は the stop that I was going to get off at の意味。
+x If the driver did not inform me, I would go past my stop.
+@S 例題59 | バスが出発して間もなく、隣の席に、私とちょうど同じ年ごろの女子学生が乗り合わせてきました。彼女と話し出すと、おもしろくて、運転手に告げられなかったら、乗り越しをしてしまっていたほどです。
+> Soon after the bus left, a female student about my age sat beside me. We began to talk and enjoyed ourselves so much that if the driver had not announced my stop, I would have missed my stop.
+> Soon after the bus departed, a female student about the same age as I was took the seat next to me. I talked with her and found the conversation so interesting that if the driver had not told me, I would not have got off.
+~ X59-1 : Soon after the bus left ; Soon after the bus departed
+~ X59-3 : a female student about my age ; a female student about the same age as I was
+~ X59-2 : sat beside me ; took the seat next to me
+~ X59-4 : We began to talk and enjoyed ourselves so much that ; I talked with her and found the conversation so interesting that
+~ R23-1 : so much that ; so interesting that
+~ X59-5 : if the driver had not announced my stop, I would have missed my stop ; if the driver had not told me, I would not have got off
+~ P59-1 : had not announced my stop, I would have missed ; had not told me, I would not have got off
+@pg 276
+@E P60-1 | 原則60-1 | 今、もし～がなければ、S Vだ
+= If it were not for [Without] ～, S would / could / might V
+! 仮定法過去の if 節の be 動詞は常に were が無難。without ～ は主節に否定文（または否定的な意味の文）を置くのが普通。If there were no A も可（A に固有名詞や one's + 名詞は不可）。
+@S 例1 | 水がなければどんな生き物も存在しないだろう
+> If it were not for water [Without water], no living things could exist.
+~ P60-1 : If it were not for water [Without water], no living things could exist
+@E P60-2 | 原則60-2 | もし～がなかったら、S Vだった
+= If it had not been for [Without] ～, S would / could / might have Vp.p.
+! If there had not been A も可。「もし～があれば」には慣用表現がない（If I had had this medicine, I could have cured her illness.）。
+@S 例2 | 彼の助けがなければ、困っていただろう
+> If it had not been for [Without] his help, we would have been in trouble.
+~ P60-2 : If it had not been for [Without] his help, we would have been in trouble
+@S 注意4 例 | もしこの薬があったなら、彼女の病気を治せたのに
+> If I had had this medicine, I could have cured her illness.
+~ R60-3 : If I had had this medicine, I could have cured
+@pg 277
+@E X60-1 | 例題60 解説1 | もし石油がなかったとしたら
+= without petroleum [oil]
+= if it were not for [if it had not been for] petroleum
+= if there were [if there had been] no petroleum (in the world)
+= if there were not [if there had not been] any oil (on earth)
+! oil は「石油」の意味でも用いられる。「石油が存在する」のは現在にも通じる現実なので仮定法過去でよい（仮定法過去完了でも間違いではない）（If I were you, I would not have signed such an unfair contract.）。
+x If it were not oil
+@E X60-2 | 例題60 解説2 | まったく違ったものになっていただろう
+= ～ would [might] have been completely [entirely] different (from what it used to be)
+= ～ would not have been the same
+! 「20世紀」は過去なので仮定法過去完了。different は very / strikingly / totally / remarkably / radically でも修飾可（so は「それほど」）。from ～ は省略する方がよい。its real history という言い方はない。
+x would be so different from its real history
+@pg 278
+@E X60-3 | 例題60 解説3 | 20世紀の歴史
+= the history of the 20th century
+= the history of the twentieth century
+! the history in the 20th century は不可。
+x the history of 20th century
+@E X60-4 | 例題60 解説4 | 現代文明の象徴である自動車や飛行機が存在するはずがない
+= neither automobiles nor airplanes, (which are) symbols of modern [present-day / △ present] civilization, would [could] have been invented
+= neither the automobile nor the airplane, which we take for granted [we regard / we think of] as symbols of modern civilization, would [could] have existed [exist]
+= there would not have been [be] any cars or planes, which characterize our civilization
+! 「発明されなかった」は仮定法過去完了、「存在しない」は過去完了・過去どちらも可。関係代名詞の前にはカンマが必要。characterize は symbolize / represent / stand for ～ でも可。「はずがない」は強い口調なので might は避ける。the symbols of ～ より the なしがよい。
+x Cars and planes which are the symbols of the modern civilization cannot exist.
+@pg 279
+@E F70-1 | 頻出表現70 | AもBも～ない
+= Neither A nor B ～
+! A and B + not ～ とするのは不可。
+x Chimpanzees and bonobos cannot use language.
+@S 頻出表現70 例 | チンパンジーもボノボも言語を使えない
+> Neither chimpanzees nor bonobos can use language.
+~ F70-1 : Neither chimpanzees nor bonobos
+@S 例題60 | もし石油がなかったとしたら、20世紀の歴史はまったく違ったものになっていただろう。現代文明の象徴である自動車や飛行機が存在するはずがない。
+> If it were not for petroleum, the history of the twentieth century would have been completely different. There would be no automobiles or airplanes, which are symbols of modern civilization.
+> Without oil, the history of the 20th century would have been entirely different. Neither automobiles nor airplanes, which we take for granted as symbols of modern civilization, would have been invented.
+~ X60-1 : If it were not for petroleum ; Without oil
+~ P60-1 : If it were not for petroleum ; Without oil
+~ X60-3 : the history of the twentieth century ; the history of the 20th century
+~ X60-2 : would have been completely different ; would have been entirely different
+~ X60-4 : There would be no automobiles or airplanes, which are symbols of modern civilization ; Neither automobiles nor airplanes, which we take for granted as symbols of modern civilization, would have been invented
+~ F70-1 : Neither automobiles nor airplanes
+@pg 280
+@E P61-1 | 原則61-1 | まるで～のように…
+= act / feel / look / talk as if S' V'
+! as if は使用範囲が狭いので上記の動詞と組み合わせる（treat + 人 + as if ～ も重要）。内容が明らかに事実に反する場合を除き現在形が今の傾向。as though も可。
+@S 例1 | マークはとても疲れた顔をしている。十分な休みを必要としているようだ
+> Mark looks very tired. He looks as if he needs [× needed] a good rest.
+~ P61-1 : He looks as if he needs
+@S 例2 | ナンシーのことは好きじゃない。何でも知っているというように話すから
+> I do not like Nancy. She talks as if she knew [△ knows] everything.
+~ P61-1 : She talks as if she knew
+@E P61-2 | 原則61-2 | まるで～したかのように…
+= act / feel / look / talk as if S' have V'p.p.
+! 今の英語では内容にかかわらず現在完了形が一般的。時制の一致で had Vp.p. になることもある。as if to say that S' V'「まるで～と言わんばかりに」は要暗記。
+@S 例3 | 1キロも走ったが、まるでフルマラソンしたみたいだ
+> I have just run one kilometer, but I feel as if I have run a marathon.
+~ P61-2 : I feel as if I have run
+@S 注意3 例 | まるでフルマラソンをしたみたいに感じた
+> I felt as if I had run a full marathon.
+~ P61-2 : I felt as if I had run
+@pg 281
+@E X61-1 | 例題61 解説1 | 昨夜この山小屋に着いた
+= Last night, I got to [reached / arrived at / came to] this mountain hut.
+! last night は文末でも可（at last night は不可）。hut は cottage / lodge でも可。未知の単語は「50%でも英語で伝える」（yamagoya と書かず came to this house / got here ぐらいは書く）。
+x Last night I reached to this yamagoya.
+@E F71-1 | 頻出表現71 | 〈last・this・these＋時を表す名詞〉には前置詞不要
+= this summer「この夏」（参考：in (the) summer「夏に」）
+= last weekend「先週末」（参考：on weekends「週末ごとに」）
+= these days「このごろ」（参考：in those days「その当時」）
+! this summer / this morning などに in をつけるのは間違い。
+x in this morning
+@pg 282
+@E X61-2 | 例題61 解説2 | 今朝は早く目を覚まし～
+= I woke up early this morning [× in this morning] and ～
+! get up は「ベッドから出る」で訳語として不適切。this morning は文頭でも可。
+@E X61-3 | 例題61 解説3 | 朝食前に1時間ほど散歩した
+= (I) took a walk [went out for a walk] (for) about an hour [for an hour or so] before breakfast
+! go (out) for a walk は「散歩に出る」だが期間の for ～ と一緒に使うことも可能。
+x before my breakfast
+@E F72-1 | 頻出表現72-① | 朝食・昼食・夕食
+= breakfast, lunch, dinner（原則的に不可算名詞）
+! 形容詞がつくと可算（a light lunch「軽い昼食」）。
+@S 頻出表現72 例 | 朝ごはんにカレーライスを食べた
+> I ate [had] rice and curry for breakfast.
+~ F72-1 : for breakfast
+@S 頻出表現72 例 | 夕飯はイタリアンレストランでとった
+> I ate [had] dinner at an Italian restaurant.
+~ F72-1 : dinner
+@E F72-2 | 頻出表現72-② | （定時の1回の）食事
+= a meal（可算名詞）
+@S 頻出表現72 例 | 1日に3回バランスのとれた食事をすることが健康の秘訣だ
+> Eating three well-balanced meals a day is the key to good health.
+~ F72-2 : three well-balanced meals
+@E F72-3 | 頻出表現72-③ | 食事中に
+= at (the) table
+@S 頻出表現72 例 | 食事をしながらおしゃべりを楽しんだ
+> We enjoyed talking at (the) table.
+~ F72-3 : at (the) table
+@pg 283
+@E X61-4 | 例題61 解説4 | 見るものすべてが新鮮で～
+= everything I see (now) [around me] is beautiful(,) and ～
+= everything I see (now) is so beautiful [new / magical] that ～
+! everything は「山」「川」なので fresh は奇異（fresh fruit / fish / vegetables / ideas）。
+x Everything I see is fresh
+@E X61-5 | 例題61 解説5 | まるで別世界に来たような感じだ
+= I feel as if I were [was / am] in a totally new world [in a different world]
+= I feel as if I have [△ had] entered another world
+! 「本当は別世界にいないのに」なら仮定法 were [was]、「本当にいる」気持ちなら am。「別世界に来た」に忠実なら 2（had entered は今ではほとんど使われない）。別世界は多数あるので the は不可。come to ～ より enter が普通。
+x I feel as if I had come to the different world.
+@pg 284
+@S 例題61 | 昨夜この山小屋に着きました。今朝は早く目を覚まし、朝食前に1時間ほど散歩しました。見るものすべてが新鮮で、まるで別世界に来たような感じです。
+> Last night, I got to this mountain hut. I woke up early this morning and took a walk about an hour before breakfast. Everything I see now is beautiful, and I feel as if I have entered another world.
+> I arrived at this mountain hut last night. I woke up early this morning and took a walk for an hour or so before breakfast. Everything I see now is so new that I feel as if I were in a totally new world.
+~ X61-1 : Last night, I got to this mountain hut ; I arrived at this mountain hut last night
+~ X61-2 : I woke up early this morning
+~ F71-1 : this morning
+~ X61-3 : took a walk about an hour before breakfast ; took a walk for an hour or so before breakfast
+~ X61-4 : Everything I see now is beautiful ; Everything I see now is so new that
+~ X61-5 : I feel as if I have entered another world ; I feel as if I were in a totally new world
+~ P61-1 : I feel as if I were
+~ P61-2 : I feel as if I have entered
+@E C9-1 | コラム | 英作文の鉄則：「偶然の一致」に頼らない
+= play baseball「野球をする」／ make a mistake「ミスをする」／ make an effort「努力する」／ do yoga「ヨガをする」
+! 日本語を要素に分解して英単語に当てはめたものは英作文ではない。コロケーションを知らない語は「確実に知っている」表現に変換する（「状況を判断する」→ decide what is going on around you）。
+@L 09 | 関係代名詞［副詞］節の表現
+@pg 286
+@E P62-1 | 原則62-1 | a ＋名詞（単数形）＋関係代名詞節／関係副詞節
+= a + 単数名詞 + 関係詞節
+! 関係詞節で限定される単数名詞が1つに決まらない場合は a / an。
+@S 例1 | ドイツは第二次世界大戦の敗戦国だ
+> Germany is a country which lost World War II.
+~ P62-1 : a country which
+@E P62-2 | 原則62-2 | 名詞（複数形）＋関係代名詞節／関係副詞節
+= 複数名詞 + 関係詞節（the なし）
+! the をつけると「すべての～」の意味になるので、母集団が大きい場合は the をつけないのが普通。
+@S 例2 | この学校に通う生徒はのんびりした生活を送っているようだ
+> Students who go to this school seem to be leading a peaceful life.
+~ P62-2 : Students who
+@E P62-3 | 原則62-3 | the ＋名詞（単数形）＋関係代名詞節／関係副詞節
+= the + 単数名詞 + 関係詞節
+@S 例3 | ドイツは私が生まれ育った国だ
+> Germany is the country where I was born and brought up.
+~ P62-3 : the country where
+@E P62-4 | 原則62-4 | the ＋名詞（複数形）＋関係代名詞節／関係副詞節
+= the + 複数名詞 + 関係詞節
+@S 例4 | 生徒会長に立候補した学生は、講堂で演説をしなければならない
+> The students who have run for student council president have to make a speech in the auditorium.
+~ P62-4 : The students who
+@pg 287
+@E X62-1 | 例題62 解説1 | 大多数の外国人にとって～
+= for most [the majority of] non-Japanese [foreign people / foreigners], ～
+= most [the majority of] non-Japanese [foreign people / foreigners] think that ～
+! 「大多数」は「大半」なので many ではない。〈most of + 無冠詞・複数形の名詞〉は不可。
+x For most of foreigners
+@E X62-2 | 例題62 解説2 | 日本は遠い国だ
+= Japan is a faraway [distant / △ far] country [land]
+= Japan is a country (that is) far away [distant] from their country
+! 「（距離が）遠い～」を a far ～ とするのは現在では一般的ではない。
+x Japan is a far country
+@pg 288
+@E F73-1 | 頻出表現73-① | 遠い～／近い～
+= a faraway [distant / △ far] country「遠い国」
+= a nearby [× near] park「近くの公園」
+! a far country は現在では一般的ではない。remote は「へんぴな」。near は前置詞、nearby は形容詞（ただし in the near future / the nearest station では near は形容詞扱い）。
+@E F73-2 | 頻出表現73-② | Aから遠い～／Aから近い～
+= a country a long way [far away] from Japan「日本から遠い国」
+= a country near Japan「日本から近い国」
+@E F73-3 | 頻出表現73-③ | 至近距離で
+= at [from] close [short] range
+! distance は使えない。
+@S 頻出表現73 例 | 至近距離でラッコを見る
+> watch a sea otter at close range
+~ F73-3 : at close range
+@E X62-3 | 例題62 解説3 | 西洋人から見れば、～
+= from a Western [western] point of view [perspective], ～
+= for the majority of [most] Westerners, ～
+= the majority of [most] Westerners (would) feel that ～
+! 「西洋人」は通例「欧米人」。2・3 は断定を避け「大半の」を補った方がよい。
+x For Europeans, ～
+@E X62-4 | 例題62 解説4 | ～はただAばかりでなく、Bだ
+= ～ is both A and B
+= ～ is not only A but (also) B
+! not only A but also B は英米人の多くが「あまり使わない」という。
+@pg 289
+@E X62-5 | 例題62 解説5 | ～は地理的に遠い場所だ
+= ～ is a geographically faraway [distant] place
+= ～ is geographically a long way (off) [distant]
+@E X62-6 | 例題62 解説6 | ～知っていることがほぼ何もない場所だ
+= ～ is a [× the] country [× place] (that / which) they know little [almost nothing] about
+= ～ is a country about which they know little
+! 「知識としてあまり知らない国」は多数あるので a country。know + 場所 は「住んでいる・よく訪れて知っている場所」の意味なので they hardly know は不可。既出の Japan は it で受けるのが自然。
+x the country which they hardly know
+@S 例題62 | 大多数の外国人にとって、日本は遠い国だ。西洋人から見れば、ただ地理的に遠いばかりでなく、知っていることがほぼ何もない場所だ。
+> For most non-Japanese, Japan is a faraway country. For the majority of Westerners, it is both geographically distant and a country that they know little about.
+> For the majority of foreigners, Japan is a long way from their lands. From a Western point of view, it is not only geographically distant but a country about which they know little.
+~ X62-1 : For most non-Japanese ; For the majority of foreigners
+~ X62-2 : Japan is a faraway country ; Japan is a long way from their lands
+~ F73-1 : a faraway country
+~ X62-3 : For the majority of Westerners ; From a Western point of view
+~ X62-4 : is both geographically distant and ; is not only geographically distant but
+~ X62-5 : geographically distant
+~ X62-6 : a country that they know little about ; a country about which they know little
+~ P62-1 : a country that ; a country about which
+@pg 290
+@E P63-1 | 原則63-1 | 固有名詞，（カンマ）＋関係詞節
+= 固有名詞, which [where] ～
+@S 例1 | その写真を見ると、昔住んでいたベニスを思い出す
+> The picture reminds me of Venice, where I used to live.
+~ P63-1 : Venice, where
+@E P63-2 | 原則63-2 | one's ＋名詞，（カンマ）＋関係詞節
+= one's + 名詞, which [where] ～
+! 複数ある（別荘を複数持っている）なら One of his villas where ...。
+@S 例2 | 先月私が滞在した彼の別荘には台所がなかった
+> His villa, where I stayed last month, had no kitchen.
+~ P63-2 : His villa, where
+@E P63-3 | 原則63-3 | 名詞（総称），（カンマ）＋関係詞節
+= 総称名詞, which ～
+! 「鳥は一般に～」という一般論なので birds を総称扱い。「飛べる鳥は飛べない鳥をバカにする」ではカンマ不要。「私の慣れていない英語」は English, which I am not used to（英語自体に不慣れ）／ the kind of English [× the English] I am not used to（このタイプの英語に不慣れ）。
+@S 例3 | 自分のひなに餌をやり守ってやる鳥と違って、魚は卵を生みっぱなしにする
+> Unlike birds, which feed and shelter their young, fish abandon their eggs.
+~ P63-3 : birds, which
+@pg 291
+@E X63-1 | 例題63 解説1 | ～海の環境
+= the environment of [× in] the sea [the ocean], which ～
+= the marine [△ the sea's] environment, which ～
+! 「70%を覆わない海の環境」があるという文脈ではないので、カンマ＋関係代名詞節＋カンマ。「海に属する環境」と考え of。
+x The environment in the sea which ～
+@E X63-2 | 例題63 解説2 | 地球の表面の70%を覆い
+= covers [accounts for / makes up] seventy percent [70% / × seventy percents] of the Earth's [the earth's] surface [the surface of the Earth / the surface of the earth] and ...
+= is covered with seven tenths of the earth's surface [the surface of the earth]
+! 1 は「70%を覆う／占める」、2 は「7割で覆われている」と考えた場合。percent は per centum「100につき」なので s をつけない。
+# pp.292-（例題63 解説3〜・解答）は判読不能のため未収録。
