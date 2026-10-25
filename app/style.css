@@ -246,7 +246,9 @@ legend { font-size: 12px; font-weight: 700; color: var(--muted); letter-spacing:
 
 /* ---------- 学習カード ---------- */
 .study-wrap { padding-top: 12px; }
-.study-top { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+.study-top { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+.study-nav { display: flex; align-items: center; gap: 10px; min-height: 30px; margin-bottom: 8px; }
+.study-nav .fine { margin: 0; font-size: 12px; }
 .progress { flex: 1; height: 6px; background: var(--line); border-radius: 6px; overflow: hidden; }
 .progress-bar { height: 100%; background: var(--accent); width: 0; transition: width .25s ease; }
 .study-count { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; min-width: 4.5em; text-align: right; }

@@ -473,7 +473,7 @@
       $("study-card").innerHTML = "";
       return;
     }
-    study = { type: type, queue: queue, done: 0, total: queue.length, again: 0, extra: extra, revealed: false };
+    study = { type: type, queue: queue, done: 0, total: queue.length, again: 0, extra: extra, revealed: false, history: [] };
     show("study");
     renderStudy();
   }
@@ -482,6 +482,8 @@
     var pct = study.total ? Math.round(study.done / study.total * 100) : 0;
     $("study-bar").style.width = pct + "%";
     $("study-count").textContent = study.done + " / " + study.total;
+    $("study-back").hidden = !study.history.length;
+    $("study-back-note").textContent = study.backed ? "評価を取り消しました。もう一度評価してください。" : "";
     if (!study.queue.length) return renderFinish();
     var it = study.queue[0];
     $("study-card").innerHTML = study.type === "e" ? expCard(it) : senCardStudy(it);
@@ -553,8 +555,15 @@
     return '<article class="card">' + h + "</article>";
   }
   function onGrade(g) {
-    var it = study.queue.shift();
+    var it = study.queue[0];
     var key = cardKey(study.type, it.id);
+    // 戻れるように、評価する前の状態を残しておく
+    study.history.push({
+      queue: study.queue.slice(), done: study.done, again: study.again, key: key,
+      prev: progress[key] ? Object.assign({}, progress[key]) : null, draft: study.draft || "",
+    });
+    study.queue.shift();
+    study.backed = false;
     grade(key, g);
     if (g === "again") {
       study.again++;
@@ -563,6 +572,18 @@
       study.done++;
     }
     study.revealed = false; study.draft = ""; study.hintExps = false; study.hintCloze = false;
+    renderStudy();
+    window.scrollTo(0, 0);
+  }
+  // 直前のカードに戻る：そのカードの評価を取り消し、答えを表示した状態で出し直す
+  function goBack() {
+    var h = study && study.history.pop();
+    if (!h) return;
+    study.queue = h.queue; study.done = h.done; study.again = h.again;
+    if (h.prev) progress[h.key] = h.prev; else delete progress[h.key];
+    scheduleSave();
+    study.revealed = true; study.draft = h.draft; study.hintExps = false; study.hintCloze = false;
+    study.backed = true;
     renderStudy();
     window.scrollTo(0, 0);
   }
@@ -912,6 +933,7 @@
       case "hint-exps": if (study) { study.draft = ($("my-answer") || {}).value || ""; study.hintExps = true; renderStudy(); } break;
       case "hint-cloze": if (study) { study.draft = ($("my-answer") || {}).value || ""; study.hintCloze = true; renderStudy(); } break;
       case "study-quit": location.hash = "home"; show("home"); break;
+      case "study-back": goBack(); break;
       case "sheet-close": case "sheet-backdrop": closeSheet(); break;
       case "exp-more": expShown += 60; renderExpList(); break;
       case "sen-more": senShown += 30; renderSenList(); break;
@@ -966,6 +988,7 @@
       if (ev.key === "Enter" && (ev.metaKey || ev.ctrlKey)) { ev.preventDefault(); $("reveal") && $("reveal").click(); }
       return;
     }
+    if (ev.key === "ArrowLeft" || ev.key === "Backspace") { ev.preventDefault(); goBack(); return; }
     if (!study.revealed && (ev.key === " " || ev.key === "Enter")) { ev.preventDefault(); $("reveal") && $("reveal").click(); }
     else if (study.revealed && ["1", "2", "3"].indexOf(ev.key) >= 0) onGrade(["again", "hard", "good"][Number(ev.key) - 1]);
   });
