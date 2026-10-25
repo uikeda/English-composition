@@ -18,6 +18,7 @@
       <a href="#home" data-view="home">学習</a>
       <a href="#expressions" data-view="expressions">表現</a>
       <a href="#sentences" data-view="sentences">例文</a>
+      <a href="#add" data-view="add">追加</a>
     </nav>
   </div>
 </header>
@@ -116,6 +117,7 @@
           <span class="hl k-phrase">頻出表現</span>
           <span class="hl k-note">例題の解説</span>
           <span class="hl k-column">コラム</span>
+          <span class="hl k-mine">自分で追加</span>
         </div>
       </section>
     </div>
@@ -135,6 +137,7 @@
             <option value="phrase">頻出表現</option>
             <option value="note">例題の解説</option>
             <option value="column">コラム</option>
+            <option value="mine">自分で追加</option>
           </select>
           <select id="exp-status" aria-label="学習状況">
             <option value="">すべて</option>
@@ -167,6 +170,42 @@
       </div>
       <p class="count" id="sen-count"></p>
       <div class="sen-list" id="sen-list"></div>
+    </div>
+  </section>
+
+  <!-- AI で追加 -->
+  <section id="view-add" class="view" hidden aria-labelledby="add-title">
+    <div class="wrap">
+      <h1 id="add-title" class="page-title">表現・例文を追加</h1>
+      <p class="lead">AI に頼むと、本と同じ形（日本語の意味・英語の型・注意点・誤用例）で表現をまとめ、それを使った例文を作ります。内容を確かめてから選んで追加してください。</p>
+      <p class="fine" id="mine-count"></p>
+      <div class="chat-log" id="chat-log" aria-live="polite"></div>
+      <div class="composer">
+        <label class="answer-label" for="chat-input">依頼（Ctrl / ⌘ + Enter で送信）</label>
+        <textarea id="chat-input" rows="3" placeholder="例：「～するのも無理はない」の表現を例文つきで追加して"></textarea>
+        <div class="composer-actions">
+          <button type="button" class="btn primary" id="chat-send">AI に送る</button>
+          <button type="button" class="btn" id="chat-stop" hidden>止める</button>
+          <button type="button" class="link-btn" id="chat-reset">新しい会話</button>
+        </div>
+        <p class="fine" id="ai-off" hidden>この画面からは AI を直接呼び出せません（AI を使えるのは claude.ai で開いたときです）。下の「ほかの AI チャットを使う」で追加できます。</p>
+        <p class="status-line" id="add-status" role="status"></p>
+      </div>
+      <details class="scope" id="manual-box">
+        <summary>ほかの AI チャットを使う（ChatGPT・Gemini・claude.ai など）</summary>
+        <div class="scope-body">
+          <ol class="steps">
+            <li>上の欄に依頼を書き、「依頼文をコピー」を押す。</li>
+            <li>AI チャットに貼り付けて送る。</li>
+            <li>返ってきた JSON をそのまま下の欄に貼り、「取り込む」を押す。</li>
+          </ol>
+          <button type="button" class="btn" id="copy-prompt">依頼文をコピー</button>
+          <textarea id="copy-box" rows="4" hidden aria-label="コピーする依頼文"></textarea>
+          <label class="answer-label" for="paste-json">AI の回答を貼り付け</label>
+          <textarea id="paste-json" rows="5" spellcheck="false" placeholder='{"reply": "...", "expressions": [...], "sentences": [...]}'></textarea>
+          <button type="button" class="btn primary" id="import-json">取り込む</button>
+        </div>
+      </details>
     </div>
   </section>
 

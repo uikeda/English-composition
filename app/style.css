@@ -17,6 +17,7 @@
   --m-note: #c8e3fb;
   --m-column: #f9cfe2;
   --m-ink: #1b2232;
+  --m-mine: #e3d4fb;
   --shadow: 0 1px 2px rgba(27, 34, 50, .06), 0 4px 16px rgba(27, 34, 50, .05);
   --f-ui: "Zen Kaku Gothic New", "Hiragino Sans", "Yu Gothic", "Noto Sans JP", system-ui, sans-serif;
   --f-en: "Newsreader", "Georgia", "Times New Roman", serif;
@@ -26,18 +27,19 @@
   :root:not([data-theme="light"]) {
     --paper: #12151b; --surface: #1a1e26; --ink: #e5e8ee; --muted: #9ba5b5; --line: #2b313c;
     --accent: #8fa8ff; --accent-ink: #10142a; --accent-soft: #232b45; --red: #ff7b72; --good: #5fd39a; --warn: #f0b45a;
-    --m-rule: #6b5a12; --m-phrase: #1f5a33; --m-note: #1d4767; --m-column: #6a2a48; --m-ink: #f4f6fa;
+    --m-rule: #6b5a12; --m-phrase: #1f5a33; --m-note: #1d4767; --m-column: #6a2a48; --m-mine: #4a3473; --m-ink: #f4f6fa;
     --shadow: 0 1px 2px rgba(0, 0, 0, .3); color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --paper: #12151b; --surface: #1a1e26; --ink: #e5e8ee; --muted: #9ba5b5; --line: #2b313c;
   --accent: #8fa8ff; --accent-ink: #10142a; --accent-soft: #232b45; --red: #ff7b72; --good: #5fd39a; --warn: #f0b45a;
-  --m-rule: #6b5a12; --m-phrase: #1f5a33; --m-note: #1d4767; --m-column: #6a2a48; --m-ink: #f4f6fa;
+  --m-rule: #6b5a12; --m-phrase: #1f5a33; --m-note: #1d4767; --m-column: #6a2a48; --m-mine: #4a3473; --m-ink: #f4f6fa;
   --shadow: 0 1px 2px rgba(0, 0, 0, .3); color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 body {
   margin: 0;
   background: var(--paper);
@@ -323,3 +325,30 @@ textarea {
 .book > summary { cursor: pointer; padding: 8px 0; font-size: 13px; font-weight: 700; color: var(--accent); }
 .book[open] > summary { border-bottom: 1px dashed var(--line); margin-bottom: 4px; }
 .forms.small li { font-size: 15px; }
+
+/* ---------- 自分で追加 ---------- */
+.hl.k-mine, .exp-chip.k-mine, .hint-exp.k-mine { --m: var(--m-mine); }
+.tag.k-mine { background: var(--m-mine); }
+.lead { color: var(--muted); margin: -6px 0 6px; font-size: 14px; }
+.chat-log { display: grid; gap: 10px; margin: 12px 0; }
+.msg { border-radius: 14px; padding: 10px 14px; max-width: 100%; min-width: 0; }
+.msg p { margin: 0 0 4px; white-space: pre-wrap; overflow-wrap: anywhere; }
+.msg.user { background: var(--accent-soft); justify-self: end; max-width: 85%; }
+.msg.ai { background: var(--surface); border: 1px solid var(--line); }
+.msg.intro ul { margin: 4px 0 0; padding-left: 1.2em; color: var(--muted); font-size: 14px; }
+.msg.pending p { color: var(--muted); }
+.composer { display: grid; gap: 6px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 12px 14px; }
+.composer textarea { font-family: var(--f-ui); font-size: 15px; }
+.composer-actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.status-line { margin: 0; font-size: 13px; color: var(--red); min-height: 1em; }
+.status-line:empty { display: none; }
+.proposal { display: grid; gap: 8px; margin-top: 8px; }
+.prop-item { display: flex; gap: 10px; align-items: flex-start; border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; cursor: pointer; }
+.prop-item input { margin-top: 5px; accent-color: var(--accent); flex: none; }
+.prop-body { min-width: 0; flex: 1; }
+.prop-body .jp { margin-top: 4px; }
+.warn { color: var(--warn); font-size: 13px; margin: 4px 0 0; }
+.done-note { color: var(--good); font-size: 14px; margin: 0; font-weight: 700; }
+.manage { margin-top: 10px; text-align: right; }
+.steps { margin: 0; padding-left: 1.3em; font-size: 14px; color: var(--muted); }
+#manual-box textarea { width: 100%; padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); font-size: 13px; }
