@@ -21,8 +21,10 @@
 
   var KIND_LABEL = { rule: "原則", phrase: "頻出表現", note: "例題の解説", column: "コラム", mine: "自分で追加" };
   var KINDS = ["rule", "phrase", "note", "column", "mine"];
-  var INTERVALS = [0, 1, 2, 4, 8, 16, 32]; // box ごとの復習間隔（日）
-  var KNOWN_BOX = 3;
+  // 復習間隔：忘却曲線に合わせ、思い出せるたびにカードごとの倍率（ease）で間隔を伸ばす（SM-2 方式）
+  var LEGACY_INTERVALS = [0, 1, 2, 4, 8, 16, 32]; // 旧方式の box ごとの間隔（移行用）
+  var EASE_START = 2.5, EASE_MIN = 1.3, MAX_INTERVAL = 365;
+  var KNOWN_DAYS = 7; // 7日以上あけても思い出せたカードを「覚えた」とする
 
   // ---------- 小物 ----------
   function $(id) { return document.getElementById(id); }
@@ -146,18 +148,58 @@
     var s = progress[key];
     if (!s) return "new";
     if (s.w && s.w >= today() - 7) return "weak";
-    return s.b >= KNOWN_BOX ? "known" : "learning";
+    return interval(s) >= KNOWN_DAYS ? "known" : "learning";
+  }
+  // 旧方式（box）の記録も間隔・倍率に読み替える
+  function interval(s) { return s.iv != null ? s.iv : (LEGACY_INTERVALS[s.b] || 0); }
+  function ease(s) { return s.ef || EASE_START; }
+  // 評価 g をつけたときの次の状態（画面の「◯日後」表示にも使う）
+  function schedule(prev, g) {
+    var t = today();
+    var s = Object.assign({ d: t, n: 0, l: 0 }, prev || {});
+    var iv = interval(s), ef = ease(s);
+    var late = Math.max(0, t - s.d); // 予定より遅れて思い出せた日数
+    if (g === "again") {
+      ef = Math.max(EASE_MIN, ef - 0.2); iv = 0; s.l += 1; s.w = t;
+    } else if (g === "hard") {
+      ef = Math.max(EASE_MIN, ef - 0.15);
+      iv = Math.max(1, Math.round(iv * 1.2));
+    } else {
+      if (iv < 1) iv = 1;
+      else if (iv < 3) iv = 3;
+      else iv = Math.round((iv + late / 2) * ef);
+    }
+    s.iv = Math.min(iv, MAX_INTERVAL); s.ef = Math.round(ef * 100) / 100;
+    s.d = t + s.iv; s.n += 1; s.t = Date.now();
+    delete s.b;
+    return s;
   }
   function grade(key, g) {
-    var s = Object.assign({ b: 0, d: 0, n: 0, l: 0 }, progress[key] || {});
-    var t = today();
-    s.n += 1;
-    if (g === "again") { s.b = 0; s.d = t; s.l += 1; s.w = t; }
-    else if (g === "hard") { s.b = Math.max(1, Math.min(s.b, 2)); s.d = t + 1; }
-    else { s.b = Math.min(s.b + 1, INTERVALS.length - 1); s.d = t + INTERVALS[s.b]; }
-    s.t = Date.now();
-    progress[key] = s;
+    progress[key] = schedule(progress[key], g);
     scheduleSave();
+  }
+  function dueItems() {
+    var t = today(), out = [];
+    [["e", DATA.expressions], ["s", DATA.sentences]].forEach(function (pair) {
+      pair[1].forEach(function (it) {
+        var s = progress[cardKey(pair[0], it.id)];
+        if (s && s.d <= t) out.push({ t: pair[0], it: it, d: s.d });
+      });
+    });
+    return out.sort(function (a, b) { return a.d - b.d; });
+  }
+  // 今後の復習予定（今日から n 日分）
+  function forecast(n) {
+    var t = today(), days = [];
+    for (var i = 0; i < n; i++) days.push(0);
+    [["e", DATA.expressions], ["s", DATA.sentences]].forEach(function (pair) {
+      pair[1].forEach(function (it) {
+        var s = progress[cardKey(pair[0], it.id)];
+        var k = s ? s.d - t : n;
+        if (k < n) days[Math.max(0, k)]++;
+      });
+    });
+    return days;
   }
 
   function expPool() {
@@ -175,7 +217,7 @@
     items.forEach(function (it) {
       var k = cardKey(type, it.id), s = progress[k];
       if (!s) { c.fresh++; return; }
-      if (s.b >= KNOWN_BOX) c.known++;
+      if (interval(s) >= KNOWN_DAYS) c.known++;
       if (s.d <= t) c.due++;
       if (s.w && s.w >= t - 7) c.weak++;
     });
@@ -333,10 +375,11 @@
     var ce = counts("e", expPool()), cs = counts("s", senPool(prefs.senScope));
     var allE = counts("e", DATA.expressions), allS = counts("s", DATA.sentences.filter(function (s) { return s.main; }));
     $("stats").innerHTML =
-      stat("今日の復習", ce.due + cs.due, "表現 " + ce.due + " · 例文 " + cs.due) +
+      stat("今日の復習", dueItems().length, "復習の時期が来たカード") +
       stat("覚えた表現", allE.known + '<small> / ' + allE.total + "</small>", meter(allE.known, allE.total)) +
       stat("覚えた例題", allS.known + '<small> / ' + allS.total + "</small>", meter(allS.known, allS.total)) +
       stat("苦手", allE.weak + counts("s", DATA.sentences).weak, "直近7日で間違えたカード");
+    renderReview();
     $("deck-exp-meta").innerHTML = deckMeta(ce);
     $("deck-sen-meta").innerHTML = deckMeta(cs);
     $("exp-direction").value = prefs.direction;
@@ -353,6 +396,19 @@
       return '<label class="chip' + (on ? " on" : "") + '"><input type="checkbox" data-kind="' + k + '"' +
         (on ? " checked" : "") + "> " + KIND_LABEL[k] + "</label>";
     }).join("");
+  }
+  function renderReview() {
+    var due = dueItems(), fc = forecast(8);
+    var e = due.filter(function (x) { return x.t === "e"; }).length;
+    $("review-meta").innerHTML = due.length
+      ? "<span><b>" + due.length + "</b> 枚が復習の時期です</span><span>表現 " + e + " · 例文 " + (due.length - e) + "</span>"
+      : "<span>今日の復習はありません</span>";
+    $("start-review").disabled = !due.length;
+    var names = ["明日", "2日後", "3日後", "4日後", "5日後", "6日後", "7日後"];
+    var later = fc.slice(1).reduce(function (a, b) { return a + b; }, 0);
+    $("review-forecast").innerHTML = '<p class="mini-title">復習の予定</p><ol class="forecast">' + names.map(function (n, i) {
+      return '<li><span class="fc-day">' + n + '</span><span class="fc-num">' + fc[i + 1] + "</span></li>";
+    }).join("") + "</ol>" + (later ? "" : '<p class="fine">まだ予定はありません。カードを学習すると、思い出しやすさに合わせて復習日が入ります。</p>');
   }
   function meter(a, b) {
     var pct = b ? Math.round(a / b * 100) : 0;
@@ -455,19 +511,25 @@
     });
     due.sort(function (a, b) { return progress[cardKey(type, a.id)].d - progress[cardKey(type, b.id)].d; });
     if (prefs.order === "random") { shuffle(due); shuffle(fresh); }
-    return due.concat(fresh.slice(0, Number(prefs.newLimit)));
+    return due.concat(fresh.slice(0, Number(prefs.newLimit))).map(function (it) { return { t: type, it: it }; });
   }
   function startStudy(type) {
-    var items = type === "e" ? expPool() : senPool(prefs.senScope);
-    var queue = buildQueue(type, items);
-    var extra = false;
-    if (!queue.length && items.length) {
-      // 予定のカードがなければ、覚えていない順に先取り復習
-      queue = items.slice().sort(function (a, b) {
-        var sa = progress[cardKey(type, a.id)], sb = progress[cardKey(type, b.id)];
-        return (sa ? sa.b : 0) - (sb ? sb.b : 0) || (sa ? sa.d : 0) - (sb ? sb.d : 0);
-      }).slice(0, Number(prefs.newLimit) === 9999 ? items.length : Number(prefs.newLimit));
-      extra = true;
+    var queue, extra = false;
+    if (type === "r") {
+      // 復習：予定日が来たカードだけ（出題範囲の設定に関係なく、遅れているものから）
+      queue = dueItems();
+    } else {
+      var items = type === "e" ? expPool() : senPool(prefs.senScope);
+      queue = buildQueue(type, items);
+      if (!queue.length && items.length) {
+        // 予定のカードがなければ、覚えていない順に先取り復習
+        queue = items.slice().sort(function (a, b) {
+          var sa = progress[cardKey(type, a.id)], sb = progress[cardKey(type, b.id)];
+          return (sa ? interval(sa) : 0) - (sb ? interval(sb) : 0) || (sa ? sa.d : 0) - (sb ? sb.d : 0);
+        }).slice(0, Number(prefs.newLimit) === 9999 ? items.length : Number(prefs.newLimit))
+          .map(function (it) { return { t: type, it: it }; });
+        extra = true;
+      }
     }
     if (!queue.length) {
       $("study-card").innerHTML = "";
@@ -485,21 +547,27 @@
     $("study-back").hidden = !study.history.length;
     $("study-back-note").textContent = study.backed ? "評価を取り消しました。もう一度評価してください。" : "";
     if (!study.queue.length) return renderFinish();
-    var it = study.queue[0];
-    $("study-card").innerHTML = study.type === "e" ? expCard(it) : senCardStudy(it);
+    var q = study.queue[0];
+    $("study-card").innerHTML = q.t === "e" ? expCard(q.it) : senCardStudy(q.it);
     var input = $("my-answer");
     if (input) {
       if (study.draft) input.value = study.draft;
       input.focus({ preventScroll: true });
     }
   }
+  function dayLabel(n) {
+    if (n <= 0) return "このあとすぐ";
+    if (n === 1) return "明日";
+    if (n < 30) return n + "日後";
+    if (n < 365) return "約" + Math.round(n / 30) + "か月後";
+    return "約1年後";
+  }
   function gradeButtons(key) {
-    var s = progress[key], b = s ? s.b : 0;
-    var next = INTERVALS[Math.min(b + 1, INTERVALS.length - 1)];
+    var s = progress[key];
     return '<div class="grades">' +
       '<button type="button" class="grade again" data-grade="again"><b>もう一度</b><span>このあとすぐ</span></button>' +
-      '<button type="button" class="grade hard" data-grade="hard"><b>あやふや</b><span>明日</span></button>' +
-      '<button type="button" class="grade good" data-grade="good"><b>覚えた</b><span>' + next + "日後</span></button></div>";
+      '<button type="button" class="grade hard" data-grade="hard"><b>あやふや</b><span>' + dayLabel(schedule(s, "hard").iv) + "</span></button>" +
+      '<button type="button" class="grade good" data-grade="good"><b>覚えた</b><span>' + dayLabel(schedule(s, "good").iv) + "</span></button></div>";
   }
   function expCard(e) {
     var key = cardKey("e", e.id), front, back = "";
@@ -556,7 +624,7 @@
   }
   function onGrade(g) {
     var it = study.queue[0];
-    var key = cardKey(study.type, it.id);
+    var key = cardKey(it.t, it.it.id);
     // 戻れるように、評価する前の状態を残しておく
     study.history.push({
       queue: study.queue.slice(), done: study.done, again: study.again, key: key,
@@ -590,11 +658,14 @@
   function renderFinish() {
     $("study-bar").style.width = "100%";
     var type = study.type;
+    var nextDue = dueItems().length;
     $("study-card").innerHTML = '<article class="card finish">' +
       '<h2 class="prompt-jp">おつかれさまでした</h2>' +
       "<p>" + study.total + " 枚を学習しました" + (study.again ? "（もう一度：" + study.again + " 回）" : "") + "。</p>" +
       (study.extra ? '<p class="fine">今日の予定分は終わっていたので、覚えていない順に先取りで復習しました。</p>' : "") +
-      '<div class="finish-actions"><button type="button" class="btn primary" id="again-session" data-type="' + type + '">続けて学習する</button>' +
+      (type === "r" ? '<p class="fine">次の復習予定はホームの「復習の予定」で確認できます。</p>' : "") +
+      '<div class="finish-actions">' + (type === "r" && !nextDue ? "" :
+        '<button type="button" class="btn primary" id="again-session" data-type="' + type + '">続けて学習する</button>') +
       '<a class="btn" href="#home" data-view="home">学習ホームへ</a></div></article>';
   }
 
@@ -928,6 +999,7 @@
     switch (t.id) {
       case "start-exp": startStudy("e"); break;
       case "start-sen": startStudy("s"); break;
+      case "start-review": startStudy("r"); break;
       case "again-session": startStudy(t.getAttribute("data-type")); break;
       case "reveal": if (study) { var a = $("my-answer"); if (a) study.draft = a.value; study.revealed = true; renderStudy(); } break;
       case "hint-exps": if (study) { study.draft = ($("my-answer") || {}).value || ""; study.hintExps = true; renderStudy(); } break;
